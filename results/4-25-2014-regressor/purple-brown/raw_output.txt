@@ -1,0 +1,23 @@
+Availability of Real purple-brown model:	0.001131
+Availability of Created purple brown model:	0.004063
+Percentage Change of Availabilities:	2.592176
+
+Real purple-brown model on purple-brown points:	-1086.137675
+Created purple brown model on purple-brown points:	-1355.365095
+Total Points:	82
+Log Likelihood Ratio:	-538.454839
+Perplexity of purple brown on purple-brown:	1.004951
+
+Raw Models:
+Name:		purple-brown
+Availability:	0.001131
+Hue Adjust:	True
+mu1: -8.198056, sh1: 4.677763, sc1: 3.944521, mu2: -5.459430, sh2: 3.839997, sc2: 5.649177 mu1: 48.555584, sh1: 3.637246, sc1: 8.056971, mu2: 53.616203, sh2: 4.500418, sc2: 2.074204 mu1: 39.387794, sh1: 3.312283, sc1: 5.067641, mu2: 42.652497, sh2: 3.507905, sc2: 5.715108 
+
+Name:		purple brown
+Availability:	0.004063
+Hue Adjust:	False
+mu1: 27.301088, sh1: 2.941974, sc1: 5.149252, mu2: 31.918120, sh2: 3.062371, sc2: 6.537879 mu1: 71.171555, sh1: 3.570297, sc1: 6.422669, mu2: 82.141784, sh2: 5.006358, sc2: 5.923688 mu1: 55.513296, sh1: 4.694651, sc1: 4.428249, mu2: 61.450176, sh2: 5.230546, sc2: 3.918228 
+
+--------------
+

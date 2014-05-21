@@ -1,0 +1,1130 @@
+Order is availability out, availability in, offset 0 avail in, offset 0 avail out
+
+Availability of green:	0.822933
+Availability of yellow:	0.478669
+Availability of green-yellow:	0.022888
+Availability of yellow-green:	0.095190
+
+With Availability Taken Out:
+green-yellow model on green-yellow points:	-11895.144937
+yellow-green model on green-yellow points:	-11895.146553
+Total Points:	738
+Log Likelihood Ratio:	-0.003233
+Perplexity of yellow-green on green-yellow:	1.000000
+
+yellow-green model on yellow-green points:	-57493.204606
+green-yellow model on yellow-green points:	-57493.196590
+Total Points:	3567
+Log Likelihood Ratio:	-0.016031
+Perplexity of green-yellow on yellow-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of orange:	0.578533
+Availability of red-orange:	0.069906
+Availability of orange-red:	0.030431
+
+With Availability Taken Out:
+red-orange model on red-orange points:	-17423.626039
+orange-red model on red-orange points:	-17423.620436
+Total Points:	1081
+Log Likelihood Ratio:	0.011206
+Perplexity of orange-red on red-orange:	1.000000
+
+orange-red model on orange-red points:	-7591.605431
+red-orange model on orange-red points:	-7591.608036
+Total Points:	471
+Log Likelihood Ratio:	0.005210
+Perplexity of red-orange on orange-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of brown:	0.290766
+Availability of green-brown:	0.006798
+Availability of brown-green:	0.004458
+
+With Availability Taken Out:
+green-brown model on green-brown points:	-4513.063026
+brown-green model on green-brown points:	-4513.063162
+Total Points:	280
+Log Likelihood Ratio:	-0.000273
+Perplexity of brown-green on green-brown:	1.000000
+
+brown-green model on brown-green points:	-3255.852917
+green-brown model on brown-green points:	-3255.852984
+Total Points:	202
+Log Likelihood Ratio:	0.000134
+Perplexity of green-brown on brown-green:	1.000000
+
+------------
+
+Availability of brown:	0.290766
+Availability of orange:	0.578533
+Availability of brown-orange:	0.008898
+Availability of orange-brown:	0.012730
+
+With Availability Taken Out:
+brown-orange model on brown-orange points:	-2820.662455
+orange-brown model on brown-orange points:	-2820.664431
+Total Points:	175
+Log Likelihood Ratio:	-0.003954
+Perplexity of orange-brown on brown-orange:	1.000000
+
+orange-brown model on orange-brown points:	-7720.561083
+brown-orange model on orange-brown points:	-7720.555190
+Total Points:	479
+Log Likelihood Ratio:	-0.011786
+Perplexity of brown-orange on orange-brown:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of red:	0.614701
+Availability of pink-red:	0.005944
+Availability of red-pink:	0.015183
+
+With Availability Taken Out:
+pink-red model on pink-red points:	-2337.120104
+red-pink model on pink-red points:	-2337.116648
+Total Points:	145
+Log Likelihood Ratio:	0.006913
+Perplexity of red-pink on pink-red:	1.000000
+
+red-pink model on red-pink points:	-3046.311859
+pink-red model on red-pink points:	-3046.315766
+Total Points:	189
+Log Likelihood Ratio:	0.007814
+Perplexity of pink-red on red-pink:	1.000000
+
+------------
+
+Availability of grey:	0.086056
+Availability of brown:	0.290766
+Availability of grey-brown:	0.004920
+Availability of brown-grey:	0.002659
+
+With Availability Taken Out:
+grey-brown model on grey-brown points:	-6092.638245
+brown-grey model on grey-brown points:	-6092.635743
+Total Points:	378
+Log Likelihood Ratio:	0.005004
+Perplexity of brown-grey on grey-brown:	1.000000
+
+brown-grey model on brown-grey points:	-1305.564723
+grey-brown model on brown-grey points:	-1305.565328
+Total Points:	81
+Log Likelihood Ratio:	0.001210
+Perplexity of grey-brown on brown-grey:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of purple:	0.744586
+Availability of pink-purple:	0.018870
+Availability of purple-pink:	0.004924
+
+With Availability Taken Out:
+pink-purple model on pink-purple points:	-9106.711440
+purple-pink model on pink-purple points:	-9106.720332
+Total Points:	565
+Log Likelihood Ratio:	-0.017784
+Perplexity of purple-pink on pink-purple:	1.000000
+
+purple-pink model on purple-pink points:	-7349.848801
+pink-purple model on purple-pink points:	-7349.841942
+Total Points:	456
+Log Likelihood Ratio:	-0.013717
+Perplexity of pink-purple on purple-pink:	1.000000
+
+------------
+
+Availability of yellow:	0.478669
+Availability of orange:	0.578533
+Availability of yellow-orange:	0.016425
+Availability of orange-yellow:	0.026919
+
+With Availability Taken Out:
+yellow-orange model on yellow-orange points:	-7720.558455
+orange-yellow model on yellow-orange points:	-7720.527702
+Total Points:	479
+Log Likelihood Ratio:	0.061507
+Perplexity of orange-yellow on yellow-orange:	1.000000
+
+orange-yellow model on orange-yellow points:	-3062.422443
+yellow-orange model on orange-yellow points:	-3062.434479
+Total Points:	190
+Log Likelihood Ratio:	0.024070
+Perplexity of yellow-orange on orange-yellow:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of brown:	0.290766
+Availability of red-brown:	0.014543
+Availability of brown-red:	0.002729
+
+With Availability Taken Out:
+red-brown model on red-brown points:	-7865.623259
+brown-red model on red-brown points:	-7865.622492
+Total Points:	488
+Log Likelihood Ratio:	0.001535
+Perplexity of brown-red on red-brown:	1.000000
+
+brown-red model on brown-red points:	-1611.807990
+red-brown model on brown-red points:	-1611.808120
+Total Points:	100
+Log Likelihood Ratio:	0.000261
+Perplexity of red-brown on brown-red:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of purple:	0.744586
+Availability of red-purple:	0.003274
+Availability of purple-red:	0.003536
+
+With Availability Taken Out:
+red-purple model on red-purple points:	-3529.861335
+purple-red model on red-purple points:	-3529.860643
+Total Points:	219
+Log Likelihood Ratio:	0.001384
+Perplexity of purple-red on red-purple:	1.000000
+
+purple-red model on purple-red points:	-1676.280423
+red-purple model on purple-red points:	-1676.281046
+Total Points:	104
+Log Likelihood Ratio:	0.001246
+Perplexity of red-purple on purple-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of blue:	0.630273
+Availability of green-blue:	0.013728
+Availability of blue-green:	0.030229
+
+With Availability Taken Out:
+green-blue model on green-blue points:	-11347.133067
+blue-green model on green-blue points:	-11347.135194
+Total Points:	704
+Log Likelihood Ratio:	-0.004253
+Perplexity of blue-green on green-blue:	1.000000
+
+blue-green model on blue-green points:	-42471.166419
+green-blue model on blue-green points:	-42471.159227
+Total Points:	2635
+Log Likelihood Ratio:	-0.014385
+Perplexity of green-blue on blue-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of violet:	0.043168
+Availability of red violet:	0.004446
+Availability of violet red:	0.001325
+
+With Availability Taken Out:
+red violet model on red violet points:	-4093.993785
+violet red model on red violet points:	-4093.991463
+Total Points:	254
+Log Likelihood Ratio:	0.004644
+Perplexity of violet red on red violet:	1.000000
+
+violet red model on violet red points:	-628.604997
+red violet model on violet red points:	-628.605374
+Total Points:	39
+Log Likelihood Ratio:	0.000755
+Perplexity of red violet on violet red:	1.000000
+
+------------
+
+Availability of purple:	0.744586
+Availability of grey:	0.086056
+Availability of purple grey:	0.004457
+Availability of grey purple:	0.004736
+
+With Availability Taken Out:
+purple grey model on purple grey points:	-6882.425219
+grey purple model on purple grey points:	-6882.425153
+Total Points:	427
+Log Likelihood Ratio:	0.000131
+Perplexity of grey purple on purple grey:	1.000000
+
+grey purple model on grey purple points:	-7865.628610
+purple grey model on grey purple points:	-7865.628749
+Total Points:	488
+Log Likelihood Ratio:	0.000279
+Perplexity of purple grey on grey purple:	1.000000
+
+------------
+
+Availability of violet:	0.043168
+Availability of blue:	0.630273
+Availability of violet blue:	0.004379
+Availability of blue violet:	0.009484
+
+With Availability Taken Out:
+violet blue model on violet blue points:	-2788.428317
+blue violet model on violet blue points:	-2788.428897
+Total Points:	173
+Log Likelihood Ratio:	-0.001160
+Perplexity of blue violet on violet blue:	1.000000
+
+blue violet model on blue violet points:	-9525.788761
+violet blue model on blue violet points:	-9525.786912
+Total Points:	591
+Log Likelihood Ratio:	-0.003699
+Perplexity of violet blue on blue violet:	1.000000
+
+------------
+
+Out of 14 cases, 5 of them no models did better on their twin, 1 of them one model did better on its twin, and 8 both of them did better on their twins
+
+
+Availability of green:	0.822933
+Availability of yellow:	0.478669
+Availability of green-yellow:	0.022888
+Availability of yellow-green:	0.095190
+
+With Availability Taken Out:
+green-yellow model on green-yellow points:	-11895.154369
+yellow-green model on green-yellow points:	-11895.153825
+Total Points:	738
+Log Likelihood Ratio:	0.001088
+Perplexity of yellow-green on green-yellow:	1.000000
+
+yellow-green model on yellow-green points:	-57493.243134
+green-yellow model on yellow-green points:	-57493.246029
+Total Points:	3567
+Log Likelihood Ratio:	0.005791
+Perplexity of green-yellow on yellow-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of orange:	0.578533
+Availability of red-orange:	0.069906
+Availability of orange-red:	0.030431
+
+With Availability Taken Out:
+red-orange model on red-orange points:	-17423.658927
+orange-red model on red-orange points:	-17423.660152
+Total Points:	1081
+Log Likelihood Ratio:	-0.002451
+Perplexity of orange-red on red-orange:	1.000000
+
+orange-red model on orange-red points:	-7591.622515
+red-orange model on orange-red points:	-7591.622002
+Total Points:	471
+Log Likelihood Ratio:	-0.001027
+Perplexity of red-orange on orange-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of brown:	0.290766
+Availability of green-brown:	0.006798
+Availability of brown-green:	0.004458
+
+With Availability Taken Out:
+green-brown model on green-brown points:	-4513.066757
+brown-green model on green-brown points:	-4513.066766
+Total Points:	280
+Log Likelihood Ratio:	-0.000019
+Perplexity of brown-green on green-brown:	1.000000
+
+brown-green model on brown-green points:	-3255.855311
+green-brown model on brown-green points:	-3255.855306
+Total Points:	202
+Log Likelihood Ratio:	-0.000010
+Perplexity of green-brown on brown-green:	1.000000
+
+------------
+
+Availability of brown:	0.290766
+Availability of orange:	0.578533
+Availability of brown-orange:	0.008898
+Availability of orange-brown:	0.012730
+
+With Availability Taken Out:
+brown-orange model on brown-orange points:	-2820.666701
+orange-brown model on brown-orange points:	-2820.666710
+Total Points:	175
+Log Likelihood Ratio:	-0.000017
+Perplexity of orange-brown on brown-orange:	1.000000
+
+orange-brown model on orange-brown points:	-7720.567731
+brown-orange model on orange-brown points:	-7720.567704
+Total Points:	479
+Log Likelihood Ratio:	-0.000053
+Perplexity of brown-orange on orange-brown:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of red:	0.614701
+Availability of pink-red:	0.005944
+Availability of red-pink:	0.015183
+
+With Availability Taken Out:
+pink-red model on pink-red points:	-2337.123847
+red-pink model on pink-red points:	-2337.123760
+Total Points:	145
+Log Likelihood Ratio:	0.000175
+Perplexity of red-pink on pink-red:	1.000000
+
+red-pink model on red-pink points:	-3046.319953
+pink-red model on red-pink points:	-3046.320052
+Total Points:	189
+Log Likelihood Ratio:	0.000198
+Perplexity of pink-red on red-pink:	1.000000
+
+------------
+
+Availability of grey:	0.086056
+Availability of brown:	0.290766
+Availability of grey-brown:	0.004920
+Availability of brown-grey:	0.002659
+
+With Availability Taken Out:
+grey-brown model on grey-brown points:	-6092.640147
+brown-grey model on grey-brown points:	-6092.640144
+Total Points:	378
+Log Likelihood Ratio:	0.000005
+Perplexity of brown-grey on grey-brown:	1.000000
+
+brown-grey model on brown-grey points:	-1305.565745
+grey-brown model on brown-grey points:	-1305.565746
+Total Points:	81
+Log Likelihood Ratio:	0.000001
+Perplexity of grey-brown on brown-grey:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of purple:	0.744586
+Availability of pink-purple:	0.018870
+Availability of purple-pink:	0.004924
+
+With Availability Taken Out:
+pink-purple model on pink-purple points:	-9106.723805
+purple-pink model on pink-purple points:	-9106.724025
+Total Points:	565
+Log Likelihood Ratio:	-0.000439
+Perplexity of purple-pink on pink-purple:	1.000000
+
+purple-pink model on purple-pink points:	-7349.851603
+pink-purple model on purple-pink points:	-7349.851434
+Total Points:	456
+Log Likelihood Ratio:	-0.000337
+Perplexity of pink-purple on purple-pink:	1.000000
+
+------------
+
+Availability of yellow:	0.478669
+Availability of orange:	0.578533
+Availability of yellow-orange:	0.016425
+Availability of orange-yellow:	0.026919
+
+With Availability Taken Out:
+yellow-orange model on yellow-orange points:	-7720.567663
+orange-yellow model on yellow-orange points:	-7720.566737
+Total Points:	479
+Log Likelihood Ratio:	0.001852
+Perplexity of orange-yellow on yellow-orange:	1.000000
+
+orange-yellow model on orange-yellow points:	-3062.437750
+yellow-orange model on orange-yellow points:	-3062.438113
+Total Points:	190
+Log Likelihood Ratio:	0.000726
+Perplexity of yellow-orange on orange-yellow:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of brown:	0.290766
+Availability of red-brown:	0.014543
+Availability of brown-red:	0.002729
+
+With Availability Taken Out:
+red-brown model on red-brown points:	-7865.630570
+brown-red model on red-brown points:	-7865.630655
+Total Points:	488
+Log Likelihood Ratio:	-0.000171
+Perplexity of brown-red on red-brown:	1.000000
+
+brown-red model on brown-red points:	-1611.809561
+red-brown model on brown-red points:	-1611.809544
+Total Points:	100
+Log Likelihood Ratio:	-0.000033
+Perplexity of red-brown on brown-red:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of purple:	0.744586
+Availability of red-purple:	0.003274
+Availability of purple-red:	0.003536
+
+With Availability Taken Out:
+red-purple model on red-purple points:	-3529.862942
+purple-red model on red-purple points:	-3529.862939
+Total Points:	219
+Log Likelihood Ratio:	0.000006
+Perplexity of purple-red on red-purple:	1.000000
+
+purple-red model on purple-red points:	-1676.281942
+red-purple model on purple-red points:	-1676.281945
+Total Points:	104
+Log Likelihood Ratio:	0.000005
+Perplexity of red-purple on purple-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of blue:	0.630273
+Availability of green-blue:	0.013728
+Availability of blue-green:	0.030229
+
+With Availability Taken Out:
+green-blue model on green-blue points:	-11347.139252
+blue-green model on green-blue points:	-11347.139213
+Total Points:	704
+Log Likelihood Ratio:	0.000078
+Perplexity of blue-green on green-blue:	1.000000
+
+blue-green model on blue-green points:	-42471.181568
+green-blue model on blue-green points:	-42471.181727
+Total Points:	2635
+Log Likelihood Ratio:	0.000318
+Perplexity of green-blue on blue-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of violet:	0.043168
+Availability of red violet:	0.004446
+Availability of violet red:	0.001325
+
+With Availability Taken Out:
+red violet model on red violet points:	-4093.996284
+violet red model on red violet points:	-4093.996289
+Total Points:	254
+Log Likelihood Ratio:	-0.000010
+Perplexity of violet red on red violet:	1.000000
+
+violet red model on violet red points:	-628.605729
+red violet model on violet red points:	-628.605729
+Total Points:	39
+Log Likelihood Ratio:	-0.000001
+Perplexity of red violet on violet red:	1.000000
+
+------------
+
+Availability of purple:	0.744586
+Availability of grey:	0.086056
+Availability of purple grey:	0.004457
+Availability of grey purple:	0.004736
+
+With Availability Taken Out:
+purple grey model on purple grey points:	-6882.426836
+grey purple model on purple grey points:	-6882.426835
+Total Points:	427
+Log Likelihood Ratio:	0.000002
+Perplexity of grey purple on purple grey:	1.000000
+
+grey purple model on grey purple points:	-7865.630668
+purple grey model on grey purple points:	-7865.630669
+Total Points:	488
+Log Likelihood Ratio:	0.000002
+Perplexity of purple grey on grey purple:	1.000000
+
+------------
+
+Availability of violet:	0.043168
+Availability of blue:	0.630273
+Availability of violet blue:	0.004379
+Availability of blue violet:	0.009484
+
+With Availability Taken Out:
+violet blue model on violet blue points:	-2788.430538
+blue violet model on violet blue points:	-2788.430532
+Total Points:	173
+Log Likelihood Ratio:	0.000012
+Perplexity of blue violet on violet blue:	1.000000
+
+blue violet model on blue violet points:	-9525.794475
+violet blue model on blue violet points:	-9525.794496
+Total Points:	591
+Log Likelihood Ratio:	0.000043
+Perplexity of violet blue on blue violet:	1.000000
+
+------------
+
+Out of 14 cases, 6 of them no models did better on their twin, 0 of them one model did better on its twin, and 8 both of them did better on their twins
+
+Availability of green:	0.822933
+Availability of yellow:	0.478669
+Availability of green-yellow:	0.022888
+Availability of yellow-green:	0.095190
+
+With Availability Taken Out:
+green-yellow model on green-yellow points:	-23745.694580
+yellow-green model on green-yellow points:	-22700.765246
+Total Points:	738
+Log Likelihood Ratio:	2089.858669
+Perplexity of yellow-green on green-yellow:	1.000000
+
+yellow-green model on yellow-green points:	-108879.961739
+green-yellow model on yellow-green points:	-113923.513444
+Total Points:	3567
+Log Likelihood Ratio:	10087.103410
+Perplexity of green-yellow on yellow-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of orange:	0.578533
+Availability of red-orange:	0.069906
+Availability of orange-red:	0.030431
+
+With Availability Taken Out:
+red-orange model on red-orange points:	-32006.571480
+orange-red model on red-orange points:	-32686.781513
+Total Points:	1081
+Log Likelihood Ratio:	-1360.420065
+Perplexity of orange-red on red-orange:	1.000000
+
+orange-red model on orange-red points:	-14314.860922
+red-orange model on orange-red points:	-14041.147582
+Total Points:	471
+Log Likelihood Ratio:	-547.426679
+Perplexity of red-orange on orange-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of brown:	0.290766
+Availability of green-brown:	0.006798
+Availability of brown-green:	0.004458
+
+With Availability Taken Out:
+green-brown model on green-brown points:	-9232.814179
+brown-green model on green-brown points:	-9353.358518
+Total Points:	280
+Log Likelihood Ratio:	-241.088678
+Perplexity of brown-green on green-brown:	1.000000
+
+brown-green model on brown-green points:	-6801.577365
+green-brown model on brown-green points:	-6734.629314
+Total Points:	202
+Log Likelihood Ratio:	-133.896103
+Perplexity of green-brown on brown-green:	1.000000
+
+------------
+
+Availability of brown:	0.290766
+Availability of orange:	0.578533
+Availability of brown-orange:	0.008898
+Availability of orange-brown:	0.012730
+
+With Availability Taken Out:
+brown-orange model on brown-orange points:	-5615.816052
+orange-brown model on brown-orange points:	-5616.414566
+Total Points:	175
+Log Likelihood Ratio:	-1.197027
+Perplexity of orange-brown on brown-orange:	1.000000
+
+orange-brown model on orange-brown points:	-15309.624116
+brown-orange model on orange-brown points:	-15270.321437
+Total Points:	479
+Log Likelihood Ratio:	-78.605358
+Perplexity of brown-orange on orange-brown:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of red:	0.614701
+Availability of pink-red:	0.005944
+Availability of red-pink:	0.015183
+
+With Availability Taken Out:
+pink-red model on pink-red points:	-4708.085482
+red-pink model on pink-red points:	-4481.271272
+Total Points:	145
+Log Likelihood Ratio:	453.628421
+Perplexity of red-pink on pink-red:	1.000000
+
+red-pink model on red-pink points:	-5867.941141
+pink-red model on red-pink points:	-6160.644376
+Total Points:	189
+Log Likelihood Ratio:	585.406471
+Perplexity of pink-red on red-pink:	1.000000
+
+------------
+
+Availability of grey:	0.086056
+Availability of brown:	0.290766
+Availability of grey-brown:	0.004920
+Availability of brown-grey:	0.002659
+
+With Availability Taken Out:
+grey-brown model on grey-brown points:	-13017.617434
+brown-grey model on grey-brown points:	-13613.730208
+Total Points:	378
+Log Likelihood Ratio:	-1192.225547
+Perplexity of brown-grey on grey-brown:	1.000000
+
+brown-grey model on brown-grey points:	-2981.613601
+grey-brown model on brown-grey points:	-2814.091686
+Total Points:	81
+Log Likelihood Ratio:	-335.043830
+Perplexity of grey-brown on brown-grey:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of purple:	0.744586
+Availability of pink-purple:	0.018870
+Availability of purple-pink:	0.004924
+
+With Availability Taken Out:
+pink-purple model on pink-purple points:	-17602.881022
+purple-pink model on pink-purple points:	-18996.556128
+Total Points:	565
+Log Likelihood Ratio:	-2787.350212
+Perplexity of purple-pink on pink-purple:	1.000000
+
+purple-pink model on purple-pink points:	-15373.199538
+pink-purple model on purple-pink points:	-14251.052783
+Total Points:	456
+Log Likelihood Ratio:	-2244.293511
+Perplexity of pink-purple on purple-pink:	1.000000
+
+------------
+
+Availability of yellow:	0.478669
+Availability of orange:	0.578533
+Availability of yellow-orange:	0.016425
+Availability of orange-yellow:	0.026919
+
+With Availability Taken Out:
+yellow-orange model on yellow-orange points:	-15051.221688
+orange-yellow model on yellow-orange points:	-14200.871728
+Total Points:	479
+Log Likelihood Ratio:	1700.699920
+Perplexity of orange-yellow on yellow-orange:	1.000000
+
+orange-yellow model on orange-yellow points:	-5667.583041
+yellow-orange model on orange-yellow points:	-5981.829840
+Total Points:	190
+Log Likelihood Ratio:	628.493598
+Perplexity of yellow-orange on orange-yellow:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of brown:	0.290766
+Availability of red-brown:	0.014543
+Availability of brown-red:	0.002729
+
+With Availability Taken Out:
+red-brown model on red-brown points:	-15603.540274
+brown-red model on red-brown points:	-16356.659417
+Total Points:	488
+Log Likelihood Ratio:	-1506.238286
+Perplexity of brown-red on red-brown:	1.000000
+
+brown-red model on brown-red points:	-3368.263282
+red-brown model on brown-red points:	-3215.734223
+Total Points:	100
+Log Likelihood Ratio:	-305.058118
+Perplexity of red-brown on brown-red:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of purple:	0.744586
+Availability of red-purple:	0.003274
+Availability of purple-red:	0.003536
+
+With Availability Taken Out:
+red-purple model on red-purple points:	-7476.999441
+purple-red model on red-purple points:	-7592.454770
+Total Points:	219
+Log Likelihood Ratio:	-230.910658
+Perplexity of purple-red on red-purple:	1.000000
+
+purple-red model on purple-red points:	-3523.247345
+red-purple model on purple-red points:	-3527.911652
+Total Points:	104
+Log Likelihood Ratio:	9.328615
+Perplexity of red-purple on purple-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of blue:	0.630273
+Availability of green-blue:	0.013728
+Availability of blue-green:	0.030229
+
+With Availability Taken Out:
+green-blue model on green-blue points:	-22969.045483
+blue-green model on green-blue points:	-22578.435938
+Total Points:	704
+Log Likelihood Ratio:	781.219091
+Perplexity of blue-green on green-blue:	1.000000
+
+blue-green model on blue-green points:	-84443.197527
+green-blue model on blue-green points:	-86020.654090
+Total Points:	2635
+Log Likelihood Ratio:	3154.913126
+Perplexity of green-blue on blue-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of violet:	0.043168
+Availability of red violet:	0.004446
+Availability of violet red:	0.001325
+
+With Availability Taken Out:
+red violet model on red violet points:	-8497.080218
+violet red model on red violet points:	-8730.924815
+Total Points:	254
+Log Likelihood Ratio:	-467.689195
+Perplexity of violet red on red violet:	1.000000
+
+violet red model on violet red points:	-1361.479069
+red violet model on violet red points:	-1310.873833
+Total Points:	39
+Log Likelihood Ratio:	-101.210472
+Perplexity of red violet on violet red:	1.000000
+
+------------
+
+Availability of purple:	0.744586
+Availability of grey:	0.086056
+Availability of purple grey:	0.004457
+Availability of grey purple:	0.004736
+
+With Availability Taken Out:
+purple grey model on purple grey points:	-14842.759726
+grey purple model on purple grey points:	-14757.866102
+Total Points:	427
+Log Likelihood Ratio:	169.787248
+Perplexity of grey purple on purple grey:	1.000000
+
+grey purple model on grey purple points:	-16743.266320
+purple grey model on grey purple points:	-16866.021107
+Total Points:	488
+Log Likelihood Ratio:	245.509573
+Perplexity of purple grey on grey purple:	1.000000
+
+------------
+
+Availability of violet:	0.043168
+Availability of blue:	0.630273
+Availability of violet blue:	0.004379
+Availability of blue violet:	0.009484
+
+With Availability Taken Out:
+violet blue model on violet blue points:	-5761.051110
+blue violet model on violet blue points:	-5653.446048
+Total Points:	173
+Log Likelihood Ratio:	215.210125
+Perplexity of blue violet on violet blue:	1.000000
+
+blue violet model on blue violet points:	-19313.759333
+violet blue model on blue violet points:	-19702.977152
+Total Points:	591
+Log Likelihood Ratio:	778.435637
+Perplexity of violet blue on blue violet:	1.000000
+
+------------
+
+Out of 14 cases, 7 of them no models did better on their twin, 1 of them one model did better on its twin, and 6 both of them did better on their twins
+
+Availability of green:	0.822933
+Availability of yellow:	0.478669
+Availability of green-yellow:	0.022888
+Availability of yellow-green:	0.095190
+
+With Availability Taken Out:
+green-yellow model on green-yellow points:	-20958.159475
+yellow-green model on green-yellow points:	-20965.077915
+Total Points:	738
+Log Likelihood Ratio:	-13.836881
+Perplexity of yellow-green on green-yellow:	1.000000
+
+yellow-green model on yellow-green points:	-100490.806310
+green-yellow model on yellow-green points:	-100450.427102
+Total Points:	3567
+Log Likelihood Ratio:	-80.758415
+Perplexity of green-yellow on yellow-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of orange:	0.578533
+Availability of red-orange:	0.069906
+Availability of orange-red:	0.030431
+
+With Availability Taken Out:
+red-orange model on red-orange points:	-29130.455635
+orange-red model on red-orange points:	-28911.621907
+Total Points:	1081
+Log Likelihood Ratio:	437.667458
+Perplexity of orange-red on red-orange:	1.000000
+
+orange-red model on orange-red points:	-12669.994896
+red-orange model on orange-red points:	-12788.001826
+Total Points:	471
+Log Likelihood Ratio:	236.013860
+Perplexity of red-orange on orange-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of brown:	0.290766
+Availability of green-brown:	0.006798
+Availability of brown-green:	0.004458
+
+With Availability Taken Out:
+green-brown model on green-brown points:	-7835.279913
+brown-green model on green-brown points:	-7837.692115
+Total Points:	280
+Log Likelihood Ratio:	-4.824404
+Perplexity of brown-green on green-brown:	1.000000
+
+brown-green model on brown-green points:	-5708.132317
+green-brown model on brown-green points:	-5726.408164
+Total Points:	202
+Log Likelihood Ratio:	36.551694
+Perplexity of green-brown on brown-green:	1.000000
+
+------------
+
+Availability of brown:	0.290766
+Availability of orange:	0.578533
+Availability of brown-orange:	0.008898
+Availability of orange-brown:	0.012730
+
+With Availability Taken Out:
+brown-orange model on brown-orange points:	-4789.476055
+orange-brown model on brown-orange points:	-4852.750739
+Total Points:	175
+Log Likelihood Ratio:	-126.549369
+Perplexity of orange-brown on brown-orange:	1.000000
+
+orange-brown model on orange-brown points:	-13219.367129
+brown-orange model on orange-brown points:	-13008.510817
+Total Points:	479
+Log Likelihood Ratio:	-421.712625
+Perplexity of brown-orange on orange-brown:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of red:	0.614701
+Availability of pink-red:	0.005944
+Availability of red-pink:	0.015183
+
+With Availability Taken Out:
+pink-red model on pink-red points:	-3964.902782
+red-pink model on pink-red points:	-3874.067915
+Total Points:	145
+Log Likelihood Ratio:	181.669734
+Perplexity of red-pink on pink-red:	1.000000
+
+red-pink model on red-pink points:	-5076.482972
+pink-red model on red-pink points:	-5191.944167
+Total Points:	189
+Log Likelihood Ratio:	230.922390
+Perplexity of pink-red on red-pink:	1.000000
+
+------------
+
+Availability of grey:	0.086056
+Availability of brown:	0.290766
+Availability of grey-brown:	0.004920
+Availability of brown-grey:	0.002659
+
+With Availability Taken Out:
+grey-brown model on grey-brown points:	-11008.735170
+brown-grey model on grey-brown points:	-11372.239496
+Total Points:	378
+Log Likelihood Ratio:	-727.008652
+Perplexity of brown-grey on grey-brown:	1.000000
+
+brown-grey model on brown-grey points:	-2501.294163
+grey-brown model on brown-grey points:	-2383.616915
+Total Points:	81
+Log Likelihood Ratio:	-235.354496
+Perplexity of grey-brown on brown-grey:	1.000000
+
+------------
+
+Availability of pink:	0.723378
+Availability of purple:	0.744586
+Availability of pink-purple:	0.018870
+Availability of purple-pink:	0.004924
+
+With Availability Taken Out:
+pink-purple model on pink-purple points:	-15359.728274
+purple-pink model on pink-purple points:	-15994.305081
+Total Points:	565
+Log Likelihood Ratio:	-1269.153612
+Perplexity of purple-pink on pink-purple:	1.000000
+
+purple-pink model on purple-pink points:	-12950.143825
+pink-purple model on purple-pink points:	-12440.649857
+Total Points:	456
+Log Likelihood Ratio:	-1018.987937
+Perplexity of pink-purple on purple-pink:	1.000000
+
+------------
+
+Availability of yellow:	0.478669
+Availability of orange:	0.578533
+Availability of yellow-orange:	0.016425
+Availability of orange-yellow:	0.026919
+
+With Availability Taken Out:
+yellow-orange model on yellow-orange points:	-13083.045473
+orange-yellow model on yellow-orange points:	-12469.322644
+Total Points:	479
+Log Likelihood Ratio:	1227.445659
+Perplexity of orange-yellow on yellow-orange:	1.000000
+
+orange-yellow model on orange-yellow points:	-4980.747288
+yellow-orange model on orange-yellow points:	-5201.133638
+Total Points:	190
+Log Likelihood Ratio:	440.772701
+Perplexity of yellow-orange on orange-yellow:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of brown:	0.290766
+Availability of red-brown:	0.014543
+Availability of brown-red:	0.002729
+
+With Availability Taken Out:
+red-brown model on red-brown points:	-13538.969617
+brown-red model on red-brown points:	-13475.682226
+Total Points:	488
+Log Likelihood Ratio:	126.574784
+Perplexity of brown-red on red-brown:	1.000000
+
+brown-red model on brown-red points:	-2777.899103
+red-brown model on brown-red points:	-2792.666465
+Total Points:	100
+Log Likelihood Ratio:	29.534724
+Perplexity of red-brown on brown-red:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of purple:	0.744586
+Availability of red-purple:	0.003274
+Availability of purple-red:	0.003536
+
+With Availability Taken Out:
+red-purple model on red-purple points:	-6223.950460
+purple-red model on red-purple points:	-6356.238570
+Total Points:	219
+Log Likelihood Ratio:	-264.576220
+Perplexity of purple-red on red-purple:	1.000000
+
+purple-red model on purple-red points:	-2936.185770
+red-purple model on purple-red points:	-2932.856428
+Total Points:	104
+Log Likelihood Ratio:	-6.658685
+Perplexity of red-purple on purple-red:	1.000000
+
+------------
+
+Availability of green:	0.822933
+Availability of blue:	0.630273
+Availability of green-blue:	0.013728
+Availability of blue-green:	0.030229
+
+With Availability Taken Out:
+green-blue model on green-blue points:	-19950.064942
+blue-green model on green-blue points:	-20115.162028
+Total Points:	704
+Log Likelihood Ratio:	-330.194172
+Perplexity of blue-green on green-blue:	1.000000
+
+blue-green model on blue-green points:	-75223.415208
+green-blue model on blue-green points:	-74720.918682
+Total Points:	2635
+Log Likelihood Ratio:	-1004.993051
+Perplexity of green-blue on blue-green:	1.000000
+
+------------
+
+Availability of red:	0.614701
+Availability of violet:	0.043168
+Availability of red violet:	0.004446
+Availability of violet red:	0.001325
+
+With Availability Taken Out:
+red violet model on red violet points:	-7121.485732
+violet red model on red violet points:	-7047.818026
+Total Points:	254
+Log Likelihood Ratio:	147.335412
+Perplexity of violet red on red violet:	1.000000
+
+violet red model on violet red points:	-1103.049286
+red violet model on violet red points:	-1099.660506
+Total Points:	39
+Log Likelihood Ratio:	-6.777561
+Perplexity of red violet on violet red:	1.000000
+
+------------
+
+Availability of purple:	0.744586
+Availability of grey:	0.086056
+Availability of purple grey:	0.004457
+Availability of grey purple:	0.004736
+
+With Availability Taken Out:
+purple grey model on purple grey points:	-12531.330118
+grey purple model on purple grey points:	-12472.360487
+Total Points:	427
+Log Likelihood Ratio:	117.939262
+Perplexity of grey purple on purple grey:	1.000000
+
+grey purple model on grey purple points:	-14131.259903
+purple grey model on grey purple points:	-14224.387269
+Total Points:	488
+Log Likelihood Ratio:	186.254732
+Perplexity of purple grey on grey purple:	1.000000
+
+------------
+
+Availability of violet:	0.043168
+Availability of blue:	0.630273
+Availability of violet blue:	0.004379
+Availability of blue violet:	0.009484
+
+With Availability Taken Out:
+violet blue model on violet blue points:	-4821.516125
+blue violet model on violet blue points:	-4847.590005
+Total Points:	173
+Log Likelihood Ratio:	-52.147760
+Perplexity of blue violet on violet blue:	1.000000
+
+blue violet model on blue violet points:	-16560.806032
+violet blue model on blue violet points:	-16493.351857
+Total Points:	591
+Log Likelihood Ratio:	-134.908351
+Perplexity of violet blue on blue violet:	1.000000
+
+------------
+
+Out of 14 cases, 7 of them no models did better on their twin, 2 of them one model did better on its twin, and 5 both of them did better on their twins

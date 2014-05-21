@@ -1,0 +1,23 @@
+Availability of Real navy green model:	0.000338
+Availability of Created navy green model:	0.019784
+Percentage Change of Availabilities:	57.602781
+
+Real navy green model on navy green points:	-599.204291
+Created navy green model on navy green points:	-915.805634
+Total Points:	43
+Log Likelihood Ratio:	-633.202686
+Perplexity of navy green on navy green:	1.000631
+
+Raw Models:
+Name:		navy green
+Availability:	0.000338
+Hue Adjust:	False
+mu1: 111.180888, sh1: 7.353849, sc1: 7.560861, mu2: 133.975056, sh2: 7.257800, sc2: 6.374244 mu1: 57.283347, sh1: 10.398665, sc1: 5.196169, mu2: 71.464120, sh2: 5.836067, sc2: 7.253940 mu1: 46.626247, sh1: 7.068457, sc1: 5.166290, mu2: 51.949246, sh2: 12.626940, sc2: 2.459567 
+
+Name:		navy green
+Availability:	0.019784
+Hue Adjust:	False
+mu1: 207.424751, sh1: 4.557134, sc1: 6.581773, mu2: 211.159959, sh2: 4.554863, sc2: 6.452947 mu1: 84.809472, sh1: 3.920825, sc1: 8.142668, mu2: 91.582550, sh2: 7.490602, sc2: 6.297586 mu1: 54.493825, sh1: 3.676223, sc1: 6.058832, mu2: 58.682689, sh2: 4.150816, sc2: 6.044023 
+
+--------------
+

@@ -1,0 +1,23 @@
+Availability of Real brown yellow model:	0.002146
+Availability of Created brown yellow model:	0.002931
+Percentage Change of Availabilities:	0.365732
+
+Real brown yellow model on brown yellow points:	-477.660226
+Created brown yellow model on brown yellow points:	-484.128965
+Total Points:	39
+Log Likelihood Ratio:	-12.937477
+Perplexity of brown yellow on brown yellow:	1.004286
+
+Raw Models:
+Name:		brown yellow
+Availability:	0.002146
+Hue Adjust:	False
+mu1: 44.378075, sh1: 3.449888, sc1: 1.716922, mu2: 56.948681, sh2: 0.817189, sc2: 4.895145 mu1: 77.565030, sh1: 2.368770, sc1: 4.770474, mu2: 89.129450, sh2: 4.214188, sc2: 9.543250 mu1: 77.176114, sh1: 3.688314, sc1: 6.292896, mu2: 83.397077, sh2: 2.191302, sc2: 4.747546 
+
+Name:		brown yellow
+Availability:	0.002931
+Hue Adjust:	False
+mu1: 36.768920, sh1: 2.343441, sc1: 3.966721, mu2: 41.177876, sh2: 2.440532, sc2: 5.751839 mu1: 82.547027, sh1: 3.482516, sc1: 6.471353, mu2: 92.168648, sh2: 5.863093, sc2: 6.863326 mu1: 60.966556, sh1: 3.978057, sc1: 4.442239, mu2: 68.177345, sh2: 4.061452, sc2: 4.310603 
+
+--------------
+

@@ -1,0 +1,23 @@
+Availability of Real purple-pink model:	0.004924
+Availability of Created purple pink model:	0.004205
+Percentage Change of Availabilities:	-0.145970
+
+Real purple-pink model on purple-pink points:	-5692.339699
+Created purple pink model on purple-pink points:	-7051.932528
+Total Points:	456
+Log Likelihood Ratio:	-2719.185659
+Perplexity of purple pink on purple-pink:	1.024881
+
+Raw Models:
+Name:		purple-pink
+Availability:	0.004924
+Hue Adjust:	True
+mu1: -58.374253, sh1: 1.991626, sc1: 8.879999, mu2: -56.275843, sh2: 2.039334, sc2: 14.300626 mu1: 70.227141, sh1: 3.052289, sc1: 10.735316, mu2: 72.371597, sh2: 4.306656, sc2: 7.829961 mu1: 85.003400, sh1: 2.911464, sc1: 6.199210, mu2: 99.890963, sh2: 3.359174, sc2: 3.028442 
+
+Name:		purple pink
+Availability:	0.004205
+Hue Adjust:	False
+mu1: -3.828045, sh1: 4.659966, sc1: 5.928229, mu2: 1.832783, sh2: 3.638733, sc2: 7.000104 mu1: 45.119234, sh1: 3.597883, sc1: 5.847934, mu2: 50.532068, sh2: 3.265014, sc2: 7.454677 mu1: 86.393901, sh1: 3.098318, sc1: 5.872032, mu2: 92.741064, sh2: 5.001484, sc2: 4.154511 
+
+--------------
+

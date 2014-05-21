@@ -1,0 +1,70 @@
+(lp0
+S'violet blue'
+p1
+aS'grey-brown'
+p2
+aS'green-blue'
+p3
+aS'coral pink'
+p4
+aS'brown-green'
+p5
+aS'green-yellow'
+p6
+aS'aqua blue'
+p7
+aS'brown-red'
+p8
+aS'khaki green'
+p9
+aS'shamrock green'
+p10
+aS'khaki green'
+p11
+aS'purple grey'
+p12
+aS'wine red'
+p13
+aS'bubblegum pink'
+p14
+aS'red-orange'
+p15
+aS'brown-grey'
+p16
+aS'rust red'
+p17
+aS'green-brown'
+p18
+aS'marine blue'
+p19
+aS'pea green'
+p20
+aS'shamrock green'
+p21
+aS'coral pink'
+p22
+aS'red-brown'
+p23
+aS'blue-purple'
+p24
+aS'pea green'
+p25
+aS'tomato red'
+p26
+aS'bubblegum pink'
+p27
+aS'tomato red'
+p28
+aS'aqua blue'
+p29
+aS'rust red'
+p30
+aS'grass green'
+p31
+aS'wine red'
+p32
+aS'grass green'
+p33
+aS'marine blue'
+p34
+a.

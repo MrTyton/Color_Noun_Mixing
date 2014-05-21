@@ -1,0 +1,23 @@
+Availability of Real khaki green model:	0.002868
+Availability of Created khaki green model:	0.009205
+Percentage Change of Availabilities:	2.209794
+
+Real khaki green model on khaki green points:	-1840.879298
+Created khaki green model on khaki green points:	-1878.716494
+Total Points:	140
+Log Likelihood Ratio:	-75.674391
+Perplexity of khaki green on khaki green:	1.004609
+
+Raw Models:
+Name:		khaki green
+Availability:	0.002868
+Hue Adjust:	False
+mu1: 75.071817, sh1: 4.177858, sc1: 5.052269, mu2: 79.896713, sh2: 2.179111, sc2: 8.134455 mu1: 49.931595, sh1: 6.933063, sc1: 3.390030, mu2: 54.395514, sh2: 3.108797, sc2: 9.380973 mu1: 54.733642, sh1: 3.499892, sc1: 5.554228, mu2: 57.070819, sh2: 4.659795, sc2: 5.181000 
+
+Name:		khaki green
+Availability:	0.009205
+Hue Adjust:	False
+mu1: 81.081778, sh1: 3.674085, sc1: 5.854774, mu2: 85.666491, sh2: 3.309050, sc2: 8.074222 mu1: 64.144937, sh1: 5.272805, sc1: 5.743469, mu2: 69.347988, sh2: 7.050636, sc2: 7.260463 mu1: 67.171652, sh1: 3.499088, sc1: 5.520743, mu2: 73.079355, sh2: 3.576095, sc2: 5.318928 
+
+--------------
+

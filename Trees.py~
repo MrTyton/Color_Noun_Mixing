@@ -1,0 +1,163 @@
+import lux
+LUX = lux.LUX('lux.xml')
+from random import shuffle
+from copy import deepcopy
+from sklearn.ensemble import RandomForestClassifier
+from math import log
+import matplotlib.pyplot as plt
+
+
+def getData(location, name):
+    name = name.replace('-', '')
+    name = name.replace(" ", "")
+    fp = open("%s/data/%s.test" % (location, name));  #important lines are this one and the next 3
+    data = [[float(y) for y in x.replace("\n","").split(",")] for x in fp.readlines()]; fp.close()
+    data = [[x[0]*360, x[1]*100, x[2]*100] for x in data]
+    fp.close()
+    return data
+
+def testDistributions(real_distribution, created_distribution):
+    test_data = getData("Data", real_distribution.name)
+    log_learned = 0.0
+    log_predicted = 0.0
+    cross_entropy = 0.0
+    offset = .0000001 #mess with this
+    for value in test_data:
+        lp = real_distribution(value)
+        log_learned += log(lp + offset)
+        pp = created_distribution(value)
+        log_predicted += log(pp + offset)
+        cross_entropy += lp * log(pp + offset)
+    return log_learned, log_predicted, len(test_data), 2 ** -cross_entropy
+
+def sortAvail(x, y):
+    if LUX.getColor(x).availability > LUX.getColor(y).availability:
+        larger = x
+        smaller = y
+    else:
+        larger = y
+        smaller = x
+    return smaller, larger
+
+def getWordLists():
+    single_words = []
+    for x in LUX.all:
+        if LUX.getColor(x).isSingleWord() : single_words.append(x)
+    single_words.remove("apple")
+    single_words.remove("skin")
+    single_words.remove("pale")
+    single_words = [x for x in single_words if x[-3:] != "ish"]
+    combinations = []
+    combos = []
+    for x in single_words:
+        for y in single_words:
+            if x + " " + y in LUX.all:
+                smaller, larger = sortAvail(x, y)
+                if (smaller, larger) not in combos:
+                    combinations.append((smaller, larger, x + " " + y))
+                    combos.append((smaller, larger))
+            elif x + "-" + y in LUX.all:
+                smaller, larger = sortAvail(x, y)
+                if (smaller, larger) not in combos:
+                    combinations.append((smaller, larger, x + "-" + y))
+                    combos.append((smaller, larger))
+            elif y + " " + x in LUX.all:
+                smaller, larger = sortAvail(x, y)
+                if (smaller, larger) not in combos:
+                    combinations.append((smaller, larger, y + " " + x))
+                    combos.append((smaller, larger))
+            elif y + "-" + x in LUX.all:
+                smaller, larger = sortAvail(x, y)
+                if (smaller, larger) not in combos:
+                    combinations.append((smaller, larger, y + "-" + x))
+                    combos.append((smaller, larger))
+    return combinations
+
+def convertToVector(color_name, twoWord=False):
+    color = LUX.getColor(color_name)
+    vector = []
+    vector.append(color.availability)
+    vector.append(1) if color.hue_adjust else vector.append(0)
+    if twoWord : vector.append(1) if "-" in color_name else vector.append(0)
+    for single_dim in color.dim_models:
+        vector += single_dim.params
+        vector += single_dim.stdevs
+    return vector
+    
+def createDistribution(color_name, replacement_vector):
+    ans = deepcopy(LUX.getColor(color_name))
+    ans.availability = replacement_vector[0]
+    if replacement_vector[1] == 1:
+        ans.hue_adjust = True
+    else:
+        ans.hue_adjust = False
+    ans.dim_models[0].hue_adjust = ans.hue_adjust
+    ans.dim_models[0].params = replacement_vector[3:9]
+    ans.dim_models[0].stdevs = replacement_vector[9:15]
+    ans.dim_models[1].params = replacement_vector[15:21]
+    ans.dim_models[1].stdevs = replacement_vector[21:27]
+    ans.dim_models[2].params = replacement_vector[27:33]
+    ans.dim_models[2].stdevs = replacement_vector[33:39]
+    for x in ans.dim_models:
+        x.reload()
+    if replacement_vector[2] == 1:
+        ans.name = ans.name.replace(" ", "-")
+    else:
+        ans.name = ans.name.replace("-", " ")
+    return ans
+
+
+def output(first_model, second_model, learned, predict, num_points, test, perplexity, fp=None):
+    if (fp is None):
+        print "%s model on %s points:\t%f\n%s model on %s points:\t%f\nTotal Points:\t%d\nLog Likelihood Ratio:\t%f\nPerplexity of %s on %s:\t%f\n" % (first_model , first_model, learned , second_model , first_model , predict , num_points, test, second_model, first_model, perplexity)
+    else:
+        fp.write("Availability of Real %s model:\t%f\nAvailability of Created %s model:\t%f\nDifference of Availabilities:\t%f\nReal %s model on %s points:\t%f\nCreated %s model on %s points:\t%f\nTotal Points:\t%d\nLog Likelihood Ratio:\t%f\nPerplexity of %s on %s:\t%f\n\n" % (first_model, first_model.availability, second_model, second_model.availability, first_model.availability - second_model.availability, first_model , first_model, learned , second_model , first_model , predict , num_points, test, second_model, first_model, perplexity))
+    return
+    
+def main():
+    print "Gathering labels..."
+    labels = getWordLists()
+    shuffle(labels)
+    training = []
+    targets = []
+    print "Converting to vectors..."
+    for x, y, z in labels:
+        training.append(convertToVector(x) + convertToVector(y))
+        targets.append(convertToVector(z, True))
+    training_data = training[:len(training) * 7 / 10]
+    training_targets = targets[:len(targets) * 7 / 10]
+    training_labels = labels[:len(labels) * 7 / 10]
+    test_data = [x for x in training if x not in training_data]
+    test_targets = [x for x in targets if x not in training_targets]
+    test_labels = [x[2] for x in labels if x not in training_labels]
+    print "Fitting data..."
+    clf = RandomForestClassifier(n_jobs = -1)
+    clf.fit(training_data, training_targets)
+    print "Predicting distributions..."
+    test_data_results = clf.predict(test_data)
+    fp = open("output.txt", "w")
+    availability_list = []
+    print "Testing points..."
+    for i, (data, label) in enumerate(zip(test_data_results, test_labels)):
+        print "Working on %d out of %d..." % (i+1, len(test_data_results))
+        #ans = clf.predict([data])[0]
+        ans = createDistribution(label, data)
+        real = LUX.getColor(label)
+        availability_list.append(real.availability - ans.availability)
+        real_score, generated_score, num_points, perplexity = testDistributions(real, ans)
+        test = (-2 * real_score) + (2 * generated_score)
+        output(real, ans, real_score, generated_score, num_points, test, perplexity, fp)
+    
+    fp.close()
+    
+    plt.hist(availability_list)
+    plt.savefig("availability_differences_histogram.png")
+    plt.show()
+    plt.boxplot(availability_list, vert=False, )
+    plt.savefig("availability_differences_boxplot.png")
+    plt.show()
+        
+    
+    
+if __name__ == "__main__":
+    main()

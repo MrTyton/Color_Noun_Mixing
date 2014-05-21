@@ -1,0 +1,23 @@
+Availability of Real jade green model:	0.002714
+Availability of Created jade green model:	0.014449
+Percentage Change of Availabilities:	4.324091
+
+Real jade green model on jade green points:	-1278.302856
+Created jade green model on jade green points:	-1917.599421
+Total Points:	95
+Log Likelihood Ratio:	-1278.593131
+Perplexity of jade green on jade green:	1.003227
+
+Raw Models:
+Name:		jade green
+Availability:	0.002714
+Hue Adjust:	False
+mu1: 125.965918, sh1: 10.164206, sc1: 3.075933, mu2: 135.710568, sh2: 4.192674, sc2: 8.818902 mu1: 57.692200, sh1: 6.936501, sc1: 2.983088, mu2: 75.419015, sh2: 2.583737, sc2: 12.446092 mu1: 63.975792, sh1: 4.379475, sc1: 2.804442, mu2: 70.470364, sh2: 4.442522, sc2: 4.368308 
+
+Name:		jade green
+Availability:	0.014449
+Hue Adjust:	False
+mu1: 210.971186, sh1: 3.118832, sc1: 6.611588, mu2: 214.136945, sh2: 3.935404, sc2: 6.468081 mu1: 67.815885, sh1: 4.035385, sc1: 6.257974, mu2: 71.794534, sh2: 4.236424, sc2: 7.496502 mu1: 65.385083, sh1: 3.637957, sc1: 5.427963, mu2: 70.240349, sh2: 3.436384, sc2: 8.793316 
+
+--------------
+

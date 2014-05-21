@@ -1,0 +1,23 @@
+Availability of Real cobalt blue model:	0.005625
+Availability of Created cobalt blue model:	0.015244
+Percentage Change of Availabilities:	1.710038
+
+Real cobalt blue model on cobalt blue points:	-3578.812960
+Created cobalt blue model on cobalt blue points:	-4692.616395
+Total Points:	278
+Log Likelihood Ratio:	-2227.606869
+Perplexity of cobalt blue on cobalt blue:	1.016294
+
+Raw Models:
+Name:		cobalt blue
+Availability:	0.005625
+Hue Adjust:	False
+mu1: 232.959608, sh1: 5.158286, sc1: 5.981894, mu2: 239.701175, sh2: 3.185968, sc2: 6.262369 mu1: 94.853714, sh1: 2.943200, sc1: 7.649657, mu2: 98.777879, sh2: 9.677837, sc2: 6.046779 mu1: 77.172236, sh1: 5.409041, sc1: 5.940871, mu2: 82.211260, sh2: 3.998386, sc2: 4.201483 
+
+Name:		cobalt blue
+Availability:	0.015244
+Hue Adjust:	False
+mu1: 173.892328, sh1: 2.596988, sc1: 7.057002, mu2: 178.094417, sh2: 3.987921, sc2: 5.274223 mu1: 74.480654, sh1: 5.436306, sc1: 6.983091, mu2: 83.992543, sh2: 5.683248, sc2: 6.327109 mu1: 82.623253, sh1: 2.871221, sc1: 7.568457, mu2: 95.402381, sh2: 5.150784, sc2: 6.330570 
+
+--------------
+

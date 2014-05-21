@@ -1,0 +1,414 @@
+Availability of Real ugly yellow model:	0.004156
+Availability of Created ugly yellow model:	0.007558
+Percentage Change of Availabilities:	0.818461
+
+Real ugly yellow model on ugly yellow points:	-704.029512
+Created ugly yellow model on ugly yellow points:	-706.358740
+Total Points:	62
+Log Likelihood Ratio:	-4.658456
+Perplexity of ugly yellow on ugly yellow:	1.008880
+
+Raw Models:
+Name:		ugly yellow
+Availability:	0.004156
+Hue Adjust:	False
+mu1: 61.622102, sh1: 3.202144, sc1: 5.013420, mu2: 66.037601, sh2: 2.599798, sc2: 2.386049 mu1: 86.239258, sh1: 3.097654, sc1: 8.138775, mu2: 91.168370, sh2: 2.656113, sc2: 11.673460 mu1: 84.155596, sh1: 4.654878, sc1: 2.778181, mu2: 88.335913, sh2: 1.870940, sc2: 8.780287 
+
+Name:		ugly yellow
+Availability:	0.007558
+Hue Adjust:	False
+mu1: 55.675024, sh1: 2.918769, sc1: 4.351657, mu2: 61.474769, sh2: 2.185004, sc2: 4.320830 mu1: 77.815525, sh1: 4.181123, sc1: 5.173571, mu2: 84.832554, sh2: 6.007880, sc2: 6.188803 mu1: 83.762282, sh1: 2.890036, sc1: 3.969003, mu2: 94.761504, sh2: 3.428549, sc2: 4.772723 
+
+--------------
+
+Availability of Real brick orange model:	0.002595
+Availability of Created brick orange model:	0.006245
+Percentage Change of Availabilities:	1.406528
+
+Real brick orange model on brick orange points:	-414.759995
+Created brick orange model on brick orange points:	-416.757829
+Total Points:	36
+Log Likelihood Ratio:	-3.995669
+Perplexity of brick orange on brick orange:	1.005664
+
+Raw Models:
+Name:		brick orange
+Availability:	0.002595
+Hue Adjust:	True
+mu1: 8.212294, sh1: 1.596638, sc1: 10.010085, mu2: 18.716695, sh2: 4.996034, sc2: 1.778695 mu1: 93.159074, sh1: 5.356687, sc1: 3.548107, mu2: 105.780605, sh2: 8.604490, sc2: 2.992425 mu1: 74.425939, sh1: 6.978909, sc1: 1.537074, mu2: 78.009911, sh2: 8.179842, sc2: 1.898334 
+
+Name:		brick orange
+Availability:	0.006245
+Hue Adjust:	False
+mu1: 25.917516, sh1: 3.456754, sc1: 3.336814, mu2: 31.006165, sh2: 3.080760, sc2: 3.847193 mu1: 83.272198, sh1: 3.006245, sc1: 6.859683, mu2: 94.109396, sh2: 6.530347, sc2: 7.935195 mu1: 80.419411, sh1: 2.945891, sc1: 4.181950, mu2: 93.007539, sh2: 4.332973, sc2: 4.220382 
+
+--------------
+
+Availability of Real khaki green model:	0.002868
+Availability of Created khaki green model:	0.009205
+Percentage Change of Availabilities:	2.209794
+
+Real khaki green model on khaki green points:	-1840.879298
+Created khaki green model on khaki green points:	-1878.716494
+Total Points:	140
+Log Likelihood Ratio:	-75.674391
+Perplexity of khaki green on khaki green:	1.004609
+
+Raw Models:
+Name:		khaki green
+Availability:	0.002868
+Hue Adjust:	False
+mu1: 75.071817, sh1: 4.177858, sc1: 5.052269, mu2: 79.896713, sh2: 2.179111, sc2: 8.134455 mu1: 49.931595, sh1: 6.933063, sc1: 3.390030, mu2: 54.395514, sh2: 3.108797, sc2: 9.380973 mu1: 54.733642, sh1: 3.499892, sc1: 5.554228, mu2: 57.070819, sh2: 4.659795, sc2: 5.181000 
+
+Name:		khaki green
+Availability:	0.009205
+Hue Adjust:	False
+mu1: 81.081778, sh1: 3.674085, sc1: 5.854774, mu2: 85.666491, sh2: 3.309050, sc2: 8.074222 mu1: 64.144937, sh1: 5.272805, sc1: 5.743469, mu2: 69.347988, sh2: 7.050636, sc2: 7.260463 mu1: 67.171652, sh1: 3.499088, sc1: 5.520743, mu2: 73.079355, sh2: 3.576095, sc2: 5.318928 
+
+--------------
+
+Availability of Real avocado green model:	0.001128
+Availability of Created avocado green model:	0.015086
+Percentage Change of Availabilities:	12.374129
+
+Real avocado green model on avocado green points:	-663.973942
+Created avocado green model on avocado green points:	-626.039970
+Total Points:	49
+Log Likelihood Ratio:	75.867945
+Perplexity of avocado green on avocado green:	1.002368
+
+Raw Models:
+Name:		avocado green
+Availability:	0.001128
+Hue Adjust:	False
+mu1: 82.853888, sh1: 3.429866, sc1: 8.845931, mu2: 87.253984, sh2: 6.641334, sc2: 1.622222 mu1: 65.725494, sh1: 3.363937, sc1: 4.670975, mu2: 80.696017, sh2: 7.340329, sc2: 1.645975 mu1: 62.620183, sh1: 3.640450, sc1: 4.234390, mu2: 79.350099, sh2: 3.494156, sc2: 2.363464 
+
+Name:		avocado green
+Availability:	0.015086
+Hue Adjust:	False
+mu1: 67.710453, sh1: 3.687424, sc1: 3.710335, mu2: 72.610995, sh2: 2.583370, sc2: 6.076264 mu1: 84.067018, sh1: 3.669884, sc1: 8.633004, mu2: 91.003381, sh2: 10.260736, sc2: 7.093095 mu1: 66.638760, sh1: 4.121083, sc1: 4.699369, mu2: 73.432571, sh2: 4.622152, sc2: 5.938080 
+
+--------------
+
+Availability of Real avocado green model:	0.001128
+Availability of Created avocado green model:	0.015086
+Percentage Change of Availabilities:	12.374129
+
+Real avocado green model on avocado green points:	-663.973942
+Created avocado green model on avocado green points:	-626.039970
+Total Points:	49
+Log Likelihood Ratio:	75.867945
+Perplexity of avocado green on avocado green:	1.002368
+
+Raw Models:
+Name:		avocado green
+Availability:	0.001128
+Hue Adjust:	False
+mu1: 82.853888, sh1: 3.429866, sc1: 8.845931, mu2: 87.253984, sh2: 6.641334, sc2: 1.622222 mu1: 65.725494, sh1: 3.363937, sc1: 4.670975, mu2: 80.696017, sh2: 7.340329, sc2: 1.645975 mu1: 62.620183, sh1: 3.640450, sc1: 4.234390, mu2: 79.350099, sh2: 3.494156, sc2: 2.363464 
+
+Name:		avocado green
+Availability:	0.015086
+Hue Adjust:	False
+mu1: 67.710453, sh1: 3.687424, sc1: 3.710335, mu2: 72.610995, sh2: 2.583370, sc2: 6.076264 mu1: 84.067018, sh1: 3.669884, sc1: 8.633004, mu2: 91.003381, sh2: 10.260736, sc2: 7.093095 mu1: 66.638760, sh1: 4.121083, sc1: 4.699369, mu2: 73.432571, sh2: 4.622152, sc2: 5.938080 
+
+--------------
+
+Availability of Real eggshell blue model:	0.000527
+Availability of Created eggshell blue model:	0.006252
+Percentage Change of Availabilities:	10.856399
+
+Real eggshell blue model on eggshell blue points:	-669.533461
+Created eggshell blue model on eggshell blue points:	-698.468864
+Total Points:	49
+Log Likelihood Ratio:	-57.870806
+Perplexity of eggshell blue on eggshell blue:	1.002344
+
+Raw Models:
+Name:		eggshell blue
+Availability:	0.000527
+Hue Adjust:	False
+mu1: 178.256104, sh1: 2.252469, sc1: 10.014542, mu2: 184.969576, sh2: 1.962763, sc2: 7.631502 mu1: 33.976163, sh1: 5.093817, sc1: 8.945135, mu2: 40.711727, sh2: 2.902386, sc2: 6.069522 mu1: 90.824383, sh1: 2.270876, sc1: 4.131953, mu2: 109.382375, sh2: 5.047552, sc2: 3.933747 
+
+Name:		eggshell blue
+Availability:	0.006252
+Hue Adjust:	False
+mu1: 180.072820, sh1: 3.712231, sc1: 7.472107, mu2: 184.299809, sh2: 3.702331, sc2: 6.573654 mu1: 57.976452, sh1: 3.852056, sc1: 6.265125, mu2: 64.993179, sh2: 4.719644, sc2: 7.159910 mu1: 71.677079, sh1: 4.124264, sc1: 5.381722, mu2: 82.127915, sh2: 4.103416, sc2: 5.772955 
+
+--------------
+
+Availability of Real eggshell blue model:	0.000527
+Availability of Created eggshell blue model:	0.006252
+Percentage Change of Availabilities:	10.856399
+
+Real eggshell blue model on eggshell blue points:	-669.533461
+Created eggshell blue model on eggshell blue points:	-698.468864
+Total Points:	49
+Log Likelihood Ratio:	-57.870806
+Perplexity of eggshell blue on eggshell blue:	1.002344
+
+Raw Models:
+Name:		eggshell blue
+Availability:	0.000527
+Hue Adjust:	False
+mu1: 178.256104, sh1: 2.252469, sc1: 10.014542, mu2: 184.969576, sh2: 1.962763, sc2: 7.631502 mu1: 33.976163, sh1: 5.093817, sc1: 8.945135, mu2: 40.711727, sh2: 2.902386, sc2: 6.069522 mu1: 90.824383, sh1: 2.270876, sc1: 4.131953, mu2: 109.382375, sh2: 5.047552, sc2: 3.933747 
+
+Name:		eggshell blue
+Availability:	0.006252
+Hue Adjust:	False
+mu1: 180.072820, sh1: 3.712231, sc1: 7.472107, mu2: 184.299809, sh2: 3.702331, sc2: 6.573654 mu1: 57.976452, sh1: 3.852056, sc1: 6.265125, mu2: 64.993179, sh2: 4.719644, sc2: 7.159910 mu1: 71.677079, sh1: 4.124264, sc1: 5.381722, mu2: 82.127915, sh2: 4.103416, sc2: 5.772955 
+
+--------------
+
+Availability of Real brick orange model:	0.002595
+Availability of Created brick orange model:	0.006245
+Percentage Change of Availabilities:	1.406528
+
+Real brick orange model on brick orange points:	-414.759995
+Created brick orange model on brick orange points:	-416.757829
+Total Points:	36
+Log Likelihood Ratio:	-3.995669
+Perplexity of brick orange on brick orange:	1.005664
+
+Raw Models:
+Name:		brick orange
+Availability:	0.002595
+Hue Adjust:	True
+mu1: 8.212294, sh1: 1.596638, sc1: 10.010085, mu2: 18.716695, sh2: 4.996034, sc2: 1.778695 mu1: 93.159074, sh1: 5.356687, sc1: 3.548107, mu2: 105.780605, sh2: 8.604490, sc2: 2.992425 mu1: 74.425939, sh1: 6.978909, sc1: 1.537074, mu2: 78.009911, sh2: 8.179842, sc2: 1.898334 
+
+Name:		brick orange
+Availability:	0.006245
+Hue Adjust:	False
+mu1: 25.917516, sh1: 3.456754, sc1: 3.336814, mu2: 31.006165, sh2: 3.080760, sc2: 3.847193 mu1: 83.272198, sh1: 3.006245, sc1: 6.859683, mu2: 94.109396, sh2: 6.530347, sc2: 7.935195 mu1: 80.419411, sh1: 2.945891, sc1: 4.181950, mu2: 93.007539, sh2: 4.332973, sc2: 4.220382 
+
+--------------
+
+Availability of Real chocolate brown model:	0.004232
+Availability of Created chocolate brown model:	0.002593
+Percentage Change of Availabilities:	-0.387377
+
+Real chocolate brown model on chocolate brown points:	-2193.652557
+Created chocolate brown model on chocolate brown points:	-3771.300378
+Total Points:	173
+Log Likelihood Ratio:	-3155.295641
+Perplexity of chocolate brown on chocolate brown:	1.016428
+
+Raw Models:
+Name:		chocolate brown
+Availability:	0.004232
+Hue Adjust:	True
+mu1: 20.247442, sh1: 2.377461, sc1: 5.261043, mu2: 23.491524, sh2: 4.006350, sc2: 3.164972 mu1: 72.462939, sh1: 2.966025, sc1: 10.405904, mu2: 80.130825, sh2: 7.611129, sc2: 4.675708 mu1: 34.067005, sh1: 4.085516, sc1: 4.633835, mu2: 37.382132, sh2: 7.508806, sc2: 2.014508 
+
+Name:		chocolate brown
+Availability:	0.002593
+Hue Adjust:	False
+mu1: 63.815593, sh1: 2.566990, sc1: 4.596158, mu2: 70.069598, sh2: 2.852953, sc2: 4.720862 mu1: 70.171790, sh1: 4.436429, sc1: 5.061917, mu2: 83.862928, sh2: 5.435095, sc2: 5.039441 mu1: 65.149171, sh1: 4.507214, sc1: 3.362493, mu2: 76.234755, sh2: 3.830152, sc2: 5.182745 
+
+--------------
+
+Availability of Real orange-red model:	0.030431
+Availability of Created orange red model:	0.014338
+Percentage Change of Availabilities:	-0.528839
+
+Real orange-red model on orange-red points:	-5062.058446
+Created orange red model on orange-red points:	-5938.407618
+Total Points:	471
+Log Likelihood Ratio:	-1752.698342
+Perplexity of orange red on orange-red:	1.168294
+
+Raw Models:
+Name:		orange-red
+Availability:	0.030431
+Hue Adjust:	True
+mu1: 9.052247, sh1: 2.480064, sc1: 2.769468, mu2: 12.061642, sh2: 1.927185, sc2: 4.157494 mu1: 89.601349, sh1: 3.821335, sc1: 5.191812, mu2: 100.461922, sh2: 5.374623, sc2: 3.836551 mu1: 87.804771, sh1: 1.843604, sc1: 5.912345, mu2: 99.652606, sh2: 2.902904, sc2: 7.701925 
+
+Name:		orange red
+Availability:	0.014338
+Hue Adjust:	True
+mu1: -2.306488, sh1: 3.622386, sc1: 3.822202, mu2: 1.311558, sh2: 3.439168, sc2: 2.987092 mu1: 90.728007, sh1: 3.375803, sc1: 5.648759, mu2: 100.818999, sh2: 7.166149, sc2: 4.768917 mu1: 66.995077, sh1: 2.994321, sc1: 5.683559, mu2: 72.459165, sh2: 3.602210, sc2: 4.901094 
+
+--------------
+
+Availability of Real khaki green model:	0.002868
+Availability of Created khaki green model:	0.009205
+Percentage Change of Availabilities:	2.209794
+
+Real khaki green model on khaki green points:	-1840.879298
+Created khaki green model on khaki green points:	-1878.716494
+Total Points:	140
+Log Likelihood Ratio:	-75.674391
+Perplexity of khaki green on khaki green:	1.004609
+
+Raw Models:
+Name:		khaki green
+Availability:	0.002868
+Hue Adjust:	False
+mu1: 75.071817, sh1: 4.177858, sc1: 5.052269, mu2: 79.896713, sh2: 2.179111, sc2: 8.134455 mu1: 49.931595, sh1: 6.933063, sc1: 3.390030, mu2: 54.395514, sh2: 3.108797, sc2: 9.380973 mu1: 54.733642, sh1: 3.499892, sc1: 5.554228, mu2: 57.070819, sh2: 4.659795, sc2: 5.181000 
+
+Name:		khaki green
+Availability:	0.009205
+Hue Adjust:	False
+mu1: 81.081778, sh1: 3.674085, sc1: 5.854774, mu2: 85.666491, sh2: 3.309050, sc2: 8.074222 mu1: 64.144937, sh1: 5.272805, sc1: 5.743469, mu2: 69.347988, sh2: 7.050636, sc2: 7.260463 mu1: 67.171652, sh1: 3.499088, sc1: 5.520743, mu2: 73.079355, sh2: 3.576095, sc2: 5.318928 
+
+--------------
+
+Availability of Real blue-purple model:	0.012889
+Availability of Created blue purple model:	0.005538
+Percentage Change of Availabilities:	-0.570302
+
+Real blue-purple model on blue-purple points:	-12671.224560
+Created blue purple model on blue-purple points:	-16652.361858
+Total Points:	1039
+Log Likelihood Ratio:	-7962.274595
+Perplexity of blue purple on blue-purple:	1.084301
+
+Raw Models:
+Name:		blue-purple
+Availability:	0.012889
+Hue Adjust:	False
+mu1: 258.491211, sh1: 2.081038, sc1: 9.442472, mu2: 260.716834, sh2: 2.030976, sc2: 5.545537 mu1: 89.819590, sh1: 4.968771, sc1: 8.546154, mu2: 95.007483, sh2: 12.303086, sc2: 5.860922 mu1: 94.970784, sh1: 3.570292, sc1: 10.046787, mu2: 101.527146, sh2: 3.668506, sc2: 11.630280 
+
+Name:		blue purple
+Availability:	0.005538
+Hue Adjust:	False
+mu1: 199.182254, sh1: 3.341520, sc1: 6.445562, mu2: 203.843455, sh2: 2.838184, sc2: 6.937370 mu1: 79.584044, sh1: 4.927765, sc1: 6.263553, mu2: 85.683944, sh2: 6.593063, sc2: 6.593011 mu1: 76.915820, sh1: 4.091504, sc1: 5.297753, mu2: 89.319245, sh2: 4.322432, sc2: 7.295797 
+
+--------------
+
+Availability of Real violet blue model:	0.004379
+Availability of Created violet blue model:	0.005538
+Percentage Change of Availabilities:	0.264648
+
+Real violet blue model on violet blue points:	-2118.166112
+Created violet blue model on violet blue points:	-2768.221779
+Total Points:	173
+Log Likelihood Ratio:	-1300.111334
+Perplexity of violet blue on violet blue:	1.015086
+
+Raw Models:
+Name:		violet blue
+Availability:	0.004379
+Hue Adjust:	False
+mu1: 250.211086, sh1: 1.770207, sc1: 5.679109, mu2: 256.505217, sh2: 2.191842, sc2: 5.756972 mu1: 83.731319, sh1: 5.349961, sc1: 5.892717, mu2: 92.339325, sh2: 12.271385, sc2: 5.939869 mu1: 89.531227, sh1: 3.863728, sc1: 7.347057, mu2: 96.119046, sh2: 9.115045, sc2: 5.398238 
+
+Name:		violet blue
+Availability:	0.005538
+Hue Adjust:	False
+mu1: 199.182254, sh1: 3.341520, sc1: 6.445562, mu2: 203.843455, sh2: 2.838184, sc2: 6.937370 mu1: 79.584044, sh1: 4.927765, sc1: 6.263553, mu2: 85.683944, sh2: 6.593063, sc2: 6.593011 mu1: 76.915820, sh1: 4.091504, sc1: 5.297753, mu2: 89.319245, sh2: 4.322432, sc2: 7.295797 
+
+--------------
+
+Availability of Real blue violet model:	0.009484
+Availability of Created blue violet model:	0.014338
+Percentage Change of Availabilities:	0.511779
+
+Real blue violet model on blue violet points:	-7240.715097
+Created blue violet model on blue violet points:	-51653.079698
+Total Points:	591
+Log Likelihood Ratio:	-88824.729201
+Perplexity of blue violet on blue violet:	1.279329
+
+Raw Models:
+Name:		blue violet
+Availability:	0.009484
+Hue Adjust:	False
+mu1: 257.779477, sh1: 2.262030, sc1: 8.030831, mu2: 260.874519, sh2: 2.799786, sc2: 4.478491 mu1: 80.357801, sh1: 3.711517, sc1: 8.078302, mu2: 87.911763, sh2: 10.088122, sc2: 6.494778 mu1: 89.997271, sh1: 3.693970, sc1: 9.225367, mu2: 98.414050, sh2: 4.008107, sc2: 3.102791 
+
+Name:		blue violet
+Availability:	0.014338
+Hue Adjust:	True
+mu1: -2.306488, sh1: 3.622386, sc1: 3.822202, mu2: 1.311558, sh2: 3.439168, sc2: 2.987092 mu1: 90.728007, sh1: 3.375803, sc1: 5.648759, mu2: 100.818999, sh2: 7.166149, sc2: 4.768917 mu1: 66.995077, sh1: 2.994321, sc1: 5.683559, mu2: 72.459165, sh2: 3.602210, sc2: 4.901094 
+
+--------------
+
+Availability of Real brown-green model:	0.004458
+Availability of Created brown green model:	0.003708
+Percentage Change of Availabilities:	-0.168172
+
+Real brown-green model on brown-green points:	-2630.302486
+Created brown green model on brown-green points:	-3876.086140
+Total Points:	202
+Log Likelihood Ratio:	-2491.567308
+Perplexity of brown green on brown-green:	1.012742
+
+Raw Models:
+Name:		brown-green
+Availability:	0.004458
+Hue Adjust:	False
+mu1: 53.317135, sh1: 3.962562, sc1: 2.189132, mu2: 63.408924, sh2: 3.288166, sc2: 5.144222 mu1: 75.488356, sh1: 4.227047, sc1: 8.024817, mu2: 82.846600, sh2: 6.274676, sc2: 4.017085 mu1: 43.189365, sh1: 2.042420, sc1: 6.154225, mu2: 48.425132, sh2: 4.618313, sc2: 5.924013 
+
+Name:		brown green
+Availability:	0.003708
+Hue Adjust:	False
+mu1: 12.726376, sh1: 3.947738, sc1: 6.396164, mu2: 20.196091, sh2: 3.402063, sc2: 5.785297 mu1: 52.797331, sh1: 3.315296, sc1: 6.705264, mu2: 58.829984, sh2: 3.644063, sc2: 6.808952 mu1: 92.559699, sh1: 3.204784, sc1: 5.239214, mu2: 100.912983, sh2: 4.702661, sc2: 5.483390 
+
+--------------
+
+Availability of Real red-orange model:	0.069906
+Availability of Created red orange model:	0.003708
+Percentage Change of Availabilities:	-0.946955
+
+Real red-orange model on red-orange points:	-11476.802455
+Created red orange model on red-orange points:	-13496.923218
+Total Points:	1081
+Log Likelihood Ratio:	-4040.241526
+Perplexity of red orange on red-orange:	1.459226
+
+Raw Models:
+Name:		red-orange
+Availability:	0.069906
+Hue Adjust:	True
+mu1: 10.721477, sh1: 2.765116, sc1: 2.772337, mu2: 12.878734, sh2: 2.534229, sc2: 2.545639 mu1: 93.313101, sh1: 3.072481, sc1: 6.846617, mu2: 104.648749, sh2: 6.996336, sc2: 4.940475 mu1: 97.512946, sh1: 3.762030, sc1: 5.491501, mu2: 104.489776, sh2: 7.285537, sc2: 10.833811 
+
+Name:		red orange
+Availability:	0.003708
+Hue Adjust:	False
+mu1: 12.726376, sh1: 3.947738, sc1: 6.396164, mu2: 20.196091, sh2: 3.402063, sc2: 5.785297 mu1: 52.797331, sh1: 3.315296, sc1: 6.705264, mu2: 58.829984, sh2: 3.644063, sc2: 6.808952 mu1: 92.559699, sh1: 3.204784, sc1: 5.239214, mu2: 100.912983, sh2: 4.702661, sc2: 5.483390 
+
+--------------
+
+Availability of Real orange-yellow model:	0.026919
+Availability of Created orange yellow model:	0.007558
+Percentage Change of Availabilities:	-0.719221
+
+Real orange-yellow model on orange-yellow points:	-1959.141472
+Created orange yellow model on orange-yellow points:	-2217.223179
+Total Points:	190
+Log Likelihood Ratio:	-516.163415
+Perplexity of orange yellow on orange-yellow:	1.106586
+
+Raw Models:
+Name:		orange-yellow
+Availability:	0.026919
+Hue Adjust:	False
+mu1: 39.096661, sh1: 1.967985, sc1: 3.398049, mu2: 44.588907, sh2: 2.250923, sc2: 3.207828 mu1: 89.708864, sh1: 6.767918, sc1: 2.846232, mu2: 103.498376, sh2: 6.668031, sc2: 7.574518 mu1: 99.476821, sh1: 5.962586, sc1: 2.042300, mu2: 106.072296, sh2: 3.009362, sc2: 2.433644 
+
+Name:		orange yellow
+Availability:	0.007558
+Hue Adjust:	False
+mu1: 55.675024, sh1: 2.918769, sc1: 4.351657, mu2: 61.474769, sh2: 2.185004, sc2: 4.320830 mu1: 77.815525, sh1: 4.181123, sc1: 5.173571, mu2: 84.832554, sh2: 6.007880, sc2: 6.188803 mu1: 83.762282, sh1: 2.890036, sc1: 3.969003, mu2: 94.761504, sh2: 3.428549, sc2: 4.772723 
+
+--------------
+
+Availability of Real grey blue model:	0.018640
+Availability of Created grey blue model:	0.002593
+Percentage Change of Availabilities:	-0.860908
+
+Real grey blue model on grey blue points:	-28701.289129
+Created grey blue model on grey blue points:	-77398.785905
+Total Points:	2154
+Log Likelihood Ratio:	-97394.993552
+Perplexity of grey blue on grey blue:	1.180423
+
+Raw Models:
+Name:		grey blue
+Availability:	0.018640
+Hue Adjust:	False
+mu1: 199.951579, sh1: 1.955890, sc1: 12.570532, mu2: 200.817737, sh2: 3.308656, sc2: 9.704018 mu1: 32.158610, sh1: 4.066270, sc1: 4.620078, mu2: 33.814859, sh2: 2.148072, sc2: 10.722981 mu1: 66.201124, sh1: 2.855882, sc1: 7.615999, mu2: 67.343396, sh2: 3.175523, sc2: 6.450045 
+
+Name:		grey blue
+Availability:	0.002593
+Hue Adjust:	False
+mu1: 63.815593, sh1: 2.566990, sc1: 4.596158, mu2: 70.069598, sh2: 2.852953, sc2: 4.720862 mu1: 70.171790, sh1: 4.436429, sc1: 5.061917, mu2: 83.862928, sh2: 5.435095, sc2: 5.039441 mu1: 65.149171, sh1: 4.507214, sc1: 3.362493, mu2: 76.234755, sh2: 3.830152, sc2: 5.182745 
+
+--------------
+

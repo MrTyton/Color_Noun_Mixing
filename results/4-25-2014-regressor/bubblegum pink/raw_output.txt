@@ -1,0 +1,23 @@
+Availability of Real bubblegum pink model:	0.002786
+Availability of Created bubblegum pink model:	0.019943
+Percentage Change of Availabilities:	6.158636
+
+Real bubblegum pink model on bubblegum pink points:	-1835.445006
+Created bubblegum pink model on bubblegum pink points:	-4638.831350
+Total Points:	161
+Log Likelihood Ratio:	-5606.772688
+Perplexity of bubblegum pink on bubblegum pink:	1.053290
+
+Raw Models:
+Name:		bubblegum pink
+Availability:	0.002786
+Hue Adjust:	True
+mu1: -30.413235, sh1: 4.747007, sc1: 6.217548, mu2: -26.291300, sh2: 1.839043, sc2: 10.400188 mu1: 51.492161, sh1: 3.328172, sc1: 6.081699, mu2: 54.533703, sh2: 5.243551, sc2: 4.168761 mu1: 96.857124, sh1: 1.295938, sc1: 7.119972, mu2: 107.829893, sh2: 4.381119, sc2: 7.217911 
+
+Name:		bubblegum pink
+Availability:	0.019943
+Hue Adjust:	False
+mu1: 72.031278, sh1: 3.938638, sc1: 4.559508, mu2: 76.255717, sh2: 2.746415, sc2: 5.383434 mu1: 83.335118, sh1: 3.508529, sc1: 7.395828, mu2: 90.455203, sh2: 8.471013, sc2: 6.334742 mu1: 69.339652, sh1: 3.374684, sc1: 5.322207, mu2: 74.537687, sh2: 3.020041, sc2: 7.075651 
+
+--------------
+

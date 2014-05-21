@@ -1,0 +1,23 @@
+Availability of Real aqua blue model:	0.005801
+Availability of Created aqua blue model:	0.006599
+Percentage Change of Availabilities:	0.137546
+
+Real aqua blue model on aqua blue points:	-3845.113122
+Created aqua blue model on aqua blue points:	-4844.469009
+Total Points:	312
+Log Likelihood Ratio:	-1998.711774
+Perplexity of aqua blue on aqua blue:	1.029702
+
+Raw Models:
+Name:		aqua blue
+Availability:	0.005801
+Hue Adjust:	False
+mu1: 183.438772, sh1: 4.041392, sc1: 4.671507, mu2: 185.806731, sh2: 2.801625, sc2: 4.625534 mu1: 88.478355, sh1: 3.901596, sc1: 8.773325, mu2: 95.506883, sh2: 6.310884, sc2: 11.368493 mu1: 103.931621, sh1: 3.349230, sc1: 8.921005, mu2: 113.220926, sh2: 5.509239, sc2: 2.969909 
+
+Name:		aqua blue
+Availability:	0.006599
+Hue Adjust:	False
+mu1: 111.660863, sh1: 5.182307, sc1: 7.197527, mu2: 116.733889, sh2: 5.293735, sc2: 8.622508 mu1: 67.342295, sh1: 3.006137, sc1: 8.158086, mu2: 74.183950, sh2: 6.522899, sc2: 7.470070 mu1: 60.113955, sh1: 6.235259, sc1: 4.649856, mu2: 65.849927, sh2: 4.784705, sc2: 4.747643 
+
+--------------
+

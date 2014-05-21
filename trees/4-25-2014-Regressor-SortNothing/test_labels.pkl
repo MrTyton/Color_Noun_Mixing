@@ -1,0 +1,52 @@
+(lp0
+S'ugly yellow'
+p1
+aS'brick orange'
+p2
+aS'khaki green'
+p3
+aS'avocado green'
+p4
+aS'avocado green'
+p5
+aS'eggshell blue'
+p6
+aS'eggshell blue'
+p7
+aS'brick orange'
+p8
+aS'chocolate brown'
+p9
+aS'orange-red'
+p10
+aS'khaki green'
+p11
+aS'blue-purple'
+p12
+aS'violet blue'
+p13
+aS'blue violet'
+p14
+aS'brown-green'
+p15
+aS'red-orange'
+p16
+aS'orange-yellow'
+p17
+aS'grey blue'
+p18
+aS'flesh pink'
+p19
+aS'flesh pink'
+p20
+aS'grey purple'
+p21
+aS'green-yellow'
+p22
+aS'brown yellow'
+p23
+aS'ugly yellow'
+p24
+aS'chocolate brown'
+p25
+a.

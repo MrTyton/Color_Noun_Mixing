@@ -1,0 +1,23 @@
+Availability of Real moss green model:	0.009751
+Availability of Created moss green model:	0.006389
+Percentage Change of Availabilities:	-0.344810
+
+Real moss green model on moss green points:	-8474.764627
+Created moss green model on moss green points:	-8773.607014
+Total Points:	632
+Log Likelihood Ratio:	-597.684773
+Perplexity of moss green on moss green:	1.014540
+
+Raw Models:
+Name:		moss green
+Availability:	0.009751
+Hue Adjust:	False
+mu1: 82.296235, sh1: 4.238082, sc1: 3.909514, mu2: 84.565506, sh2: 2.786119, sc2: 11.345690 mu1: 48.441917, sh1: 3.575290, sc1: 6.558851, mu2: 53.034663, sh2: 4.259992, sc2: 10.785756 mu1: 59.347959, sh1: 3.123012, sc1: 6.343360, mu2: 61.157378, sh2: 4.434853, sc2: 4.643006 
+
+Name:		moss green
+Availability:	0.006389
+Hue Adjust:	False
+mu1: 80.532077, sh1: 4.066659, sc1: 5.726237, mu2: 86.713674, sh2: 3.609312, sc2: 7.590025 mu1: 54.876940, sh1: 5.295618, sc1: 5.755550, mu2: 64.244108, sh2: 5.232046, sc2: 6.964496 mu1: 64.383781, sh1: 2.870021, sc1: 4.981752, mu2: 72.092658, sh2: 5.123788, sc2: 5.497553 
+
+--------------
+

@@ -1,0 +1,23 @@
+Availability of Real grey green model:	0.012590
+Availability of Created grey green model:	0.006442
+Percentage Change of Availabilities:	-0.488283
+
+Real grey green model on grey green points:	-22527.656983
+Created grey green model on grey green points:	-25377.479472
+Total Points:	1712
+Log Likelihood Ratio:	-5699.644977
+Perplexity of grey green on grey green:	1.050934
+
+Raw Models:
+Name:		grey green
+Availability:	0.012590
+Hue Adjust:	False
+mu1: 104.815024, sh1: 6.590170, sc1: 6.258454, mu2: 107.237138, sh2: 4.689942, sc2: 12.225917 mu1: 27.692532, sh1: 4.662350, sc1: 2.973267, mu2: 31.396767, sh2: 1.894257, sc2: 9.642700 mu1: 62.527698, sh1: 2.614271, sc1: 7.970818, mu2: 64.135751, sh2: 3.837841, sc2: 5.048175 
+
+Name:		grey green
+Availability:	0.006442
+Hue Adjust:	False
+mu1: 124.239042, sh1: 4.303394, sc1: 7.596254, mu2: 130.956459, sh2: 5.576936, sc2: 7.116816 mu1: 57.761526, sh1: 3.150352, sc1: 7.018447, mu2: 69.982267, sh2: 4.637590, sc2: 7.765761 mu1: 69.957499, sh1: 6.439441, sc1: 5.661036, mu2: 77.381424, sh2: 5.022275, sc2: 5.074338 
+
+--------------
+

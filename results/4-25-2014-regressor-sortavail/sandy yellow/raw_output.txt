@@ -1,0 +1,23 @@
+Availability of Real sandy yellow model:	0.002225
+Availability of Created sandy yellow model:	0.002220
+Percentage Change of Availabilities:	-0.002141
+
+Real sandy yellow model on sandy yellow points:	-486.358441
+Created sandy yellow model on sandy yellow points:	-712.699490
+Total Points:	42
+Log Likelihood Ratio:	-452.682100
+Perplexity of sandy yellow on sandy yellow:	1.010250
+
+Raw Models:
+Name:		sandy yellow
+Availability:	0.002225
+Hue Adjust:	True
+mu1: 46.293173, sh1: 1.821630, sc1: 2.751200, mu2: 49.397234, sh2: 3.955765, sc2: 4.668875 mu1: 53.414224, sh1: 5.076198, sc1: 3.163618, mu2: 63.988752, sh2: 8.601109, sc2: 1.589810 mu1: 95.133829, sh1: 3.839299, sc1: 4.581828, mu2: 104.026287, sh2: 1.891183, sc2: 8.337913 
+
+Name:		sandy yellow
+Availability:	0.002220
+Hue Adjust:	False
+mu1: -19.983134, sh1: 4.883800, sc1: 5.193407, mu2: -13.494741, sh2: 5.540622, sc2: 7.053711 mu1: 62.150989, sh1: 4.973712, sc1: 4.882149, mu2: 72.957683, sh2: 4.736668, sc2: 7.025607 mu1: 58.928585, sh1: 3.183834, sc1: 6.501967, mu2: 65.676114, sh2: 3.151826, sc2: 4.519682 
+
+--------------
+

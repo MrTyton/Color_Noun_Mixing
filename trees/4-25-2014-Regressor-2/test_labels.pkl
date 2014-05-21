@@ -1,0 +1,64 @@
+(lp0
+S'violet blue'
+p1
+aS'turquoise green'
+p2
+aS'ice blue'
+p3
+aS'yellow tan'
+p4
+aS'green-yellow'
+p5
+aS'olive brown'
+p6
+aS'green-blue'
+p7
+aS'turquoise green'
+p8
+aS'red violet'
+p9
+aS'golden yellow'
+p10
+aS'red-brown'
+p11
+aS'purple blue'
+p12
+aS'brown-green'
+p13
+aS'olive brown'
+p14
+aS'tomato red'
+p15
+aS'cobalt blue'
+p16
+aS'grey green'
+p17
+aS'brown-orange'
+p18
+aS'yellow-orange'
+p19
+aS'ice blue'
+p20
+aS'violet red'
+p21
+aS'golden yellow'
+p22
+aS'blue-green'
+p23
+aS'cobalt blue'
+p24
+aS'brown yellow'
+p25
+aS'yellow tan'
+p26
+aS'grey-brown'
+p27
+aS'red-pink'
+p28
+aS'tomato red'
+p29
+aS'green-brown'
+p30
+aS'grey blue'
+p31
+a.

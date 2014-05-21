@@ -1,0 +1,23 @@
+Availability of Real algae green model:	0.000801
+Availability of Created algae green model:	0.002931
+Percentage Change of Availabilities:	2.660680
+
+Real algae green model on algae green points:	-496.700938
+Created algae green model on algae green points:	-839.842956
+Total Points:	37
+Log Likelihood Ratio:	-686.284036
+Perplexity of algae green on algae green:	1.001194
+
+Raw Models:
+Name:		algae green
+Availability:	0.000801
+Hue Adjust:	False
+mu1: 109.484304, sh1: 6.279520, sc1: 6.576235, mu2: 118.270649, sh2: 4.818142, sc2: 9.560144 mu1: 62.157353, sh1: 2.673806, sc1: 7.095351, mu2: 74.056741, sh2: 5.823253, sc2: 8.841172 mu1: 73.030876, sh1: 12.707351, sc1: 1.627422, mu2: 83.376170, sh2: 3.566099, sc2: 3.784979 
+
+Name:		algae green
+Availability:	0.002931
+Hue Adjust:	False
+mu1: 36.768920, sh1: 2.343441, sc1: 3.966721, mu2: 41.177876, sh2: 2.440532, sc2: 5.751839 mu1: 82.547027, sh1: 3.482516, sc1: 6.471353, mu2: 92.168648, sh2: 5.863093, sc2: 6.863326 mu1: 60.966556, sh1: 3.978057, sc1: 4.442239, mu2: 68.177345, sh2: 4.061452, sc2: 4.310603 
+
+--------------
+

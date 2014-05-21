@@ -1,0 +1,23 @@
+Availability of Real purple grey model:	0.004457
+Availability of Created purple grey model:	0.018283
+Percentage Change of Availabilities:	3.101615
+
+Real purple grey model on purple grey points:	-5718.770581
+Created purple grey model on purple grey points:	-10767.047186
+Total Points:	427
+Log Likelihood Ratio:	-10096.553209
+Perplexity of purple grey on purple grey:	1.025382
+
+Raw Models:
+Name:		purple grey
+Availability:	0.004457
+Hue Adjust:	True
+mu1: -83.053433, sh1: 7.348200, sc1: 5.245374, mu2: -81.180126, sh2: 3.483376, sc2: 15.036684 mu1: 20.945693, sh1: 3.799186, sc1: 2.734723, mu2: 22.503247, sh2: 2.949031, sc2: 5.201413 mu1: 53.526292, sh1: 1.739984, sc1: 7.938957, mu2: 55.581137, sh2: 4.495123, sc2: 4.875773 
+
+Name:		purple grey
+Availability:	0.018283
+Hue Adjust:	False
+mu1: 1.743308, sh1: 3.766939, sc1: 4.669129, mu2: 5.471789, sh2: 4.194138, sc2: 3.964362 mu1: 74.109800, sh1: 4.444627, sc1: 5.697890, mu2: 81.455201, sh2: 6.427350, sc2: 7.233276 mu1: 75.190841, sh1: 2.809229, sc1: 5.975710, mu2: 83.177441, sh2: 3.565364, sc2: 4.644173 
+
+--------------
+

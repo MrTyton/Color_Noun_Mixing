@@ -1,0 +1,23 @@
+Availability of Real puke green model:	0.023568
+Availability of Created puke green model:	0.007902
+Percentage Change of Availabilities:	-0.664708
+
+Real puke green model on puke green points:	-14795.251904
+Created puke green model on puke green points:	-14784.235475
+Total Points:	1155
+Log Likelihood Ratio:	22.032859
+Perplexity of puke green on puke green:	1.070363
+
+Raw Models:
+Name:		puke green
+Availability:	0.023568
+Hue Adjust:	True
+mu1: 67.309365, sh1: 2.364770, sc1: 4.930051, mu2: 70.075763, sh2: 3.609884, sc2: 4.551011 mu1: 97.833419, sh1: 3.089897, sc1: 12.742785, mu2: 105.603590, sh2: 13.597582, sc2: 7.865198 mu1: 73.932112, sh1: 3.783123, sc1: 5.534838, mu2: 76.123397, sh2: 2.902373, sc2: 6.045290 
+
+Name:		puke green
+Availability:	0.007902
+Hue Adjust:	False
+mu1: 74.500217, sh1: 4.557914, sc1: 4.290344, mu2: 80.067030, sh2: 2.542344, sc2: 5.543620 mu1: 76.853194, sh1: 3.717352, sc1: 5.481263, mu2: 84.671243, sh2: 6.822446, sc2: 5.584260 mu1: 65.623004, sh1: 3.453248, sc1: 4.678892, mu2: 71.124538, sh2: 2.952049, sc2: 6.842253 
+
+--------------
+

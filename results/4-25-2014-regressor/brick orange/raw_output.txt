@@ -1,0 +1,23 @@
+Availability of Real brick orange model:	0.002595
+Availability of Created brick orange model:	0.007713
+Percentage Change of Availabilities:	1.972111
+
+Real brick orange model on brick orange points:	-414.759995
+Created brick orange model on brick orange points:	-397.873672
+Total Points:	36
+Log Likelihood Ratio:	33.772645
+Perplexity of brick orange on brick orange:	1.005240
+
+Raw Models:
+Name:		brick orange
+Availability:	0.002595
+Hue Adjust:	True
+mu1: 8.212294, sh1: 1.596638, sc1: 10.010085, mu2: 18.716695, sh2: 4.996034, sc2: 1.778695 mu1: 93.159074, sh1: 5.356687, sc1: 3.548107, mu2: 105.780605, sh2: 8.604490, sc2: 2.992425 mu1: 74.425939, sh1: 6.978909, sc1: 1.537074, mu2: 78.009911, sh2: 8.179842, sc2: 1.898334 
+
+Name:		brick orange
+Availability:	0.007713
+Hue Adjust:	False
+mu1: 16.542314, sh1: 2.841060, sc1: 2.571929, mu2: 23.204953, sh2: 2.080442, sc2: 4.363961 mu1: 88.658983, sh1: 2.996018, sc1: 6.404010, mu2: 96.579657, sh2: 7.210429, sc2: 7.258761 mu1: 76.605196, sh1: 2.594427, sc1: 4.936458, mu2: 88.247727, sh2: 5.150674, sc2: 3.275114 
+
+--------------
+

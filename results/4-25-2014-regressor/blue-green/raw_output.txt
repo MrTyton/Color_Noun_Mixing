@@ -1,0 +1,23 @@
+Availability of Real blue-green model:	0.030229
+Availability of Created blue green model:	0.016913
+Percentage Change of Availabilities:	-0.440502
+
+Real blue-green model on blue-green points:	-33852.725982
+Created blue green model on blue-green points:	-44350.821789
+Total Points:	2635
+Log Likelihood Ratio:	-20996.191614
+Perplexity of blue green on blue-green:	1.125355
+
+Raw Models:
+Name:		blue-green
+Availability:	0.030229
+Hue Adjust:	False
+mu1: 160.227296, sh1: 2.432075, sc1: 6.479917, mu2: 161.554337, sh2: 3.325606, sc2: 6.995617 mu1: 100.268528, sh1: 4.364804, sc1: 12.315876, mu2: 106.299711, sh2: 7.351054, sc2: 8.553011 mu1: 68.234239, sh1: 3.262612, sc1: 8.050897, mu2: 69.385154, sh2: 5.106701, sc2: 5.824127 
+
+Name:		blue green
+Availability:	0.016913
+Hue Adjust:	False
+mu1: 222.071743, sh1: 2.534025, sc1: 7.687284, mu2: 227.057937, sh2: 3.850464, sc2: 4.867945 mu1: 81.637457, sh1: 4.303531, sc1: 7.988300, mu2: 87.318174, sh2: 9.969995, sc2: 5.935432 mu1: 89.096125, sh1: 4.402153, sc1: 8.404395, mu2: 98.613986, sh2: 4.757526, sc2: 10.018870 
+
+--------------
+

@@ -1,0 +1,23 @@
+Availability of Real grape purple model:	0.000594
+Availability of Created grape purple model:	0.012880
+Percentage Change of Availabilities:	20.682522
+
+Real grape purple model on grape purple points:	-623.539484
+Created grape purple model on grape purple points:	-2097.219428
+Total Points:	46
+Log Likelihood Ratio:	-2947.359889
+Perplexity of grape purple on grape purple:	1.003032
+
+Raw Models:
+Name:		grape purple
+Availability:	0.000594
+Hue Adjust:	True
+mu1: -50.679969, sh1: 7.587646, sc1: 6.946639, mu2: -45.513540, sh2: 9.187142, sc2: 2.294093 mu1: 65.799353, sh1: 4.343885, sc1: 4.886389, mu2: 77.131669, sh2: 6.384221, sc2: 6.930271 mu1: 48.016917, sh1: 3.617841, sc1: 9.472510, mu2: 56.536638, sh2: 3.859876, sc2: 4.349612 
+
+Name:		grape purple
+Availability:	0.012880
+Hue Adjust:	False
+mu1: 182.903071, sh1: 3.106313, sc1: 6.034973, mu2: 189.000784, sh2: 3.668231, sc2: 6.185515 mu1: 80.244410, sh1: 3.982589, sc1: 6.797564, mu2: 88.504234, sh2: 7.578759, sc2: 5.013721 mu1: 72.255501, sh1: 6.995529, sc1: 4.447643, mu2: 81.141876, sh2: 6.467139, sc2: 7.133492 
+
+--------------
+

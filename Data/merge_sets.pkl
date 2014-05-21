@@ -1,0 +1,1174 @@
+(lp0
+c__builtin__
+set
+p1
+((lp2
+S'pink-purple'
+p3
+aS'pink purple'
+p4
+aS'pink/purple'
+p5
+atp6
+Rp7
+ag1
+((lp8
+S'pinky-purple'
+p9
+aS'pinky purple'
+p10
+atp11
+Rp12
+ag1
+((lp13
+S'grey-brown'
+p14
+aS'grey brown'
+p15
+aS'gray-brown'
+p16
+aS'gray brown'
+p17
+atp18
+Rp19
+ag1
+((lp20
+S'greyish pink'
+p21
+aS'grayish pink'
+p22
+atp23
+Rp24
+ag1
+((lp25
+S'medium grey'
+p26
+aS'medium gray'
+p27
+atp28
+Rp29
+ag1
+((lp30
+S'lemon lime'
+p31
+aS'lemon-lime'
+p32
+atp33
+Rp34
+ag1
+((lp35
+S'purply pink'
+p36
+aS'purpley pink'
+p37
+atp38
+Rp39
+ag1
+((lp40
+S'purple-pink'
+p41
+aS'purple pink'
+p42
+aS'purple/pink'
+p43
+atp44
+Rp45
+ag1
+((lp46
+S'burnt siena'
+p47
+aS'burnt sienna'
+p48
+atp49
+Rp50
+ag1
+((lp51
+S'turquoise'
+p52
+aS'turqouise'
+p53
+aS'turquise'
+p54
+aS'turquiose'
+p55
+aS'turquois'
+p56
+aS'torquoise'
+p57
+aS'torquise'
+p58
+aS'tourquoise'
+p59
+aS'turqoise'
+p60
+atp61
+Rp62
+ag1
+((lp63
+S'red-violet'
+p64
+aS'red violet'
+p65
+atp66
+Rp67
+ag1
+((lp68
+S'blue-ish'
+p69
+aS'blueish'
+p70
+aS'bluish'
+p71
+atp72
+Rp73
+ag1
+((lp74
+S'purple grey'
+p75
+aS'purple-grey'
+p76
+aS'purple gray'
+p77
+aS'purple-gray'
+p78
+atp79
+Rp80
+ag1
+((lp81
+S'poo'
+p82
+aS'poop'
+p83
+atp84
+Rp85
+ag1
+((lp86
+S'burgandy'
+p87
+aS'burgundy'
+p88
+aS'burgendy'
+p89
+atp90
+Rp91
+ag1
+((lp92
+S'baby poop'
+p93
+aS'baby poo'
+p94
+atp95
+Rp96
+ag1
+((lp97
+S'lilac'
+p98
+aS'liliac'
+p99
+atp100
+Rp101
+ag1
+((lp102
+S'forest green'
+p103
+aS'forrest green'
+p104
+atp105
+Rp106
+ag1
+((lp107
+S'gray-green'
+p108
+aS'grey green'
+p109
+aS'grey-green'
+p110
+aS'gray green'
+p111
+aS'grey/green'
+p112
+atp113
+Rp114
+ag1
+((lp115
+S'greenish gray'
+p116
+aS'greenish grey'
+p117
+atp118
+Rp119
+ag1
+((lp120
+S'greenish-brown'
+p121
+aS'greenish brown'
+p122
+atp123
+Rp124
+ag1
+((lp125
+S'goldenrod'
+p126
+aS'golden rod'
+p127
+atp128
+Rp129
+ag1
+((lp130
+S'seafoam green'
+p131
+aS'sea foam green'
+p132
+aS'sea-foam green'
+p133
+atp134
+Rp135
+ag1
+((lp136
+S'pinkish purple'
+p137
+aS'pinkish-purple'
+p138
+atp139
+Rp140
+ag1
+((lp141
+S'redish purple'
+p142
+aS'reddish purple'
+p143
+atp144
+Rp145
+ag1
+((lp146
+S'light green-blue'
+p147
+aS'light green blue'
+p148
+atp149
+Rp150
+ag1
+((lp151
+S'green blue'
+p152
+aS'green-blue'
+p153
+aS'greeny blue'
+p154
+atp155
+Rp156
+ag1
+((lp157
+S'chartruse'
+p158
+aS'chartreuse'
+p159
+aS'chartruese'
+p160
+atp161
+Rp162
+ag1
+((lp163
+S'purple.'
+p164
+aS'pruple'
+p165
+aS'purple'
+p166
+aS'purple!'
+p167
+aS'puple'
+p168
+aS'purpley'
+p169
+aS'purpl'
+p170
+aS'purplr'
+p171
+atp172
+Rp173
+ag1
+((lp174
+S'blue gray'
+p175
+aS'blue-gray'
+p176
+aS'blue grey'
+p177
+aS'blue-grey'
+p178
+aS'blue/grey'
+p179
+atp180
+Rp181
+ag1
+((lp182
+S'marron'
+p183
+aS'marroon'
+p184
+aS'maroon'
+p185
+atp186
+Rp187
+ag1
+((lp188
+S'yello'
+p189
+aS'yellow'
+p190
+atp191
+Rp192
+ag1
+((lp193
+S'pink'
+p194
+aS'pink!'
+p195
+atp196
+Rp197
+ag1
+((lp198
+S'sea foam'
+p199
+aS'seafoam'
+p200
+atp201
+Rp202
+ag1
+((lp203
+S'yellow-orange'
+p204
+aS'yellow orange'
+p205
+atp206
+Rp207
+ag1
+((lp208
+S'grayish blue'
+p209
+aS'greyish blue'
+p210
+atp211
+Rp212
+ag1
+((lp213
+S'purplish gray'
+p214
+aS'purplish grey'
+p215
+atp216
+Rp217
+ag1
+((lp218
+S'purple-ish'
+p219
+aS'purpleish'
+p220
+aS'purplish'
+p221
+atp222
+Rp223
+ag1
+((lp224
+S'warm grey'
+p225
+aS'warm gray'
+p226
+atp227
+Rp228
+ag1
+((lp229
+S'grayish brown'
+p230
+aS'greyish brown'
+p231
+atp232
+Rp233
+ag1
+((lp234
+S'grey purple'
+p235
+aS'grey-purple'
+p236
+aS'gray purple'
+p237
+aS'gray-purple'
+p238
+atp239
+Rp240
+ag1
+((lp241
+S'redish pink'
+p242
+aS'reddish pink'
+p243
+atp244
+Rp245
+ag1
+((lp246
+S'light lavendar'
+p247
+aS'light lavender'
+p248
+atp249
+Rp250
+ag1
+((lp251
+S'teel'
+p252
+aS'teal?'
+p253
+aS'teal'
+p254
+atp255
+Rp256
+ag1
+((lp257
+S'dark lavendar'
+p258
+aS'dark lavender'
+p259
+atp260
+Rp261
+ag1
+((lp262
+S'yellow/green'
+p263
+aS'yellow green'
+p264
+aS'yellow-green'
+p265
+aS'yellowy green'
+p266
+atp267
+Rp268
+ag1
+((lp269
+S'orangey yellow'
+p270
+aS'orange-yellow'
+p271
+aS'orange yellow'
+p272
+atp273
+Rp274
+ag1
+((lp275
+S'fuchia'
+p276
+aS'fucia'
+p277
+aS'fuscia'
+p278
+aS'fusha'
+p279
+aS'fuchsia'
+p280
+aS'fuschia'
+p281
+aS'fushcia'
+p282
+aS'fushia'
+p283
+aS'fucshia'
+p284
+aS'fuscha'
+p285
+aS'fusia'
+p286
+atp287
+Rp288
+ag1
+((lp289
+S'green-yellow'
+p290
+aS'green yellow'
+p291
+aS'greeny yellow'
+p292
+atp293
+Rp294
+ag1
+((lp295
+S'blueish grey'
+p296
+aS'bluish grey'
+p297
+aS'bluish gray'
+p298
+aS'blueish gray'
+p299
+atp300
+Rp301
+ag1
+((lp302
+S'mossy green'
+p303
+aS'moss green'
+p304
+atp305
+Rp306
+ag1
+((lp307
+S'ocre'
+p308
+aS'ochre'
+p309
+atp310
+Rp311
+ag1
+((lp312
+S'yellow brown'
+p313
+aS'yellowy brown'
+p314
+aS'yellow-brown'
+p315
+atp316
+Rp317
+ag1
+((lp318
+S'brownish grey'
+p319
+aS'brownish gray'
+p320
+atp321
+Rp322
+ag1
+((lp323
+S'red brown'
+p324
+aS'red-brown'
+p325
+atp326
+Rp327
+ag1
+((lp328
+S'purpley blue'
+p329
+aS'purply blue'
+p330
+atp331
+Rp332
+ag1
+((lp333
+S'purple blue'
+p334
+aS'purple/blue'
+p335
+aS'purple-blue'
+p336
+atp337
+Rp338
+ag1
+((lp339
+S'green-brown'
+p340
+aS'green brown'
+p341
+atp342
+Rp343
+ag1
+((lp344
+S'bleu'
+p345
+aS'blue'
+p346
+aS'blue.'
+p347
+aS'blu'
+p348
+aS'blue!'
+p349
+aS'ble'
+p350
+aS'bue'
+p351
+atp352
+Rp353
+ag1
+((lp354
+S'greeen'
+p355
+aS'gree'
+p356
+aS'green!'
+p357
+aS'greem'
+p358
+aS'green'
+p359
+aS'gren'
+p360
+aS'green.'
+p361
+atp362
+Rp363
+ag1
+((lp364
+S'bubblegum pink'
+p365
+aS'bubble gum pink'
+p366
+atp367
+Rp368
+ag1
+((lp369
+S'blue-violet'
+p370
+aS'blue violet'
+p371
+atp372
+Rp373
+ag1
+((lp374
+S'redish brown'
+p375
+aS'reddish brown'
+p376
+aS'reddish-brown'
+p377
+atp378
+Rp379
+ag1
+((lp380
+S'purpleish pink'
+p381
+aS'purplish pink'
+p382
+atp383
+Rp384
+ag1
+((lp385
+S'orange'
+p386
+aS'orang'
+p387
+atp388
+Rp389
+ag1
+((lp390
+S'aquamarine'
+p391
+aS'aqua marine'
+p392
+atp393
+Rp394
+ag1
+((lp395
+S'off white'
+p396
+aS'off-white'
+p397
+atp398
+Rp399
+ag1
+((lp400
+S'bluegreen'
+p401
+aS'blue/green'
+p402
+aS'blue-green'
+p403
+aS'blue green'
+p404
+atp405
+Rp406
+ag1
+((lp407
+S'light blue'
+p408
+aS'light-blue'
+p409
+atp410
+Rp411
+ag1
+((lp412
+S'orange red'
+p413
+aS'orange-red'
+p414
+atp415
+Rp416
+ag1
+((lp417
+S'violet blue'
+p418
+aS'violet-blue'
+p419
+atp420
+Rp421
+ag1
+((lp422
+S'brown-green'
+p423
+aS'brown green'
+p424
+atp425
+Rp426
+ag1
+((lp427
+S'purple red'
+p428
+aS'purple-red'
+p429
+atp430
+Rp431
+ag1
+((lp432
+S'avocado'
+p433
+aS'avacado'
+p434
+atp435
+Rp436
+ag1
+((lp437
+S'light blue grey'
+p438
+aS'light blue-grey'
+p439
+atp440
+Rp441
+ag1
+((lp442
+S'pinkish red'
+p443
+aS'pinkish-red'
+p444
+atp445
+Rp446
+ag1
+((lp447
+S'blue-purple'
+p448
+aS'blue purple'
+p449
+aS'blue/purple'
+p450
+atp451
+Rp452
+ag1
+((lp453
+S'steel grey'
+p454
+aS'steel gray'
+p455
+atp456
+Rp457
+ag1
+((lp458
+S'baige'
+p459
+aS'beige'
+p460
+atp461
+Rp462
+ag1
+((lp463
+S'sky blue'
+p464
+aS'sky-blue'
+p465
+atp466
+Rp467
+ag1
+((lp468
+S'dark yellow green'
+p469
+aS'dark yellow-green'
+p470
+atp471
+Rp472
+ag1
+((lp473
+S'peuce'
+p474
+aS'puce'
+p475
+aS'puse'
+p476
+atp477
+Rp478
+ag1
+((lp479
+S'brown-grey'
+p480
+aS'brown grey'
+p481
+atp482
+Rp483
+ag1
+((lp484
+S'light grey blue'
+p485
+aS'light grey-blue'
+p486
+atp487
+Rp488
+ag1
+((lp489
+S'kelley green'
+p490
+aS'kelly green'
+p491
+atp492
+Rp493
+ag1
+((lp494
+S'mauve'
+p495
+aS'mauve?'
+p496
+atp497
+Rp498
+ag1
+((lp499
+S'lavendar'
+p500
+aS'lavender'
+p501
+aS'lavander'
+p502
+atp503
+Rp504
+ag1
+((lp505
+S'periwinkle'
+p506
+aS'perriwinkle'
+p507
+aS'perrywinkle'
+p508
+atp509
+Rp510
+ag1
+((lp511
+S'slate grey'
+p512
+aS'slate gray'
+p513
+atp514
+Rp515
+ag1
+((lp516
+S'dark turquoise'
+p517
+aS'dark turqoise'
+p518
+atp519
+Rp520
+ag1
+((lp521
+S'light gray'
+p522
+aS'light grey'
+p523
+atp524
+Rp525
+ag1
+((lp526
+S'grey/blue'
+p527
+aS'grey blue'
+p528
+aS'gray-blue'
+p529
+aS'gray blue'
+p530
+aS'grey-blue'
+p531
+atp532
+Rp533
+ag1
+((lp534
+S'dark blue-grey'
+p535
+aS'dark blue grey'
+p536
+atp537
+Rp538
+ag1
+((lp539
+S'brown red'
+p540
+aS'brown-red'
+p541
+atp542
+Rp543
+ag1
+((lp544
+S'purple-brown'
+p545
+aS'purple brown'
+p546
+atp547
+Rp548
+ag1
+((lp549
+S'brown orange'
+p550
+aS'brown-orange'
+p551
+atp552
+Rp553
+ag1
+((lp554
+S'orange-brown'
+p555
+aS'orange brown'
+p556
+atp557
+Rp558
+ag1
+((lp559
+S'red-purple'
+p560
+aS'red purple'
+p561
+atp562
+Rp563
+ag1
+((lp564
+S'green gray'
+p565
+aS'green-gray'
+p566
+aS'green grey'
+p567
+aS'green-grey'
+p568
+atp569
+Rp570
+ag1
+((lp571
+S'poo brown'
+p572
+aS'poop brown'
+p573
+atp574
+Rp575
+ag1
+((lp576
+S'light yellow-green'
+p577
+aS'light yellow green'
+p578
+atp579
+Rp580
+ag1
+((lp581
+S'blueish green'
+p582
+aS'bluish green'
+p583
+atp584
+Rp585
+ag1
+((lp586
+S'redish'
+p587
+aS'reddish'
+p588
+atp589
+Rp590
+ag1
+((lp591
+S'taupe'
+p592
+aS'toupe'
+p593
+aS'tope'
+p594
+atp595
+Rp596
+ag1
+((lp597
+S'magenta'
+p598
+aS'majenta'
+p599
+atp600
+Rp601
+ag1
+((lp602
+S'pink red'
+p603
+aS'pink-red'
+p604
+atp605
+Rp606
+ag1
+((lp607
+S'grayish green'
+p608
+aS'greyish green'
+p609
+atp610
+Rp611
+ag1
+((lp612
+S'sea-green'
+p613
+aS'sea green'
+p614
+aS'seagreen'
+p615
+atp616
+Rp617
+ag1
+((lp618
+S'dark gray'
+p619
+aS'dark grey'
+p620
+atp621
+Rp622
+ag1
+((lp623
+S'reddish orange'
+p624
+aS'redish orange'
+p625
+atp626
+Rp627
+ag1
+((lp628
+S'purple-ish blue'
+p629
+aS'purplish blue'
+p630
+aS'purpleish blue'
+p631
+aS'purplish-blue'
+p632
+atp633
+Rp634
+ag1
+((lp635
+S'light blue green'
+p636
+aS'light blue-green'
+p637
+atp638
+Rp639
+ag1
+((lp640
+S'light urple'
+p641
+aS'light purple'
+p642
+atp643
+Rp644
+ag1
+((lp645
+S'red-orange'
+p646
+aS'red orange'
+p647
+atp648
+Rp649
+ag1
+((lp650
+S'greenish yellow'
+p651
+aS'greenish-yellow'
+p652
+atp653
+Rp654
+ag1
+((lp655
+S'greyish purple'
+p656
+aS'grayish purple'
+p657
+atp658
+Rp659
+ag1
+((lp660
+S'dark blue-green'
+p661
+aS'dark blue green'
+p662
+atp663
+Rp664
+ag1
+((lp665
+S'terracotta'
+p666
+aS'terra cotta'
+p667
+atp668
+Rp669
+ag1
+((lp670
+S'robins egg blue'
+p671
+aS"robin's egg blue"
+p672
+aS'robin egg blue'
+p673
+atp674
+Rp675
+ag1
+((lp676
+S'blue-ish purple'
+p677
+aS'blueish purple'
+p678
+aS'bluish purple'
+p679
+aS'bluish-purple'
+p680
+atp681
+Rp682
+ag1
+((lp683
+S'lime green'
+p684
+aS'lime-green'
+p685
+atp686
+Rp687
+ag1
+((lp688
+S'grey pink'
+p689
+aS'grey-pink'
+p690
+atp691
+Rp692
+ag1
+((lp693
+S'red-pink'
+p694
+aS'red pink'
+p695
+atp696
+Rp697
+ag1
+((lp698
+S'teal-green'
+p699
+aS'teal green'
+p700
+atp701
+Rp702
+ag1
+((lp703
+S'gray'
+p704
+aS'grey'
+p705
+atp706
+Rp707
+ag1
+((lp708
+S'orangey brown'
+p709
+aS'orangy brown'
+p710
+atp711
+Rp712
+a.

@@ -1,0 +1,78 @@
+(lp0
+S'pink-red'
+p1
+aS'celery green'
+p2
+aS'seaweed green'
+p3
+aS'seaweed green'
+p4
+aS'purple grey'
+p5
+aS'tan brown'
+p6
+aS'banana yellow'
+p7
+aS'orange-yellow'
+p8
+aS'brown yellow'
+p9
+aS'yellow-orange'
+p10
+aS'brown-red'
+p11
+aS'jade green'
+p12
+aS'leaf green'
+p13
+aS'pea green'
+p14
+aS'leaf green'
+p15
+aS'ugly green'
+p16
+aS'red-pink'
+p17
+aS'grey-brown'
+p18
+aS'blue-green'
+p19
+aS'blue-purple'
+p20
+aS'brown-orange'
+p21
+aS'tomato red'
+p22
+aS'pea green'
+p23
+aS'brown-grey'
+p24
+aS'green-yellow'
+p25
+aS'lime yellow'
+p26
+aS'purple-red'
+p27
+aS'lime yellow'
+p28
+aS'ugly green'
+p29
+aS'celery green'
+p30
+aS'tan brown'
+p31
+aS'orange-brown'
+p32
+aS'red-brown'
+p33
+aS'yellow-green'
+p34
+aS'jade green'
+p35
+aS'tomato red'
+p36
+aS'grey purple'
+p37
+aS'banana yellow'
+p38
+a.

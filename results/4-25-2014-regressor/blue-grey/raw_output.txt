@@ -1,0 +1,23 @@
+Availability of Real blue-grey model:	0.018269
+Availability of Created blue grey model:	0.036776
+Percentage Change of Availabilities:	1.012997
+
+Real blue-grey model on blue-grey points:	-32517.252805
+Created blue grey model on blue-grey points:	-39214.278198
+Total Points:	2426
+Log Likelihood Ratio:	-13394.050787
+Perplexity of blue grey on blue-grey:	1.077446
+
+Raw Models:
+Name:		blue-grey
+Availability:	0.018269
+Hue Adjust:	False
+mu1: 204.422616, sh1: 2.241896, sc1: 14.504993, mu2: 205.788275, sh2: 3.635431, sc2: 8.572708 mu1: 25.666767, sh1: 2.822700, sc1: 5.127010, mu2: 27.429447, sh2: 2.873406, sc2: 7.980245 mu1: 65.949168, sh1: 3.446175, sc1: 7.097451, mu2: 67.902969, sh2: 3.560425, sc2: 5.667384 
+
+Name:		blue grey
+Availability:	0.036776
+Hue Adjust:	False
+mu1: 226.542767, sh1: 2.608104, sc1: 7.459757, mu2: 231.503595, sh2: 3.863272, sc2: 4.979889 mu1: 81.649092, sh1: 4.373279, sc1: 7.941782, mu2: 87.113701, sh2: 9.730297, sc2: 6.170778 mu1: 89.380391, sh1: 4.409312, sc1: 7.837517, mu2: 99.029112, sh2: 4.749470, sc2: 10.007914 
+
+--------------
+

@@ -1,0 +1,23 @@
+Availability of Real pea green model:	0.021434
+Availability of Created pea green model:	0.019943
+Percentage Change of Availabilities:	-0.069567
+
+Real pea green model on pea green points:	-14876.803926
+Created pea green model on pea green points:	-15406.367963
+Total Points:	1170
+Log Likelihood Ratio:	-1059.128073
+Perplexity of pea green on pea green:	1.052787
+
+Raw Models:
+Name:		pea green
+Availability:	0.021434
+Hue Adjust:	True
+mu1: 76.231440, sh1: 3.929243, sc1: 4.279105, mu2: 77.407104, sh2: 1.818798, sc2: 10.336155 mu1: 83.940640, sh1: 4.071868, sc1: 9.393110, mu2: 96.747609, sh2: 6.511864, sc2: 4.243114 mu1: 77.136287, sh1: 4.333471, sc1: 5.042240, mu2: 79.140249, sh2: 2.068290, sc2: 9.739158 
+
+Name:		pea green
+Availability:	0.019943
+Hue Adjust:	False
+mu1: 72.031278, sh1: 3.938638, sc1: 4.559508, mu2: 76.255717, sh2: 2.746415, sc2: 5.383434 mu1: 83.335118, sh1: 3.508529, sc1: 7.395828, mu2: 90.455203, sh2: 8.471013, sc2: 6.334742 mu1: 69.339652, sh1: 3.374684, sc1: 5.322207, mu2: 74.537687, sh2: 3.020041, sc2: 7.075651 
+
+--------------
+

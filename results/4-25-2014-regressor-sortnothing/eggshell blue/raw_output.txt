@@ -1,0 +1,23 @@
+Availability of Real eggshell blue model:	0.000527
+Availability of Created eggshell blue model:	0.006252
+Percentage Change of Availabilities:	10.856399
+
+Real eggshell blue model on eggshell blue points:	-669.533461
+Created eggshell blue model on eggshell blue points:	-698.468864
+Total Points:	49
+Log Likelihood Ratio:	-57.870806
+Perplexity of eggshell blue on eggshell blue:	1.002344
+
+Raw Models:
+Name:		eggshell blue
+Availability:	0.000527
+Hue Adjust:	False
+mu1: 178.256104, sh1: 2.252469, sc1: 10.014542, mu2: 184.969576, sh2: 1.962763, sc2: 7.631502 mu1: 33.976163, sh1: 5.093817, sc1: 8.945135, mu2: 40.711727, sh2: 2.902386, sc2: 6.069522 mu1: 90.824383, sh1: 2.270876, sc1: 4.131953, mu2: 109.382375, sh2: 5.047552, sc2: 3.933747 
+
+Name:		eggshell blue
+Availability:	0.006252
+Hue Adjust:	False
+mu1: 180.072820, sh1: 3.712231, sc1: 7.472107, mu2: 184.299809, sh2: 3.702331, sc2: 6.573654 mu1: 57.976452, sh1: 3.852056, sc1: 6.265125, mu2: 64.993179, sh2: 4.719644, sc2: 7.159910 mu1: 71.677079, sh1: 4.124264, sc1: 5.381722, mu2: 82.127915, sh2: 4.103416, sc2: 5.772955 
+
+--------------
+

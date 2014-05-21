@@ -1,0 +1,23 @@
+Availability of Real blue-purple model:	0.012889
+Availability of Created blue purple model:	0.018283
+Percentage Change of Availabilities:	0.418454
+
+Real blue-purple model on blue-purple points:	-12671.224560
+Created blue purple model on blue-purple points:	-65389.271244
+Total Points:	1039
+Log Likelihood Ratio:	-105436.093367
+Perplexity of blue purple on blue-purple:	1.377539
+
+Raw Models:
+Name:		blue-purple
+Availability:	0.012889
+Hue Adjust:	False
+mu1: 258.491211, sh1: 2.081038, sc1: 9.442472, mu2: 260.716834, sh2: 2.030976, sc2: 5.545537 mu1: 89.819590, sh1: 4.968771, sc1: 8.546154, mu2: 95.007483, sh2: 12.303086, sc2: 5.860922 mu1: 94.970784, sh1: 3.570292, sc1: 10.046787, mu2: 101.527146, sh2: 3.668506, sc2: 11.630280 
+
+Name:		blue purple
+Availability:	0.018283
+Hue Adjust:	False
+mu1: 1.743308, sh1: 3.766939, sc1: 4.669129, mu2: 5.471789, sh2: 4.194138, sc2: 3.964362 mu1: 74.109800, sh1: 4.444627, sc1: 5.697890, mu2: 81.455201, sh2: 6.427350, sc2: 7.233276 mu1: 75.190841, sh1: 2.809229, sc1: 5.975710, mu2: 83.177441, sh2: 3.565364, sc2: 4.644173 
+
+--------------
+

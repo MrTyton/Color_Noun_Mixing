@@ -1,0 +1,23 @@
+Availability of Real sage green model:	0.005188
+Availability of Created sage green model:	0.006884
+Percentage Change of Availabilities:	0.326702
+
+Real sage green model on sage green points:	-4816.120827
+Created sage green model on sage green points:	-4907.494289
+Total Points:	369
+Log Likelihood Ratio:	-182.746924
+Perplexity of sage green on sage green:	1.012791
+
+Raw Models:
+Name:		sage green
+Availability:	0.005188
+Hue Adjust:	False
+mu1: 81.895518, sh1: 3.132964, sc1: 4.748317, mu2: 84.199835, sh2: 3.920372, sc2: 12.481335 mu1: 37.416118, sh1: 4.385519, sc1: 4.362897, mu2: 39.341223, sh2: 2.914937, sc2: 7.075178 mu1: 66.959244, sh1: 2.544571, sc1: 5.332913, mu2: 69.689734, sh2: 4.554989, sc2: 4.981000 
+
+Name:		sage green
+Availability:	0.006884
+Hue Adjust:	False
+mu1: 98.573805, sh1: 4.124568, sc1: 5.178691, mu2: 102.581702, sh2: 2.815766, sc2: 9.236508 mu1: 50.402990, sh1: 5.094335, sc1: 5.200615, mu2: 54.959421, sh2: 4.456162, sc2: 9.224055 mu1: 62.236782, sh1: 3.357916, sc1: 5.761894, mu2: 69.456169, sh2: 4.427198, sc2: 4.741109 
+
+--------------
+

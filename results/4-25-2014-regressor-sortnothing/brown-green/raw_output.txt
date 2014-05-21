@@ -1,0 +1,23 @@
+Availability of Real brown-green model:	0.004458
+Availability of Created brown green model:	0.003708
+Percentage Change of Availabilities:	-0.168172
+
+Real brown-green model on brown-green points:	-2630.302486
+Created brown green model on brown-green points:	-3876.086140
+Total Points:	202
+Log Likelihood Ratio:	-2491.567308
+Perplexity of brown green on brown-green:	1.012742
+
+Raw Models:
+Name:		brown-green
+Availability:	0.004458
+Hue Adjust:	False
+mu1: 53.317135, sh1: 3.962562, sc1: 2.189132, mu2: 63.408924, sh2: 3.288166, sc2: 5.144222 mu1: 75.488356, sh1: 4.227047, sc1: 8.024817, mu2: 82.846600, sh2: 6.274676, sc2: 4.017085 mu1: 43.189365, sh1: 2.042420, sc1: 6.154225, mu2: 48.425132, sh2: 4.618313, sc2: 5.924013 
+
+Name:		brown green
+Availability:	0.003708
+Hue Adjust:	False
+mu1: 12.726376, sh1: 3.947738, sc1: 6.396164, mu2: 20.196091, sh2: 3.402063, sc2: 5.785297 mu1: 52.797331, sh1: 3.315296, sc1: 6.705264, mu2: 58.829984, sh2: 3.644063, sc2: 6.808952 mu1: 92.559699, sh1: 3.204784, sc1: 5.239214, mu2: 100.912983, sh2: 4.702661, sc2: 5.483390 
+
+--------------
+

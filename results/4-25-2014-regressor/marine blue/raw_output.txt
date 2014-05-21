@@ -1,0 +1,23 @@
+Availability of Real marine blue model:	0.002944
+Availability of Created marine blue model:	0.004034
+Percentage Change of Availabilities:	0.370086
+
+Real marine blue model on marine blue points:	-1215.506052
+Created marine blue model on marine blue points:	-1905.498778
+Total Points:	92
+Log Likelihood Ratio:	-1379.985452
+Perplexity of marine blue on marine blue:	1.005346
+
+Raw Models:
+Name:		marine blue
+Availability:	0.002944
+Hue Adjust:	False
+mu1: 197.021446, sh1: 4.151585, sc1: 2.741004, mu2: 204.181317, sh2: 3.549058, sc2: 6.771530 mu1: 78.643503, sh1: 4.171218, sc1: 4.497230, mu2: 84.580192, sh2: 6.412168, sc2: 2.407218 mu1: 51.569622, sh1: 2.385866, sc1: 6.454669, mu2: 59.738121, sh2: 4.246662, sc2: 7.457686 
+
+Name:		marine blue
+Availability:	0.004034
+Hue Adjust:	False
+mu1: 90.395352, sh1: 4.206306, sc1: 6.535812, mu2: 100.011229, sh2: 4.491708, sc2: 7.305198 mu1: 62.322823, sh1: 4.777259, sc1: 5.750360, mu2: 72.001032, sh2: 5.871094, sc2: 7.695268 mu1: 64.874477, sh1: 2.920429, sc1: 6.533498, mu2: 70.803965, sh2: 4.224892, sc2: 5.753819 
+
+--------------
+

@@ -1,0 +1,56 @@
+(lp0
+S'green-blue'
+p1
+aS'coral pink'
+p2
+aS'yellow tan'
+p3
+aS'grey green'
+p4
+aS'yellow ochre'
+p5
+aS'forest green'
+p6
+aS'forest green'
+p7
+aS'pine green'
+p8
+aS'purple-pink'
+p9
+aS'midnight purple'
+p10
+aS'coral pink'
+p11
+aS'violet blue'
+p12
+aS'yellow-green'
+p13
+aS'pine green'
+p14
+aS'midnight purple'
+p15
+aS'pink-purple'
+p16
+aS'violet red'
+p17
+aS'brown yellow'
+p18
+aS'mustard yellow'
+p19
+aS'yellow ochre'
+p20
+aS'yellow tan'
+p21
+aS'red-orange'
+p22
+aS'green-brown'
+p23
+aS'orange-brown'
+p24
+aS'grey purple'
+p25
+aS'mustard yellow'
+p26
+aS'red-brown'
+p27
+a.

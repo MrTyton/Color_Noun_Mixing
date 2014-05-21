@@ -1,0 +1,23 @@
+Availability of Real red-pink model:	0.015183
+Availability of Created red pink model:	0.002756
+Percentage Change of Availabilities:	-0.818452
+
+Real red-pink model on red-pink points:	-2182.074895
+Created red pink model on red-pink points:	-3861.228121
+Total Points:	189
+Log Likelihood Ratio:	-3358.306452
+Perplexity of red pink on red-pink:	1.052387
+
+Raw Models:
+Name:		red-pink
+Availability:	0.015183
+Hue Adjust:	True
+mu1: -17.123104, sh1: 2.543268, sc1: 3.719854, mu2: -12.049832, sh2: 1.948546, sc2: 5.970075 mu1: 86.060229, sh1: 6.699381, sc1: 3.336611, mu2: 90.321664, sh2: 2.270338, sc2: 5.296692 mu1: 86.729686, sh1: 3.606224, sc1: 3.481455, mu2: 95.450521, sh2: 5.480009, sc2: 12.655243 
+
+Name:		red pink
+Availability:	0.002756
+Hue Adjust:	False
+mu1: 61.122590, sh1: 3.964700, sc1: 5.109721, mu2: 68.802575, sh2: 4.436920, sc2: 4.181227 mu1: 50.187219, sh1: 6.877164, sc1: 5.741033, mu2: 67.117253, sh2: 4.416308, sc2: 9.071432 mu1: 87.317795, sh1: 2.543186, sc1: 4.264923, mu2: 96.969913, sh2: 5.386873, sc2: 3.793068 
+
+--------------
+

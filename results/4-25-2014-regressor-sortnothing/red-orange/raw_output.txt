@@ -1,0 +1,23 @@
+Availability of Real red-orange model:	0.069906
+Availability of Created red orange model:	0.003708
+Percentage Change of Availabilities:	-0.946955
+
+Real red-orange model on red-orange points:	-11476.802455
+Created red orange model on red-orange points:	-13496.923218
+Total Points:	1081
+Log Likelihood Ratio:	-4040.241526
+Perplexity of red orange on red-orange:	1.459226
+
+Raw Models:
+Name:		red-orange
+Availability:	0.069906
+Hue Adjust:	True
+mu1: 10.721477, sh1: 2.765116, sc1: 2.772337, mu2: 12.878734, sh2: 2.534229, sc2: 2.545639 mu1: 93.313101, sh1: 3.072481, sc1: 6.846617, mu2: 104.648749, sh2: 6.996336, sc2: 4.940475 mu1: 97.512946, sh1: 3.762030, sc1: 5.491501, mu2: 104.489776, sh2: 7.285537, sc2: 10.833811 
+
+Name:		red orange
+Availability:	0.003708
+Hue Adjust:	False
+mu1: 12.726376, sh1: 3.947738, sc1: 6.396164, mu2: 20.196091, sh2: 3.402063, sc2: 5.785297 mu1: 52.797331, sh1: 3.315296, sc1: 6.705264, mu2: 58.829984, sh2: 3.644063, sc2: 6.808952 mu1: 92.559699, sh1: 3.204784, sc1: 5.239214, mu2: 100.912983, sh2: 4.702661, sc2: 5.483390 
+
+--------------
+

@@ -1,0 +1,23 @@
+Availability of Real lavender blue model:	0.000791
+Availability of Created lavender blue model:	0.005073
+Percentage Change of Availabilities:	5.414497
+
+Real lavender blue model on lavender blue points:	-512.286349
+Created lavender blue model on lavender blue points:	-871.186430
+Total Points:	41
+Log Likelihood Ratio:	-717.800161
+Perplexity of lavender blue on lavender blue:	1.004575
+
+Raw Models:
+Name:		lavender blue
+Availability:	0.000791
+Hue Adjust:	False
+mu1: 245.205891, sh1: 2.806921, sc1: 5.219643, mu2: 253.185292, sh2: 3.015760, sc2: 4.626825 mu1: 56.683248, sh1: 4.733698, sc1: 6.147975, mu2: 64.167775, sh2: 3.618975, sc2: 6.572350 mu1: 84.111557, sh1: 2.621120, sc1: 4.206400, mu2: 118.245725, sh2: 3.233667, sc2: 4.542539 
+
+Name:		lavender blue
+Availability:	0.005073
+Hue Adjust:	False
+mu1: 133.721312, sh1: 3.323940, sc1: 6.424035, mu2: 140.374268, sh2: 5.087929, sc2: 5.978760 mu1: 79.103997, sh1: 3.996395, sc1: 8.166649, mu2: 88.815141, sh2: 5.721990, sc2: 6.042697 mu1: 64.551996, sh1: 4.169373, sc1: 6.708725, mu2: 70.590586, sh2: 6.957704, sc2: 5.377342 
+
+--------------
+

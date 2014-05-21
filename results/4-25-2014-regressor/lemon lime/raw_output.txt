@@ -1,0 +1,23 @@
+Availability of Real lemon lime model:	0.006472
+Availability of Created lemon lime model:	0.039060
+Percentage Change of Availabilities:	5.034989
+
+Real lemon lime model on lemon lime points:	-937.450115
+Created lemon lime model on lemon lime points:	-1052.032038
+Total Points:	82
+Log Likelihood Ratio:	-229.163845
+Perplexity of lemon lime on lemon lime:	1.019928
+
+Raw Models:
+Name:		lemon lime
+Availability:	0.006472
+Hue Adjust:	False
+mu1: 73.582868, sh1: 3.181652, sc1: 3.891280, mu2: 78.501481, sh2: 1.307278, sc2: 8.306560 mu1: 79.439634, sh1: 3.477017, sc1: 5.109942, mu2: 84.872796, sh2: 4.755451, sc2: 5.305004 mu1: 96.142552, sh1: 4.072283, sc1: 2.525427, mu2: 102.621032, sh2: 3.491706, sc2: 5.625787 
+
+Name:		lemon lime
+Availability:	0.039060
+Hue Adjust:	False
+mu1: 49.430691, sh1: 4.294853, sc1: 4.863457, mu2: 54.783591, sh2: 3.348175, sc2: 6.600099 mu1: 71.691259, sh1: 4.668345, sc1: 5.537567, mu2: 78.546237, sh2: 6.151372, sc2: 8.168284 mu1: 86.254181, sh1: 3.369907, sc1: 5.152408, mu2: 99.057173, sh2: 7.128623, sc2: 5.090858 
+
+--------------
+

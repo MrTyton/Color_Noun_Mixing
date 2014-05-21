@@ -1,0 +1,23 @@
+Availability of Real violet blue model:	0.004379
+Availability of Created violet blue model:	0.005538
+Percentage Change of Availabilities:	0.264648
+
+Real violet blue model on violet blue points:	-2118.166112
+Created violet blue model on violet blue points:	-2768.221779
+Total Points:	173
+Log Likelihood Ratio:	-1300.111334
+Perplexity of violet blue on violet blue:	1.015086
+
+Raw Models:
+Name:		violet blue
+Availability:	0.004379
+Hue Adjust:	False
+mu1: 250.211086, sh1: 1.770207, sc1: 5.679109, mu2: 256.505217, sh2: 2.191842, sc2: 5.756972 mu1: 83.731319, sh1: 5.349961, sc1: 5.892717, mu2: 92.339325, sh2: 12.271385, sc2: 5.939869 mu1: 89.531227, sh1: 3.863728, sc1: 7.347057, mu2: 96.119046, sh2: 9.115045, sc2: 5.398238 
+
+Name:		violet blue
+Availability:	0.005538
+Hue Adjust:	False
+mu1: 199.182254, sh1: 3.341520, sc1: 6.445562, mu2: 203.843455, sh2: 2.838184, sc2: 6.937370 mu1: 79.584044, sh1: 4.927765, sc1: 6.263553, mu2: 85.683944, sh2: 6.593063, sc2: 6.593011 mu1: 76.915820, sh1: 4.091504, sc1: 5.297753, mu2: 89.319245, sh2: 4.322432, sc2: 7.295797 
+
+--------------
+

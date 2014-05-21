@@ -1,0 +1,23 @@
+Availability of Real yellow-orange model:	0.016425
+Availability of Created yellow orange model:	0.015940
+Percentage Change of Availabilities:	-0.029536
+
+Real yellow-orange model on yellow-orange points:	-4902.248885
+Created yellow orange model on yellow-orange points:	-8168.694743
+Total Points:	479
+Log Likelihood Ratio:	-6532.891716
+Perplexity of yellow orange on yellow-orange:	1.340001
+
+Raw Models:
+Name:		yellow-orange
+Availability:	0.016425
+Hue Adjust:	True
+mu1: 39.801203, sh1: 2.391404, sc1: 3.275156, mu2: 43.120742, sh2: 1.984958, sc2: 4.409777 mu1: 92.182978, sh1: 3.725707, sc1: 6.286212, mu2: 99.596809, sh2: 7.071819, sc2: 9.671729 mu1: 95.099156, sh1: 0.994335, sc1: 10.075084, mu2: 119.070615, sh2: 2.722327, sc2: 0.935541 
+
+Name:		yellow orange
+Availability:	0.015940
+Hue Adjust:	True
+mu1: -3.109683, sh1: 2.788197, sc1: 5.306485, mu2: 1.752398, sh2: 3.396707, sc2: 4.037729 mu1: 80.879687, sh1: 4.016703, sc1: 6.421579, mu2: 89.851821, sh2: 7.109395, sc2: 5.873116 mu1: 68.477543, sh1: 3.079937, sc1: 5.545622, mu2: 74.438054, sh2: 3.787510, sc2: 4.886770 
+
+--------------
+

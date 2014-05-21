@@ -1,0 +1,21 @@
+"A Bayesian Approach to Grounded Color Semantics"
+ANONYMOUS 
+
+This is the DATA readme. 
+
+The data is in the data folder.  
+The corpusindex.txt file is in this top level folder. 
+Each line of the corpusindex.txt is:  name,filename
+
+Each label's data is split into 4 parts.  
+First, there was a 70/30 train and test split. 
+The test data is in {label}.test. All 3 dimensions (HSV) are in this file.
+The 3 dimensions were split for each label. They are in {label}.{dim}_train
+where {dim} \in (h,s,v).  The train files have implicit indexing: 
+the first line of each file corresponds to the first datum, the second line to the second datum, etc
+A file (corpus_creation.py) is included detailing how the corpus was created from Munroe's dataset. 
+
+Finally, there are merge sets and bad word sets. 
+These were results of hand pruning, and thus included in the release. 
+These are also put into use in the corpus_creation.py script. 
+

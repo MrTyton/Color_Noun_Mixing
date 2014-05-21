@@ -1,0 +1,23 @@
+Availability of Real emerald green model:	0.002557
+Availability of Created emerald green model:	0.013983
+Percentage Change of Availabilities:	4.468447
+
+Real emerald green model on emerald green points:	-2662.040829
+Created emerald green model on emerald green points:	-2787.280812
+Total Points:	209
+Log Likelihood Ratio:	-250.479967
+Perplexity of emerald green on emerald green:	1.009039
+
+Raw Models:
+Name:		emerald green
+Availability:	0.002557
+Hue Adjust:	False
+mu1: 122.308183, sh1: 1.650870, sc1: 9.616711, mu2: 125.526329, sh2: 6.090887, sc2: 5.958511 mu1: 96.139014, sh1: 3.137834, sc1: 7.539599, mu2: 101.960320, sh2: 2.304114, sc2: 3.470929 mu1: 68.112353, sh1: 2.126007, sc1: 11.792208, mu2: 72.414618, sh2: 2.549200, sc2: 7.144979 
+
+Name:		emerald green
+Availability:	0.013983
+Hue Adjust:	False
+mu1: 131.712648, sh1: 5.133547, sc1: 5.642414, mu2: 137.750265, sh2: 5.090485, sc2: 5.698580 mu1: 57.200177, sh1: 4.138686, sc1: 5.243074, mu2: 70.603212, sh2: 4.116804, sc2: 9.563903 mu1: 73.496029, sh1: 3.987517, sc1: 4.541010, mu2: 82.735067, sh2: 6.948934, sc2: 4.353610 
+
+--------------
+

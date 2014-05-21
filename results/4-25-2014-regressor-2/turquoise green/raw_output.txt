@@ -1,0 +1,23 @@
+Availability of Real turquoise green model:	0.001241
+Availability of Created turquoise green model:	0.014410
+Percentage Change of Availabilities:	10.608780
+
+Real turquoise green model on turquoise green points:	-583.432959
+Created turquoise green model on turquoise green points:	-1272.253281
+Total Points:	47
+Log Likelihood Ratio:	-1377.640643
+Perplexity of turquoise green on turquoise green:	1.008609
+
+Raw Models:
+Name:		turquoise green
+Availability:	0.001241
+Hue Adjust:	False
+mu1: 156.577406, sh1: 2.489128, sc1: 5.115092, mu2: 162.793832, sh2: 5.994546, sc2: 1.670135 mu1: 79.711092, sh1: 2.011565, sc1: 12.055125, mu2: 86.206514, sh2: 7.113020, sc2: 4.658333 mu1: 74.202544, sh1: 2.018869, sc1: 6.668924, mu2: 94.367304, sh2: 11.663189, sc2: 4.836720 
+
+Name:		turquoise green
+Availability:	0.014410
+Hue Adjust:	False
+mu1: 50.010839, sh1: 3.013917, sc1: 3.678809, mu2: 55.700736, sh2: 2.194162, sc2: 5.369195 mu1: 75.586325, sh1: 4.183008, sc1: 6.698784, mu2: 86.715663, sh2: 4.927882, sc2: 5.403082 mu1: 90.753819, sh1: 3.012638, sc1: 4.108882, mu2: 98.671853, sh2: 3.268512, sc2: 5.531356 
+
+--------------
+

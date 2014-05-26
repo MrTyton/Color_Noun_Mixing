@@ -1,506 +1,175 @@
-yellow
-	yellow ochre
-yellow
-	vomit yellow
-yellow
-	sunshine yellow
-yellow
-	pastel yellow
-yellow
-	puke yellow
-yellow
-	sandy yellow
-yellow
-	canary yellow
-yellow
-	butter yellow
-yellow
-	piss yellow
-yellow
-	banana yellow
-yellow
-	lemon yellow
-yellow
-	sunflower yellow
-yellow
-	mustard yellow
-cobalt
+flesh:
+	flesh pink
+sage:
+	sage green
+cobalt:
 	cobalt blue
-brown
-	clay brown
-brown
-	mud brown
-brown
-	poop brown
-brown
-	chocolate brown
-brown
-	puke brown
-brown
-	shit brown
-brown
-	mustard brown
-brown
-	dirt brown
-brown
-	olive brown
-brown
-	muddy brown
-brown
-	sandy brown
-grey
-	battleship grey
-grey
-	slate grey
-grey
-	steel grey
-sand
-	sandy yellow
-sand
-	sandy brown
-blue
-	peacock blue
-blue
-	prussian blue
-blue
-	seafoam blue
-blue
-	baby blue
-blue
-	dodger blue
-blue
-	cerulean blue
-blue
-	ice blue
-blue
-	navy blue
-blue
-	cadet blue
-blue
-	robin's egg blue
-blue
-	steel blue
-blue
-	marine blue
-blue
-	sky blue
-blue
-	cornflower blue
-blue
-	dusk blue
-blue
-	pastel blue
-blue
-	periwinkle blue
-blue
-	sea blue
-blue
-	denim blue
-blue
-	duck egg blue
-blue
-	cobalt blue
-blue
-	powder blue
-blue
-	ocean blue
-blue
-	aqua blue
-blue
-	eggshell blue
-blue
-	ultramarine blue
-blue
-	turquoise blue
-blue
-	slate blue
-dirt
-	dirt brown
-seafoam
-	seafoam blue
-seafoam
-	seafoam green
-lime
-	lemon lime
-lime
-	lime yellow
-lime
-	key lime
-lime
-	lime green
-celery
-	celery green
-puke
-	puke green
-puke
-	puke yellow
-puke
-	puke brown
-algae
-	algae green
-chocolate
-	chocolate brown
-chocolate
-	milk chocolate
-olive
-	olive green
-coral
-	coral pink
-grape
+pine:
+	pine green
+grape:
 	grape purple
-pink
-	pastel pink
-pink
-	barbie pink
-pink
-	bubblegum pink
-pink
-	pinkish
-pink
-	flesh pink
-pink
-	salmon pink
-pink
-	rosy pink
-pink
-	coral pink
-pink
-	rose pink
-pine
-	pine green
-blood
-	blood red
-tomato
-	tomato red
-green
-	camouflage green
-green
-	minty green
-green
-	apple green
-green
-	vomit green
-green
-	sage green
-green
-	greyish green
-green
-	navy green
-green
-	sick green
-green
-	acid green
-green
-	leafy green
-green
-	booger green
-green
-	pine green
-green
-	grassy green
-green
-	barf green
-green
-	seafoam green
-green
-	kiwi green
-green
-	khaki green
-green
-	poop green
-green
-	emerald green
-green
-	celery green
-green
-	jade green
-green
-	pea soup green
-green
-	pastel green
-green
-	puke green
-green
-	camo green
-green
-	snot green
-green
-	forest green
-green
-	pea green
-green
-	tea green
-green
-	baby puke green
-green
-	baby poop green
-green
-	lawn green
-green
-	turtle green
-green
-	moss green
-green
-	kermit green
-green
-	foam green
-green
-	avocado green
-green
-	baby shit green
-green
-	frog green
-green
-	sickly green
-green
-	slate green
-green
-	mustard green
-green
-	green apple
-green
-	easter green
-green
-	slime green
-green
-	tree green
-green
-	gross green
-green
-	algae green
-green
-	grass green
-green
-	military green
-green
-	jungle green
-green
-	sap green
-green
-	mint green
-green
-	leaf green
-green
-	shit green
-green
-	olive green
-green
-	fern green
-green
-	army green
-green
-	seaweed green
-green
-	lime green
-green
-	shamrock green
-green
-	sea green
-green
-	ocean green
-poop green
-	baby poop green
-canary
-	canary yellow
-avocado
-	avocado green
-orange
-	brick orange
-orange
-	pumpkin orange
-orange
-	blood orange
-forest
-	forest green
-cornflower
-	cornflower blue
-slate
-	slate grey
-slate
-	slate green
-slate
-	slate blue
-vomit
-	vomit green
-navy
-	navy green
-navy
-	navy blue
-pea
-	peacock blue
-pea
-	pea green
-pea
-	pea soup
-sandy
-	sandy yellow
-sandy
-	sandy brown
-lipstick
-	lipstick red
-red
-	blood red
-red
-	lipstick red
-red
-	rose red
-red
-	brick red
-red
-	cherry red
-red
-	fire engine red
-red
-	indian red
-red
-	wine red
-red
-	rust red
-red
-	tomato red
-marine
-	marine blue
-fern
-	fern green
-banana
-	banana yellow
-kiwi
-	kiwi green
-steel
-	steel blue
-steel
-	steel grey
-barf
-	barf green
-mint
-	minty green
-mint
-	mint green
-snot
-	snot green
-robin's egg
-	robin's egg blue
-salmon
-	salmon pink
-sage
-	sage green
-pea soup
-	pea soup green
-seaweed
-	seaweed green
-pumpkin
-	pumpkin orange
-jade
-	jade green
-sea
-	sea blue
-sea
-	sea green
-mud
-	mud brown
-aqua
-	aqua blue
-rose
-	rose red
-rose
-	rose pink
-brick
-	brick orange
-brick
-	brick red
-shamrock
-	shamrock green
-eggshell
-	eggshell blue
-carnation
-	carnation pink
-barney
-	barney purple
-butter
-	butter yellow
-ocean
-	ocean blue
-ocean
-	ocean green
-flesh
-	flesh pink
-emerald
-	emerald green
-apple
-	apple green
-apple
-	green apple
-sunflower
+sunflower:
 	sunflower yellow
-cherry
-	cherry red
-sky
+sky:
 	sky blue
-periwinkle
-	periwinkle blue
-denim
-	denim blue
-ultramarine
+celery:
+	celery green
+pumpkin:
+	pumpkin orange
+cornflower:
+	cornflower blue
+ultramarine:
 	ultramarine blue
-clay
+vomit:
+	vomit green
+	vomit yellow
+canary:
+	canary yellow
+emerald:
+	emerald green
+pea soup:
+	pea soup green
+clay:
 	clay brown
-gross
+seaweed:
+	seaweed green
+jade:
+	jade green
+barf:
+	barf green
+gross:
 	gross green
-leaf
-	leafy green
-leaf
-	leaf green
-purple
-	barney purple
-purple
-	plum purple
-purple
-	purpley pink
-indigo
-	indigo blue
-khaki
-	khaki green
-ochre
-	yellow ochre
-iris
-	irish green
-plum
-	plum purple
-baby poop
-	baby poop green
-moss
-	moss green
-cerulean
-	cerulean blue
-grass
-	grass green
-rust
-	rust red
-rust
-	rusty orange
-rust
-	rust orange
-shit
-	shit brown
-shit
-	shit green
-ice
+lipstick:
+	lipstick red
+ice:
 	ice blue
-lemon
-	lemon lime
-lemon
-	lemon yellow
-bubblegum
+mud:
+	mud brown
+khaki:
+	khaki green
+dirt:
+	dirt brown
+ochre:
+	yellow ochre
+algae:
+	algae green
+coral:
+	coral pink
+baby poop:
+	baby poop green
+cherry:
+	cherry red
+avocado:
+	avocado green
+denim:
+	denim blue
+fern:
+	fern green
+bubblegum:
 	bubblegum pink
-poop
-	poop brown
-poop
-	poop green
-mustard
-	mustard brown
-mustard
-	mustard green
-mustard
-	mustard yellow
-wine
+marine:
+	marine blue
+periwinkle:
+	periwinkle blue
+banana:
+	banana yellow
+kiwi:
+	kiwi green
+tomato:
+	tomato red
+olive:
+	olive green
+	olive brown
+cerulean:
+	cerulean blue
+grass:
+	grass green
+plum:
+	plum purple
+shamrock:
+	shamrock green
+barney:
+	barney purple
+eggshell:
+	eggshell blue
+snot:
+	snot green
+forest:
+	forest green
+carnation:
+	carnation pink
+robin's egg:
+	robin's egg blue
+salmon:
+	salmon pink
+blood:
+	blood red
+moss:
+	moss green
+butter:
+	butter yellow
+wine:
 	wine red
+rose:
+	rose red
+	rose pink
+seafoam:
+	seafoam blue
+	seafoam green
+sand:
+	sandy yellow
+	sandy brown
+sea:
+	sea blue
+	sea green
+navy:
+	navy green
+	navy blue
+sandy:
+	sandy yellow
+	sandy brown
+leaf:
+	leaf green
+apple:
+	apple green
+	green apple
+brick:
+	brick orange
+	brick red
+chocolate:
+	chocolate brown
+steel:
+	steel blue
+	steel grey
+mint:
+	mint green
+shit:
+	shit brown
+	shit green
+lemon:
+	lemon lime
+	lemon yellow
+poop:
+	poop brown
+	poop green
+ocean:
+	ocean blue
+	ocean green
+pea:
+	pea green
+puke:
+	puke green
+	puke yellow
+	puke brown
+rust:
+	rust red
+	rust orange
+mustard:
+	mustard brown
+	mustard green
+	mustard yellow
+lime:
+	lemon lime
+	lime yellow
+	key lime
+	lime green

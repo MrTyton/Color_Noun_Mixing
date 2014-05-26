@@ -1,0 +1,997 @@
+sea green
+	bright sea green
+poop green
+	baby poop green
+cobalt
+	cobalt blue
+pine
+	pine green
+pale yellow
+	pale yellow-green
+sunflower
+	sunflower yellow
+celery
+	celery green
+black
+	almost black
+melon
+	watermelon
+pumpkin
+	pumpkin orange
+cornflower
+	cornflower blue
+shit green
+	baby shit green
+sage
+	sage green
+ultramarine
+	ultramarine blue
+foam green
+	seafoam green
+canary
+	canary yellow
+emerald
+	emerald green
+pea soup
+	pea soup green
+seaweed
+	seaweed green
+mauve
+	pale mauve
+jade
+	jade green
+bright yellow
+	bright yellow green
+barf
+	barf green
+gross
+	gross green
+lipstick
+	lipstick red
+plum
+	plum purple
+ice
+	ice blue
+marine blue
+	ultramarine blue
+khaki
+	khaki green
+pear
+	spearmint
+clay
+	clay brown
+yellow-green
+	pale yellow-green
+fuschia
+	bright fuschia
+algae
+	algae green
+iris
+	irish green
+stone
+	sandstone
+coral
+	coral pink
+pale olive
+	pale olive green
+pale green
+	very pale green
+cherry
+	cherry red
+weird
+	weird green
+blush
+	blush pink
+avocado
+	avocado green
+denim
+	denim blue
+fern
+	fern green
+bubblegum
+	bubblegum pink
+periwinkle
+	periwinkle blue
+white
+	off white
+banana
+	banana yellow
+kiwi
+	kiwi green
+olive green
+	pale olive green
+blue-green
+	pale blue-green
+cerulean
+	cerulean blue
+puke green
+	baby puke green
+ochre
+	yellow ochre
+bright lime
+	bright lime green
+shamrock
+	shamrock green
+barney
+	barney purple
+eggshell
+	eggshell blue
+snot
+	snot green
+baby poop
+	baby poop green
+forest
+	forest green
+carnation
+	carnation pink
+night blue
+	midnight blue
+robin's egg
+	robin's egg blue
+moss
+	moss green
+pale lime
+	pale lime green
+tomato
+	tomato red
+wine
+	wine red
+indigo
+	indigo blue
+	bright indigo
+midnight
+	midnight purple
+	midnight blue
+skin
+	skin colour
+	skin tone
+grape
+	grapefruit
+	grape purple
+flesh
+	flesh pink
+	flesh tone
+royal
+	royal blue
+	royal purple
+seafoam
+	seafoam blue
+	seafoam green
+vomit
+	vomit green
+	vomit yellow
+cyan
+	bright cyan
+	pale cyan
+butter
+	butter yellow
+	butterscotch
+navy
+	navy green
+	navy blue
+sandy
+	sandy yellow
+	sandy brown
+leaf
+	leafy green
+	leaf green
+apple
+	apple green
+	green apple
+sienna
+	burnt sienna
+	raw sienna
+umber
+	raw umber
+	burnt umber
+chocolate
+	chocolate brown
+	milk chocolate
+brick
+	brick orange
+	brick red
+steel
+	steel blue
+	steel grey
+grass
+	grassy green
+	grass green
+lemon
+	lemon lime
+	lemon yellow
+peach
+	peachy pink
+	pale peach
+salmon
+	pale salmon
+	salmon pink
+orangish
+	orangish brown
+	orangish red
+drab
+	drab green
+	olive drab
+ocean
+	ocean blue
+	ocean green
+pale blue
+	pale blue-green
+	very pale blue
+slate
+	slate grey
+	slate green
+	slate blue
+lilac
+	pale lilac
+	bright lilac
+	deep lilac
+golden
+	goldenrod
+	golden brown
+	golden yellow
+mint
+	minty green
+	spearmint
+	mint green
+shit
+	baby shit green
+	shit brown
+	shit green
+lime green
+	bright lime green
+	pale lime green
+	slime green
+yellowish
+	yellowish green
+	yellowish brown
+	yellowish orange
+mustard
+	mustard brown
+	mustard green
+	mustard yellow
+blood
+	blood red
+	dried blood
+	blood orange
+sand
+	sandstone
+	sandy
+	sandy yellow
+	sandy brown
+lavender
+	deep lavender
+	lavender blue
+	pale lavender
+	bright lavender
+mud
+	mud brown
+	muddy green
+	muddy yellow
+	muddy brown
+sky blue
+	pale sky blue
+	dusky blue
+	deep sky blue
+	bright sky blue
+marine
+	marine blue
+	ultramarine
+	ultramarine blue
+	aquamarine
+puke
+	puke green
+	baby puke green
+	puke yellow
+	puke brown
+reddish
+	reddish pink
+	reddish purple
+	reddish brown
+	reddish orange
+ugly
+	ugly green
+	ugly purple
+	ugly yellow
+	ugly pink
+rust
+	rusty red
+	rust red
+	rusty orange
+	rust orange
+tan
+	tan brown
+	tangerine
+	yellow tan
+	greenish tan
+magenta
+	deep magenta
+	bright magenta
+	pale magenta
+	hot magenta
+poop
+	poop brown
+	poop green
+	baby poop green
+	baby poop
+turquoise
+	bright turquoise
+	greenish turquoise
+	pale turquoise
+	turquoise blue
+	turquoise green
+pinkish
+	pinkish brown
+	pinkish grey
+	pinkish purple
+	pinkish orange
+	pinkish red
+purplish
+	purplish red
+	purplish pink
+	purplish brown
+	purplish grey
+	purplish blue
+berry
+	blueberry
+	mulberry
+	raspberry
+	cranberry
+	strawberry
+dusk
+	dusky rose
+	dusk blue
+	dusky blue
+	dusky purple
+	dusky pink
+gold
+	marigold
+	golden
+	goldenrod
+	golden brown
+	pale gold
+	golden yellow
+rose
+	dusty rose
+	rose red
+	dusky rose
+	pale rose
+	deep rose
+	rose pink
+dirt
+	dirty orange
+	dirty blue
+	dirty green
+	dirty yellow
+	dirty pink
+	dirt brown
+aqua
+	bright aqua
+	deep aqua
+	aqua green
+	pale aqua
+	aqua blue
+	aquamarine
+greyish
+	greyish brown
+	greyish green
+	greyish pink
+	greyish teal
+	greyish blue
+	greyish purple
+olive
+	pale olive green
+	pale olive
+	olive brown
+	olive green
+	olive drab
+	bright olive
+brownish
+	brownish purple
+	brownish red
+	brownish grey
+	brownish green
+	brownish yellow
+	brownish pink
+	brownish orange
+greenish
+	greenish teal
+	greenish grey
+	greenish brown
+	greenish turquoise
+	greenish blue
+	greenish tan
+	greenish yellow
+sea
+	seafoam blue
+	seafoam
+	seafoam green
+	bright sea green
+	sea blue
+	seaweed
+	seaweed green
+	sea green
+violet
+	pale violet
+	deep violet
+	red violet
+	violet pink
+	violet red
+	violet blue
+	blue violet
+	bright violet
+sky
+	dusky rose
+	sky blue
+	pale sky blue
+	dusky blue
+	deep sky blue
+	bright sky blue
+	dusky purple
+	dusky pink
+pea
+	peacock blue
+	pear
+	spearmint
+	pea soup green
+	pea green
+	pea soup
+	peachy pink
+	peach
+	pale peach
+teal
+	greenish teal
+	deep teal
+	teal green
+	dusty teal
+	greyish teal
+	pale teal
+	bright teal
+	teal blue
+	dull teal
+	tealish
+lime
+	lemon lime
+	bright lime green
+	lime yellow
+	pale lime
+	bright lime
+	key lime
+	electric lime
+	pale lime green
+	slime green
+	lime green
+orange
+	dirty orange
+	brown-orange
+	orangey red
+	orangey brown
+	brick orange
+	dull orange
+	orange-red
+	faded orange
+	pumpkin orange
+	yellow-orange
+	dusty orange
+	deep orange
+	pale orange
+	pastel orange
+	orange-yellow
+	bright orange
+	orange-brown
+	red-orange
+	yellowish orange
+	blood orange
+	reddish orange
+	burnt orange
+	pinkish orange
+	rusty orange
+	rust orange
+	brownish orange
+grey
+	blue-grey
+	greyish brown
+	greyish green
+	greenish grey
+	bluey grey
+	cool grey
+	warm grey
+	battleship grey
+	grey-brown
+	greyish pink
+	grey blue
+	greyish teal
+	grey pink
+	slate grey
+	pinkish grey
+	brownish grey
+	green-grey
+	greyish
+	purple grey
+	bluish grey
+	grey purple
+	pale grey
+	steel grey
+	greyish blue
+	grey green
+	medium grey
+	greyish purple
+	purplish grey
+	greeny grey
+	brown-grey
+pale
+	pale violet
+	pale lilac
+	pale salmon
+	pale purple
+	pale lime
+	pale olive green
+	pale yellow-green
+	pale cyan
+	pale teal
+	pale sky blue
+	pale gold
+	pale blue-green
+	pale brown
+	pale orange
+	pale lavender
+	pale yellow
+	very pale green
+	pale olive
+	pale grey
+	pale rose
+	pale lime green
+	pale aqua
+	pale red
+	pale green
+	pale pink
+	pale turquoise
+	pale blue
+	pale magenta
+	very pale blue
+	pale mauve
+	pale peach
+yellow
+	yellow ochre
+	green-yellow
+	neon yellow
+	yellow tan
+	lime yellow
+	yellowish
+	off yellow
+	vomit yellow
+	sunshine yellow
+	pale yellow-green
+	dirty yellow
+	yellow-orange
+	brown yellow
+	pastel yellow
+	puke yellow
+	golden yellow
+	yellowish green
+	muddy yellow
+	orange-yellow
+	bright yellow
+	pale yellow
+	sandy yellow
+	yellowish brown
+	yellow-green
+	burnt yellow
+	canary yellow
+	butter yellow
+	brownish yellow
+	greenish yellow
+	yellow-brown
+	ugly yellow
+	yellowish orange
+	piss yellow
+	faded yellow
+	banana yellow
+	lemon yellow
+	sunflower yellow
+	bright yellow green
+	mustard yellow
+	dull yellow
+red
+	dull red
+	reddish
+	blood red
+	pink-red
+	orangey red
+	burnt red
+	lipstick red
+	red violet
+	orange-red
+	faded red
+	reddy brown
+	rose red
+	brick red
+	brownish red
+	red-brown
+	reddish pink
+	rusty red
+	cherry red
+	fire engine red
+	red-pink
+	purplish red
+	reddish purple
+	deep red
+	violet red
+	indian red
+	red-purple
+	neon red
+	pinky red
+	wine red
+	rust red
+	red-orange
+	pale red
+	reddish brown
+	reddish orange
+	dusty red
+	tomato red
+	bright red
+	pinkish red
+	brown-red
+	purple-red
+	orangish red
+purple
+	deep purple
+	purpley blue
+	brownish purple
+	pinky purple
+	purple-brown
+	rich purple
+	electric purple
+	pale purple
+	easter purple
+	pink-purple
+	midnight purple
+	muted purple
+	pinkish purple
+	purple-pink
+	barney purple
+	hot purple
+	reddish purple
+	royal purple
+	purple grey
+	bright purple
+	ugly purple
+	red-purple
+	plum purple
+	grey purple
+	vivid purple
+	dusty purple
+	pastel purple
+	dull purple
+	medium purple
+	neon purple
+	bluey purple
+	greyish purple
+	bluish purple
+	dusky purple
+	blue-purple
+	soft purple
+	vibrant purple
+	faded purple
+	purple-red
+	purple blue
+	purpley pink
+	grape purple
+brown
+	clay brown
+	greyish brown
+	brown-green
+	brownish
+	brownish purple
+	green-brown
+	brown-orange
+	purple-brown
+	warm brown
+	tan brown
+	orangey brown
+	mud brown
+	poop brown
+	chocolate brown
+	grey-brown
+	greenish brown
+	reddy brown
+	brownish red
+	pinkish brown
+	red-brown
+	brown yellow
+	brownish grey
+	golden brown
+	greeny brown
+	pale brown
+	brownish green
+	puke brown
+	yellowish brown
+	shit brown
+	brownish yellow
+	orange-brown
+	mustard brown
+	yellow-brown
+	purplish brown
+	medium brown
+	dirt brown
+	dull brown
+	olive brown
+	reddish brown
+	muddy brown
+	brownish pink
+	sandy brown
+	orangish brown
+	brown-red
+	brown-grey
+	brownish orange
+pink
+	carnation pink
+	pinky purple
+	neon pink
+	pink-red
+	blush pink
+	pastel pink
+	barbie pink
+	baby pink
+	bubblegum pink
+	pink-purple
+	violet pink
+	pinkish
+	soft pink
+	greyish pink
+	bright pink
+	grey pink
+	pinkish brown
+	reddish pink
+	pinkish grey
+	muted pink
+	pinkish purple
+	purple-pink
+	red-pink
+	dusty pink
+	flesh pink
+	purplish pink
+	electric pink
+	dirty pink
+	deep pink
+	peachy pink
+	hot pink
+	warm pink
+	medium pink
+	pinky red
+	faded pink
+	pale pink
+	shocking pink
+	salmon pink
+	dull pink
+	rosy pink
+	pinkish orange
+	ugly pink
+	brownish pink
+	pinkish red
+	coral pink
+	rose pink
+	dusky pink
+	purpley pink
+blue
+	peacock blue
+	blue-grey
+	prussian blue
+	purpley blue
+	seafoam blue
+	baby blue
+	metallic blue
+	bluey grey
+	dodger blue
+	cerulean blue
+	blueberry
+	dirty blue
+	ice blue
+	navy blue
+	flat blue
+	primary blue
+	soft blue
+	night blue
+	rich blue
+	cadet blue
+	indigo blue
+	pure blue
+	robin's egg blue
+	steel blue
+	grey blue
+	carolina blue
+	marine blue
+	royal blue
+	sky blue
+	cornflower blue
+	pale sky blue
+	lavender blue
+	dusk blue
+	cool blue
+	muted blue
+	off blue
+	electric blue
+	medium blue
+	true blue
+	pastel blue
+	dull blue
+	periwinkle blue
+	pale blue-green
+	warm blue
+	sea blue
+	vibrant blue
+	bluey green
+	greenish blue
+	denim blue
+	duck egg blue
+	cobalt blue
+	faded blue
+	violet blue
+	dusky blue
+	neon blue
+	midnight blue
+	greyish blue
+	blue-green
+	deep sky blue
+	bright sky blue
+	powder blue
+	ocean blue
+	dusty blue
+	green-blue
+	pale blue
+	aqua blue
+	bright blue
+	teal blue
+	eggshell blue
+	very pale blue
+	ultramarine blue
+	bluey purple
+	blue violet
+	mid blue
+	turquoise blue
+	vivid blue
+	blue-purple
+	deep blue
+	french blue
+	blueish
+	purplish blue
+	purple blue
+	tiffany blue
+	stormy blue
+	slate blue
+green
+	camouflage green
+	minty green
+	apple green
+	vomit green
+	green-yellow
+	sage green
+	brown-green
+	greenish teal
+	greyish green
+	greenish
+	green-brown
+	navy green
+	sick green
+	greenish grey
+	acid green
+	leafy green
+	hot green
+	booger green
+	fluorescent green
+	bright lime green
+	pine green
+	grassy green
+	flat green
+	barf green
+	swamp green
+	dull green
+	teal green
+	seafoam green
+	hunter green
+	kiwi green
+	weird green
+	flourescent green
+	khaki green
+	poop green
+	irish green
+	neon green
+	emerald green
+	greenish brown
+	celery green
+	dirty green
+	jade green
+	off green
+	pale olive green
+	pale yellow-green
+	pea soup green
+	deep green
+	pastel green
+	baby green
+	puke green
+	camo green
+	aqua green
+	faded green
+	snot green
+	drab green
+	greeny brown
+	ugly green
+	forest green
+	pea green
+	tea green
+	baby puke green
+	baby poop green
+	lawn green
+	turtle green
+	green-grey
+	pale blue-green
+	bright sea green
+	bluey green
+	moss green
+	greenish turquoise
+	greenish blue
+	muddy green
+	kermit green
+	foam green
+	brownish green
+	yellowish green
+	avocado green
+	baby shit green
+	frog green
+	vivid green
+	sickly green
+	very pale green
+	yellow-green
+	slate green
+	greenish tan
+	pale lime green
+	greenish yellow
+	murky green
+	mustard green
+	green apple
+	easter green
+	blue-green
+	slime green
+	bottle green
+	british racing green
+	tree green
+	grey green
+	gross green
+	algae green
+	pale green
+	grass green
+	soft green
+	military green
+	jungle green
+	sap green
+	mint green
+	green-blue
+	true green
+	hospital green
+	leaf green
+	shit green
+	olive green
+	cool green
+	fern green
+	wintergreen
+	dusty green
+	icky green
+	army green
+	seaweed green
+	muted green
+	greeny grey
+	kelly green
+	electric green
+	turquoise green
+	mid green
+	bluish green
+	medium green
+	spring green
+	lime green
+	bright yellow green
+	fluro green
+	evergreen
+	shamrock green
+	sea green
+	bright green
+	vibrant green
+	ocean green

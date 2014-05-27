@@ -1,7 +1,6 @@
 import lux
 LUX = lux.LUX('lux.xml')
 from random import shuffle
-from copy import deepcopy
 from sklearn.ensemble import RandomForestRegressor
 from math import log
 import matplotlib.pyplot as plt
@@ -17,27 +16,7 @@ curPath = "4-25-2014-Regressor-SortNothing"
 
 
     
-def createDistribution(color_name, replacement_vector):
-    ans = deepcopy(LUX.getColor(color_name))
-    ans.availability = replacement_vector[0]
-    if replacement_vector[1] == 1:
-        ans.hue_adjust = True
-    else:
-        ans.hue_adjust = False
-    ans.dim_models[0].hue_adjust = ans.hue_adjust
-    ans.dim_models[0].params = replacement_vector[3:9]
-    ans.dim_models[0].stdevs = replacement_vector[9:15]
-    ans.dim_models[1].params = replacement_vector[15:21]
-    ans.dim_models[1].stdevs = replacement_vector[21:27]
-    ans.dim_models[2].params = replacement_vector[27:33]
-    ans.dim_models[2].stdevs = replacement_vector[33:39]
-    for x in ans.dim_models:
-        x.reload()
-    if replacement_vector[2] == 1:
-        ans.name = ans.name.replace(" ", "-")
-    else:
-        ans.name = ans.name.replace("-", " ")
-    return ans
+
 
 
 def sortAverage(first, second):

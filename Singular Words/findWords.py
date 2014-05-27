@@ -28,7 +28,7 @@ fp = open("wordlist.txt", "w")
 for x in name_groups:
     fp.write("%s\n\t%s\n" % (x[0], x[1]))
         
-fp.close()
+fp.close()  
 
 fp = open("wordlist.pkl", "w")
 pickle.dump(name_groups, fp)

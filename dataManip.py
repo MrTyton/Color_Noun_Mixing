@@ -3,6 +3,7 @@ import lux
 LUX = lux.LUX('lux.xml')
 import matplotlib.pyplot as plt
 import numpy as np
+from copy import deepcopy
 
 def getData(location, name):
     name = name.replace('-', '')
@@ -76,11 +77,28 @@ def convertToVector(color_name, twoWord=False):
     vector = []
     vector.append(color.availability)
     vector.append(1) if color.hue_adjust else vector.append(0)
-    if twoWord : vector.append(1) if "-" in color_name else vector.append(0)
     for single_dim in color.dim_models:
         vector += single_dim.params
         vector += single_dim.stdevs
     return vector
+
+def createDistribution(color_name, replacement_vector):
+    ans = deepcopy(LUX.getColor(color_name))
+    ans.availability = replacement_vector[0]
+    if replacement_vector[1] == 1:
+        ans.hue_adjust = True
+    else:
+        ans.hue_adjust = False
+    ans.dim_models[0].hue_adjust = ans.hue_adjust
+    ans.dim_models[0].params = replacement_vector[2:8]
+    ans.dim_models[0].stdevs = replacement_vector[8:14]
+    ans.dim_models[1].params = replacement_vector[14:20]
+    ans.dim_models[1].stdevs = replacement_vector[20:26]
+    ans.dim_models[2].params = replacement_vector[26:32]
+    ans.dim_models[2].stdevs = replacement_vector[32:38]
+    for x in ans.dim_models:
+        x.reload()
+    return ans
 
 def output(first_model, second_model, learned, predict, num_points, test, perplexity, fp=None):
     if (fp is None):

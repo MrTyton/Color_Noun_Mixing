@@ -5,13 +5,23 @@ import matplotlib.pyplot as plt
 import numpy as np
 from copy import deepcopy
 
-def getData(location, name):
+def getData(location, name, test=True):
     name = name.replace('-', '')
     name = name.replace(" ", "")
-    fp = open("%s/data/%s.test" % (location, name));  #important lines are this one and the next 3
-    data = [[float(y) for y in x.replace("\n","").split(",")] for x in fp.readlines()]; fp.close()
-    data = [[x[0]*360, x[1]*100, x[2]*100] for x in data]
-    fp.close()
+    if test:
+        fp = open("%s/data/%s.test" % (location, name));  #important lines are this one and the next 3
+        data = [[float(y) for y in x.replace("\n","").split(",")] for x in fp.readlines()];
+        data = [[x[0]*360, x[1]*100, x[2]*100] for x in data]
+        fp.close()
+    else:
+        fp_hue = open("%s/data/%s.h_train" % (location, name))
+        fp_sat = open("%s/data/%s.s_train" % (location, name))
+        fp_val = open("%s/data/%s.v_train" % (location, name))
+        data = [[float(x.replace("\n", "")), float(y.replace("\n", "")), float(z.replace("\n", ""))] for x, y, z in zip(fp_hue.readlines(), fp_sat.readlines(), fp_val.readlines())]
+        data = [[x[0]*360, x[1]*100, x[2]*100] for x in data]
+        fp_hue.close()
+        fp_sat.close()
+        fp_val.close()
     return data
 
 def testDistributions(real_distribution, created_distribution):

@@ -102,21 +102,34 @@ def r2():
         
     r2_results = []
     log_likelihoods = [] 
+    print combos
+    r2_table = []
     for x in combos:
         first, second = combos[x]
         first_distribution = LUX.getColor(first)
         second_distribution = LUX.getColor(second)
-        r2_results.append(dataManip.r2test(first, first_distribution, second_distribution))
-        r2_results.append(dataManip.r2test(second, second_distribution, first_distribution))
-        first_log_learned, first_log_predicted, first_num_points, first_perp = testDistributions(first_distribution, second_distribution)
-        second_log_learned, second_log_predicted, second_num_points, second_perp = testDistributions(second_distribution, first_distribution)
-        log_likelihoods.append((first_log_learned, first_log_predicted, first_num_points))
-        log_likelihoods.append((second_log_learned, second_log_predicted, second_num_points))
+        first_results = dataManip.r2test(first, first_distribution, second_distribution)
+        second_results = dataManip.r2test(second, second_distribution, first_distribution)
+        r2_results.append(first_results)
+        r2_results.append(second_results)
+        r2_table.append(((first, second), (first_results, second_results)))
+        #first_log_learned, first_log_predicted, first_num_points, first_perp = testDistributions(first_distribution, second_distribution)
+        #second_log_learned, second_log_predicted, second_num_points, second_perp = testDistributions(second_distribution, first_distribution)
+        #log_likelihoods.append((first_log_learned, first_log_predicted, first_num_points))
+        #log_likelihoods.append((second_log_learned, second_log_predicted, second_num_points))
                                
-    print sum([x / z for x, y, z in log_likelihoods]) / len(log_likelihoods)
-    print sum([y / z for x, y, z in log_likelihoods]) / len(log_likelihoods)
+    #print sum([x / z for x, y, z in log_likelihoods]) / len(log_likelihoods)
+    #print sum([y / z for x, y, z in log_likelihoods]) / len(log_likelihoods)
     
-availAndPerplex()
+    print r2_results
+    for x in r2_table:
+        print """%s & %s & %03f & %03f \\\\ \hline""" % (x[0][0], x[0][1], x[1][0], x[1][1])
+    plt.hist(r2_results, 30)
+    plt.show()
+    print sum(r2_results) / len(r2_results)
+    
+#availAndPerplex()
+r2()
 #insert in the labels
 #get the log likelihood data organized as well
 

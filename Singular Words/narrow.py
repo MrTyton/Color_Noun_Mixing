@@ -27,24 +27,32 @@ def norm_comps():
         #still have to do the stat analysis on this...
     smaller_std = []
     larger_std = []
+    hist_plot = []
     for x in results: #figures out if the color + noun is wider/smaller than the color itself, and appends it to the proper list
         first = x[1][1]
         second = x[2][1]
         if first < second:
             smaller_std.append((first - second) / second)
         else:
-            larger_std.append((second-first) / first)
-    print len(smaller_std) #more of them are wider
+            larger_std.append((first - second) / second)
+        
+        hist_plot.append((second - first) / first) #gives how much of a difference the color + noun is from the color, as a percentage difference
+    print len(smaller_std) #more of them are wider, which would suggest that when they say the color + noun, they are being less specific about the color, rather than just the noun itself.
     print len(larger_std)
     print len(results)
+    
+    print (sum(smaller_std) + sum(larger_std)) / len(results)
+    
+    plt.hist(hist_plot, 30)
+    plt.show()
     
     print sum(smaller_std) / len(smaller_std)
     print sum(larger_std) / len(larger_std)
     
     means = []
     for x in results: #figures out how different the means are
-        first = x[1][1]
-        second = x[2][1]
+        first = x[1][0]
+        second = x[2][0]
         means.append((first - second) / second)
         
     print sum(means) / len(means)

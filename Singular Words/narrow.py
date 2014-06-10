@@ -13,7 +13,7 @@ def norm_comps():
     
     
     words = [x for x in words if len(x[1]) == 1]
-    
+    results = []
     for x in words:
         primary = x[0]
         noun = x[1][0]
@@ -22,11 +22,32 @@ def norm_comps():
         noun_data = dataManip.getData("../Data", noun, False)
         primary_mu, primary_std = scipy.stats.norm.fit(primary_data)
         noun_mu, noun_std = scipy.stats.norm.fit(noun_data)
-        print "For %s and %s" % (primary, noun)
-        print primary_mu, primary_std
-        print noun_mu, noun_std
+        results.append(((primary, noun), (primary_mu, primary_std), (noun_mu, noun_std)))
         
         #still have to do the stat analysis on this...
+    smaller_std = []
+    larger_std = []
+    for x in results: #figures out if the color + noun is wider/smaller than the color itself, and appends it to the proper list
+        first = x[1][1]
+        second = x[2][1]
+        if first < second:
+            smaller_std.append((first - second) / second)
+        else:
+            larger_std.append((second-first) / first)
+    print len(smaller_std) #more of them are wider
+    print len(larger_std)
+    print len(results)
+    
+    print sum(smaller_std) / len(smaller_std)
+    print sum(larger_std) / len(larger_std)
+    
+    means = []
+    for x in results: #figures out how different the means are
+        first = x[1][1]
+        second = x[2][1]
+        means.append((first - second) / second)
+        
+    print sum(means) / len(means)
         
 def are_same():
     with open("wordlist.pkl", "r") as fp:
@@ -46,8 +67,8 @@ def are_same():
     
     plt.hist(r2_results, 30)
     plt.show()
-    print sum(r2_results) / len(r2_results)
+    print sum(r2_results) / len(r2_results) #.37~ about
     
-are_same()
+norm_comps()
         
         

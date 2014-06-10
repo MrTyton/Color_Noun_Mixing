@@ -1,6 +1,6 @@
 from math import log
 import lux
-LUX = lux.LUX('lux.xml')
+LUX = lux.LUX('../lux.xml')
 import matplotlib.pyplot as plt
 import numpy as np
 from copy import deepcopy
@@ -25,7 +25,7 @@ def getData(location, name, test=True):
     return data
 
 def testDistributions(real_distribution, created_distribution):
-    test_data = getData("Data", real_distribution.name)
+    test_data = getData("../Data", real_distribution.name)
     log_learned = 0.0
     log_predicted = 0.0
     cross_entropy = 0.0
@@ -156,7 +156,7 @@ def plotData(name, first_distribution, second_distribution=None, axis="H", filen
     return
 
 def r2test(name, real_distribution, generated_distribution, HSV=None):
-    data = getData("src/Data", name)
+    data = getData("../Data", name)
     if HSV is None:
         real_phi = [real_distribution(x) for x in data]
         generated_phi = [generated_distribution(x) for x in data]

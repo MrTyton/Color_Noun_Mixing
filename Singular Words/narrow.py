@@ -2,6 +2,7 @@ import lux
 import pickle
 import scipy.stats
 import dataManip #have to go and adjust dataManip to load from ../lux.xml...
+import matplotlib.pyplot as plt
 
 LUX = lux.LUX("../lux.xml")
 

@@ -12,7 +12,7 @@ import dataManip
 
 generateImages = False
 
-curPath = "4-25-2014-Regressor-SortNothing"
+curPath = "7-8-test"
 
 
     
@@ -173,7 +173,7 @@ def continuePickles():
 
 
 if __name__ == "__main__":
-    create = 1
+    create = 10
     if create == 10:
         createPickles()
     else:

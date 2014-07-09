@@ -1,6 +1,6 @@
 from math import log
 import lux
-LUX = lux.LUX('lux.xml')
+LUX = lux.LUX('../lux.xml')
 import matplotlib.pyplot as plt
 import numpy as np
 from copy import deepcopy
@@ -25,7 +25,7 @@ def getData(location, name, test=True):
     return data
 
 def testDistributions(real_distribution, created_distribution):
-    test_data = getData("Data", real_distribution.name)
+    test_data = getData("../Data", real_distribution.name)
     log_learned = 0.0
     log_predicted = 0.0
     cross_entropy = 0.0
@@ -39,50 +39,7 @@ def testDistributions(real_distribution, created_distribution):
         #+perp = 2 ^ average log likelihood
     return log_learned, log_predicted, len(test_data), 2 ** -cross_entropy
 
-def sortAvail(x, y):
-    if LUX.getColor(x).availability > LUX.getColor(y).availability:
-        larger = x
-        smaller = y
-    else:
-        larger = y
-        smaller = x
-    return smaller, larger
-
-def getWordLists(method=sortAvail, checkRedundancy = True):
-    single_words = []
-    for x in LUX.all:
-        if LUX.getColor(x).isSingleWord() : single_words.append(x)
-    single_words.remove("apple")
-    single_words.remove("skin")
-    single_words.remove("pale")
-    single_words = [x for x in single_words if x[-3:] != "ish"]
-    combinations = []
-    combos = []
-    for x in single_words:
-        for y in single_words:
-            if x + " " + y in LUX.all:
-                smaller, larger = method(x, y)
-                if (smaller, larger) not in combos and checkRedundancy:
-                    combos.append((smaller, larger))
-                combinations.append((smaller, larger, x + " " + y))
-            elif x + "-" + y in LUX.all:
-                smaller, larger = method(x, y)
-                if (smaller, larger) not in combos and checkRedundancy:
-                    combos.append((smaller, larger))
-                combinations.append((smaller, larger, x + "-" + y))
-            elif y + " " + x in LUX.all:
-                smaller, larger = method(y, x)
-                if (smaller, larger) not in combos and checkRedundancy:
-                    combos.append((smaller, larger))
-                combinations.append((smaller, larger, y + " " + x))
-            elif y + "-" + x in LUX.all:
-                smaller, larger = method(y, x)
-                if (smaller, larger) not in combos and checkRedundancy:
-                    combos.append((smaller, larger))
-                combinations.append((smaller, larger, y + "-" + x))
-    return combinations
-
-def convertToVector(color_name, twoWord=False):
+def convertToVector(color_name):
     color = LUX.getColor(color_name)
     vector = []
     vector.append(color.availability)
@@ -121,7 +78,7 @@ def plotData(name, first_distribution, second_distribution=None, axis="H", filen
     axisDict = {"H":0, "S":1, "V":2}
     if axis not in  axisDict: return
     axis = axisDict[axis]
-    data = getData("Data", name)
+    data = getData("../Data", name)
     data = [x[axis] for x in data]
     linspace = np.linspace(max([0, min(data)-20]), 100 if max(data) <= 100 else min([max(data) + 20, 360]), num=500)
     phi_values = [first_distribution.dim_models[axis].phi(x) for x in linspace]
@@ -156,7 +113,7 @@ def plotData(name, first_distribution, second_distribution=None, axis="H", filen
     return
 
 def r2test(name, real_distribution, generated_distribution, HSV=None):
-    data = getData("Data", name)
+    data = getData("../Data", name)
     if HSV is None:
         real_phi = [real_distribution(x) for x in data]
         generated_phi = [generated_distribution(x) for x in data]

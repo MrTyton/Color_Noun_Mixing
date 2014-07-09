@@ -18,6 +18,14 @@
 
 \paragraph{} In order for us to determine whether or not our $f$ is generating a $\theta$ that is comparable to the one already present within LUX, we must first find a baseline for $\theta$s  in LUX that should already be identical. Within LUX, there exist $\theta$s, called "twins", where both $\theta(x,y)$ and $\theta(y, x)$ exist. We propose that these two $\theta$ are the same, namely that $\theta(x,y) == \theta(y, x)$. If that is true, then we can use the same evaluation metric on $\theta'$s when comparing them to $\theta$s, and that will tell us whether or not the two are the same. 
 
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=.75\textwidth]{green-blue}
+\end{center}
+\caption{An example of a twin, Blue-Green and Green-Blue. They are both distributions that are very similar to each other, as you can see by their positions relative to the data for green-blue.}
+\label{fig:twin_blue_green}
+\end{figure}
+
 \paragraph{} The evaluation metrics that can be used can either be $r^2$ or log-likelihood values, both being used on the other twin's data set. The same metric would then be applied to the $\theta'$, and would give us an idea of how accurate they are. Preliminary results using $r^2$ on the twins tells us that on average, the twins have a $r^2$ metric of .76. More can be seen in \autoref{app:r2_values}
 
 \paragraph{} Figuring out what the evaulation metric result for the twins, to be used for the composition function $f$, doesn't actually tell us if they are the same. Rather it tells us if they are the same, then what the metrics will tell us. In order to determine whether or not they are the same, we believe that a survey needs to be conducted on each of the twins. By having people rate on a scale of 1-10 how close two colors are to each other, we can get a human perspective on which colors are the same. The twins should all have very high values, averaging anywhere from 7-10, whereas non-twin colors should have significantly lower values, averaging anywhere from 1-4. If so, then we can say with high confidence that the twins are the same, and that $\theta(x,y) == \theta(y, x)$, which then means that we can use the evaluation metrics to compare other distributions.
@@ -28,7 +36,27 @@
 
 \paragraph{} There are many ways to structure the inputs into $f$. Every one of the $\theta$s has a property $\phi$, or availability, which states how "popular" the $\theta$ is. One way of ordering the inputs into $f$ would be to organize them by availability, under the assumption that the more popular a $\theta$ is, the larger of an impact it has on the resulting $\theta'$. Another way is to organize the inputs by their order in $\theta'$'s name, under the assumption that the order implies some significance in which $\theta$ is more impactful in the composition to produce $\theta'$. The final, and most intuitive  ordering, is to order the $\theta$s by their relative positions on the color wheel, under the assumption that the mix of colors is more towards an average of the two $\theta$s than anything else. Such an ordering would allow for the easiest discovery of such a fact.
 
+\paragraph{} Have to talk about hue adjust first before running the trees.
+
 \section{Special Cases of $f$, Noun-Colors}
+
+\paragraph{} Colors can be named almost anything. Often times, there are nouns, objects that are present in the physical world, that we use to describe what a color looks like. That color is so ingrained with the identity of the object that it is understood what that color looks like, just by calling it by it's real-world counterpart. These colors are shades of other colors in the lexicon, such as "chocolate" being a shade of "brown". What happens when you combine the two colors? What is the real difference between "brown" and "chocolate brown"? As one is a shade of the other, it doesn't make sense to use the same Composition $f$ that we did before in this case.
+
+\paragraph{} These Noun-Colors are not equivalent to the base Nouns. Using the $r^2$ metric as we did above, we come out with only 0.31307, well below the Twin's $r^2$ value of .76. For other comparison purposes, we can approximate Gaussean distributions of the colors by generating them with the raw data. Doing so allows us to easily compare different characteristics of the distributions, such as their position on the color spectrum or how much wider one is than the other.
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=.75\textwidth]{gaussean_differences}
+\end{center}
+\label{fig:gauss_diff_avocado}
+\caption{An example showing how the gausseans can be used to compare. I don't think that this actually works though, because the original avocado is skinnier than the original avocado green, but the created (gaussean) avocado is fatter than the created avocado green}
+\end{figure}While using this, in general, the Noun + Color distributions tended to be wider than the purely Noun distributions, which would suggest that |something something something, need to figure out how to show that the data says this is acting weirdly. I think that it's what it's saying|.%have to put mean graph here
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=.75\textwidth]{avocado}
+\end{center}
+\caption{Avocado and Avocado Green. Avocado Green appears to be wider than Avocado, suggesting that when people use it, they are describing a broader range of color than just with Avocado.}
+\label{fig:avocado}
+\end{figure}
 
 
 \pagebreak

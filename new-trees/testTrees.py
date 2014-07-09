@@ -2,6 +2,14 @@ from sklearn.ensemble import RandomForestRegressor
 from dataManip import *
 import pickle
 
+branch = 1
+
+with open("forest_regressor.pkl", "r") as fp:
+    if branch == 0:
+        forest_regressor = pickle.load(fp)
+    else:
+        forest_regressor_hue, forest_regressor_saturation, forest_regressor_value = pickle.load(fp)
+
 with open("testing_data.pkl", "r") as fp:
     testing_data = pickle.load(fp)
 
@@ -34,6 +42,7 @@ for i, (x, y) in enumerate(zip(results, [x[1][0] for x in testing_data])):
     fp.write("%s\n%f\n%s\n%s\n\n----\n" % (y, test_result, LUX.getColor(y).printStats(), predicted.printStats()))
 
     if i == 0 or i == 1 or i == 5 or i == 27:
+        print test_result
         plotData(y, LUX.getColor(y), predicted, axis="H")
         plotData(y, LUX.getColor(y), predicted, axis="S")
         plotData(y, LUX.getColor(y), predicted, axis="V")

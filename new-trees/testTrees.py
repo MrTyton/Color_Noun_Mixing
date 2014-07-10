@@ -16,7 +16,7 @@ with open("testing_data.pkl", "r") as fp:
 if branch == 0:
     results = forest_regressor.predict([x[0] for x in testing_data])
 else:
-    hues = forest_regressor_hue.predict([x[0][0:14] + x[0][38:52] for x in testing_data])
+    hues = forest_regressor_hue.predict([x[0][2:14] + x[0][40:52] for x in testing_data])
     saturation = forest_regressor_saturation.predict([x[0][14:26] + x[0][52:64] for x in testing_data])
     value = forest_regressor_value.predict([x[0][26:38] + x[0][64:76] for x in testing_data])
     def appending(x, y, z):

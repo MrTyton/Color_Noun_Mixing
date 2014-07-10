@@ -51,12 +51,10 @@ def convertToVector(color_name):
 
 def createDistribution(color_name, replacement_vector):
     ans = deepcopy(LUX.getColor(color_name))
-    ans.availability = replacement_vector[0]
-    if replacement_vector[1] == 1:
-        ans.hue_adjust = True
-    else:
-        ans.hue_adjust = False
     ans.dim_models[0].hue_adjust = ans.hue_adjust
+    temp = [0, 0]
+    temp.extend(replacement_vector)
+    replacement_vector = temp
     ans.dim_models[0].params = replacement_vector[2:8]
     ans.dim_models[0].stdevs = replacement_vector[8:14]
     ans.dim_models[1].params = replacement_vector[14:20]

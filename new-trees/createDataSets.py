@@ -1,6 +1,7 @@
 
 from dataManip import *
 import pickle
+destination = "."
 
 with open("composed_wordlist.pkl", "r") as fp:
     composed_wordlist = pickle.load(fp)
@@ -27,7 +28,7 @@ diff = len(composed_wordlist) - (len(composed_wordlist) / 3)
 training_data = composed_wordlist[:diff]
 testing_data = composed_wordlist[diff:]
 
-with open("training_data.pkl", "w") as fp:
+with open("%s/training_data.pkl" % (destination), "w") as fp:
     pickle.dump(training_data,fp)
-with open("testing_data.pkl", "w") as fp:
+with open("%s/testing_data.pkl" % (destination), "w") as fp:
     pickle.dump(testing_data, fp)

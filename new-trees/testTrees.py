@@ -2,15 +2,17 @@ from sklearn.ensemble import RandomForestRegressor
 from dataManip import *
 import pickle
 
-branch = 1
+directory = "./Fake Data"
 
-with open("forest_regressor.pkl", "r") as fp:
+branch = 2
+
+with open("%s/forest_regressor.pkl" % (directory), "r") as fp:
     if branch == 0:
         forest_regressor = pickle.load(fp)
     else:
         forest_regressor_hue, forest_regressor_saturation, forest_regressor_value = pickle.load(fp)
 
-with open("testing_data.pkl", "r") as fp:
+with open("%s/testing_data.pkl" % (directory), "r") as fp:
     testing_data = pickle.load(fp)
 
 if branch == 0:
@@ -31,23 +33,29 @@ r2_tests = []
 
 total = len(results)
 
-fp = open("raw_output.txt", "w")
+fp = open("%s/raw_output.txt" % (directory), "w")
 
 for i, (x, y) in enumerate(zip(results, [x[1][0] for x in testing_data])):
     print "Testing %d out of %d"  % (i+1, total)
     predicted = createDistribution(y, x)
-    test_result = r2test(y, LUX.getColor(y), predicted)
+    if branch != 2:
+        actual = LUX.getColor(y)
+    else:
+        with open("Fake Data/new_wordlist.pkl", "r") as fp2:
+            words = pickle.load(fp2)
+        actual = createDistribution(y, words[y])
+    test_result = r2test(y, actual, predicted)
     r2_tests.append(test_result)
     
-    fp.write("%s\n%f\n%s\n%s\n\n----\n" % (y, test_result, LUX.getColor(y).printStats(), predicted.printStats()))
+    fp.write("%s\n%f\n%s\n%s\n\n----\n" % (y, test_result, actual.printStats(), predicted.printStats()))
 
-    if i == 0 or i == 1 or i == 5 or i == 27:
-        print test_result
-        plotData(y, LUX.getColor(y), predicted, axis="H")
-        plotData(y, LUX.getColor(y), predicted, axis="S")
-        plotData(y, LUX.getColor(y), predicted, axis="V")
+    #if i == 0 or i == 1 or i == 5 or i == 27:
+    #    print test_result
+    #    plotData(y, LUX.getColor(y), predicted, axis="H")
+    #    plotData(y, LUX.getColor(y), predicted, axis="S")
+    #    plotData(y, LUX.getColor(y), predicted, axis="V")
 
 fp.close()    
      
-with open("results.pkl", "w") as fp:
+with open("%s/results.pkl" % (directory), "w") as fp:
     pickle.dump(r2_tests, fp)

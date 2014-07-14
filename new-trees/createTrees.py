@@ -1,7 +1,7 @@
 from sklearn.ensemble import RandomForestRegressor
 import pickle
 
-directory = "./Fake Data"
+directory = "."
 
 with open("%s/training_data.pkl" % (directory), "r") as fp:
     training_data = pickle.load(fp)

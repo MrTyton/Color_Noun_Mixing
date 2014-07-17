@@ -1,4 +1,4 @@
-from math import log
+from math import log, fabs
 import lux
 LUX = lux.LUX('lux.xml')
 import matplotlib.pyplot as plt
@@ -170,7 +170,27 @@ def r2test(name, real_distribution, generated_distribution, HSV=None):
     SS_res = sum([(x - y) ** 2 for x, y in zip(real_phi, generated_phi)])
     r2 = 1 - (SS_res / SS_tot)
     return r2
-    
+
+def klDivergance(name, real_distribution, generated_distribution, HSV=None):
+    data = getData("Data", name)
+    if HSV is None:
+        real_phi = [real_distribution(x) for x in data]
+        generated_phi = [generated_distribution(x) for x in data]
+    else:
+        axis = {"H": 0, "S": 1, "V": 2}
+        axis = axis[HSV]
+        real_phi = [real_distribution.dim_models[axis].phi(x) for x in [y[axis] for y in data]]
+        generated_phi = [generated_distribution.dim_models[axis].phi(x) for x in [y[axis] for y in data]] 
+    mathy = []
+    for p, q in zip(real_phi, generated_phi):
+        if fabs(p) < 1e-7 and fabs(q) < 1e-7:
+            continue
+        logging = log((p/q),)
+        if fabs(logging) < 1e-7 and fabs(p) < 1e-7:
+            continue
+        mathy.append(logging * p)
+    Dkl = sum(mathy)
+    return Dkl
     
     
     

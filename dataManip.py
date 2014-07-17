@@ -171,7 +171,7 @@ def r2test(name, real_distribution, generated_distribution, HSV=None):
     r2 = 1 - (SS_res / SS_tot)
     return r2
 
-def klDivergance(name, real_distribution, generated_distribution, HSV=None):
+def klDivergence(name, real_distribution, generated_distribution, HSV=None):
     data = getData("Data", name)
     if HSV is None:
         real_phi = [real_distribution(x) for x in data]

@@ -1,5 +1,5 @@
 olive drab
-0.281334
+0.000522
 Name:		olive drab
 Availability:	0.004200
 Hue Adjust:	False
@@ -11,7 +11,7 @@ mu1: 54.512040, sh1: 2.355550, sc1: 8.783371, mu2: 104.564757, sh2: 3.069679, sc
 
 ----
 brick orange
-0.570640
+-0.000011
 Name:		brick orange
 Availability:	0.002595
 Hue Adjust:	True
@@ -23,7 +23,7 @@ mu1: 20.751564, sh1: 2.768123, sc1: 3.856064, mu2: 17.509119, sh2: 2.962251, sc2
 
 ----
 mustard brown
--0.784837
+0.002180
 Name:		mustard brown
 Availability:	0.004076
 Hue Adjust:	True
@@ -35,7 +35,7 @@ mu1: 67.945987, sh1: 3.937309, sc1: 4.285912, mu2: 47.496829, sh2: 2.473098, sc2
 
 ----
 navy blue
--2.008050
+0.078239
 Name:		navy blue
 Availability:	0.027453
 Hue Adjust:	False
@@ -47,7 +47,7 @@ mu1: 182.491858, sh1: 2.897757, sc1: 5.333320, mu2: 179.062198, sh2: 3.715262, s
 
 ----
 mustard green
--0.243859
+0.001361
 Name:		mustard green
 Availability:	0.005510
 Hue Adjust:	False
@@ -59,7 +59,7 @@ mu1: 68.412381, sh1: 4.682570, sc1: 2.292635, mu2: 95.837572, sh2: 2.557206, sc2
 
 ----
 green apple
-0.148220
+0.000155
 Name:		green apple
 Availability:	0.001219
 Hue Adjust:	False
@@ -71,7 +71,7 @@ mu1: 105.625817, sh1: 4.020685, sc1: 7.907855, mu2: 96.749028, sh2: 2.795690, sc
 
 ----
 orange-yellow
-0.133335
+0.009139
 Name:		orange-yellow
 Availability:	0.026919
 Hue Adjust:	False
@@ -83,7 +83,7 @@ mu1: 41.038275, sh1: 2.809867, sc1: 3.155611, mu2: 44.005609, sh2: 2.291160, sc2
 
 ----
 red-orange
--0.360037
+0.044030
 Name:		red-orange
 Availability:	0.069906
 Hue Adjust:	True
@@ -95,7 +95,7 @@ mu1: 12.852710, sh1: 2.691964, sc1: 3.854472, mu2: 25.127456, sh2: 2.356226, sc2
 
 ----
 yellow-brown
-0.804708
+0.000462
 Name:		yellow-brown
 Availability:	0.012217
 Hue Adjust:	False
@@ -107,7 +107,7 @@ mu1: 41.942379, sh1: 2.122067, sc1: 3.408321, mu2: 48.028707, sh2: 2.364415, sc2
 
 ----
 blue-green
-0.470542
+-0.000648
 Name:		blue-green
 Availability:	0.030229
 Hue Adjust:	False
@@ -119,7 +119,7 @@ mu1: 160.321664, sh1: 2.861438, sc1: 6.332309, mu2: 160.237179, sh2: 2.971327, s
 
 ----
 brown-grey
-0.575299
+0.000287
 Name:		brown-grey
 Availability:	0.002659
 Hue Adjust:	True
@@ -131,7 +131,7 @@ mu1: 41.021495, sh1: 4.284846, sc1: 5.712418, mu2: 44.677811, sh2: 2.747309, sc2
 
 ----
 purple-pink
-0.316082
+0.001035
 Name:		purple-pink
 Availability:	0.004924
 Hue Adjust:	True
@@ -143,7 +143,7 @@ mu1: -49.621096, sh1: 4.173931, sc1: 4.913576, mu2: -14.114977, sh2: 3.682422, s
 
 ----
 purple-red
-0.270090
+0.000701
 Name:		purple-red
 Availability:	0.003536
 Hue Adjust:	True
@@ -155,7 +155,7 @@ mu1: -31.561286, sh1: 3.352857, sc1: 5.585245, mu2: -35.051044, sh2: 3.049798, s
 
 ----
 yellow tan
-0.162844
+0.000099
 Name:		yellow tan
 Availability:	0.006002
 Hue Adjust:	False
@@ -167,7 +167,7 @@ mu1: 41.502739, sh1: 2.511056, sc1: 3.577273, mu2: 48.254145, sh2: 3.567428, sc2
 
 ----
 puke green
--1.630718
+0.037811
 Name:		puke green
 Availability:	0.023568
 Hue Adjust:	True
@@ -179,7 +179,7 @@ mu1: 103.996037, sh1: 4.207016, sc1: 2.973490, mu2: 87.610357, sh2: 2.936498, sc
 
 ----
 rust orange
--2.887187
+0.007927
 Name:		rust orange
 Availability:	0.003130
 Hue Adjust:	False
@@ -191,7 +191,7 @@ mu1: 57.715111, sh1: 2.575634, sc1: 3.850676, mu2: 52.055477, sh2: 3.100206, sc2
 
 ----
 lime green
--0.146806
+0.108488
 Name:		lime green
 Availability:	0.166044
 Hue Adjust:	True
@@ -203,7 +203,7 @@ mu1: 98.300935, sh1: 4.345952, sc1: 5.637251, mu2: 81.557668, sh2: 2.921153, sc2
 
 ----
 grey green
--0.234969
+0.005162
 Name:		grey green
 Availability:	0.012590
 Hue Adjust:	False
@@ -215,7 +215,7 @@ mu1: 58.214150, sh1: 6.879063, sc1: 6.669980, mu2: 77.410698, sh2: 4.256177, sc2
 
 ----
 green-grey
--0.304198
+0.001322
 Name:		green-grey
 Availability:	0.002548
 Hue Adjust:	False
@@ -227,7 +227,7 @@ mu1: 58.214150, sh1: 6.879063, sc1: 6.669980, mu2: 77.410698, sh2: 4.256177, sc2
 
 ----
 orange-red
--0.357358
+0.017905
 Name:		orange-red
 Availability:	0.030431
 Hue Adjust:	True
@@ -239,7 +239,7 @@ mu1: 12.852710, sh1: 2.691964, sc1: 3.854472, mu2: 25.127456, sh2: 2.356226, sc2
 
 ----
 rose pink
-0.006785
+0.002531
 Name:		rose pink
 Availability:	0.004290
 Hue Adjust:	True
@@ -251,7 +251,7 @@ mu1: -10.626650, sh1: 2.627033, sc1: 3.098429, mu2: 2.765438, sh2: 3.483196, sc2
 
 ----
 purple blue
--2.345090
+0.132979
 Name:		purple blue
 Availability:	0.014732
 Hue Adjust:	True
@@ -263,7 +263,7 @@ mu1: 198.736194, sh1: 2.528074, sc1: 8.137571, mu2: 225.225162, sh2: 2.214919, s
 
 ----
 teal blue
--0.620683
+0.001741
 Name:		teal blue
 Availability:	0.007522
 Hue Adjust:	False
@@ -275,7 +275,7 @@ mu1: 199.129296, sh1: 2.354429, sc1: 5.735603, mu2: 239.689976, sh2: 2.744152, s
 
 ----
 seafoam green
--1.737148
+0.105221
 Name:		seafoam green
 Availability:	0.060819
 Hue Adjust:	False
@@ -287,7 +287,7 @@ mu1: 57.819501, sh1: 3.317423, sc1: 6.865007, mu2: 86.407526, sh2: 4.514966, sc2
 
 ----
 mustard yellow
-0.015446
+0.010202
 Name:		mustard yellow
 Availability:	0.032571
 Hue Adjust:	False
@@ -299,7 +299,7 @@ mu1: 43.918803, sh1: 2.243748, sc1: 3.786447, mu2: 76.392530, sh2: 2.613709, sc2
 
 ----
 brown yellow
-0.556119
+0.000190
 Name:		brown yellow
 Availability:	0.002146
 Hue Adjust:	False
@@ -311,7 +311,7 @@ mu1: 41.942379, sh1: 2.122067, sc1: 3.408321, mu2: 48.028707, sh2: 2.364415, sc2
 
 ----
 blood orange
--1.284721
+0.005774
 Name:		blood orange
 Availability:	0.002252
 Hue Adjust:	True
@@ -323,7 +323,7 @@ mu1: 55.830544, sh1: 3.058750, sc1: 4.206106, mu2: 48.263799, sh2: 3.169043, sc2
 
 ----
 red-pink
-0.456551
+0.001738
 Name:		red-pink
 Availability:	0.015183
 Hue Adjust:	True
@@ -335,7 +335,7 @@ mu1: -15.706219, sh1: 3.485325, sc1: 2.846033, mu2: -14.190075, sh2: 3.365353, s
 
 ----
 poop brown
--0.090725
+0.001324
 Name:		poop brown
 Availability:	0.003068
 Hue Adjust:	True
@@ -347,7 +347,7 @@ mu1: 41.053664, sh1: 2.709099, sc1: 3.801210, mu2: 62.133147, sh2: 2.339640, sc2
 
 ----
 ocean green
--0.501257
+0.000328
 Name:		ocean green
 Availability:	0.002942
 Hue Adjust:	False
@@ -359,7 +359,7 @@ mu1: 139.134895, sh1: 3.484178, sc1: 7.220428, mu2: 158.512488, sh2: 5.506275, s
 
 ----
 slate blue
-0.351549
+0.001479
 Name:		slate blue
 Availability:	0.010653
 Hue Adjust:	False
@@ -371,7 +371,7 @@ mu1: 185.797646, sh1: 2.113530, sc1: 9.146688, mu2: 196.881690, sh2: 3.816993, s
 
 ----
 red violet
--2.377710
+0.027738
 Name:		red violet
 Availability:	0.004446
 Hue Adjust:	True
@@ -383,7 +383,7 @@ mu1: 261.828170, sh1: 2.723873, sc1: 9.248127, mu2: 296.151322, sh2: 3.295743, s
 
 ----
 sea blue
--0.822649
+0.004073
 Name:		sea blue
 Availability:	0.008450
 Hue Adjust:	False

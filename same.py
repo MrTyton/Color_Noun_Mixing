@@ -5,8 +5,9 @@ import numpy
 import matplotlib.pyplot as plt
 from dataManip import *
 import dataManip
+import pickle
 
-LUX = lux.LUX('lux.xml')
+LUX = dataManip.LUX
 
 
 #def output(first_model, second_model, learned, predict, num_points, test, perplexity):
@@ -92,7 +93,7 @@ def availAndPerplex():
     #testing_things()
 
 
-def r2():
+def dkl():
     words = getWordLists(method=lambda x, y: (x, y), checkRedundancy=False)
     words = dict([((x, y), z) for x, y, z in words])
     combos = {}
@@ -100,19 +101,19 @@ def r2():
         if (y, x) in words and (x, y) not in combos and (y, x) not in combos:
             combos[(x, y)] = (words[x, y], words[y, x])
         
-    r2_results = []
-    log_likelihoods = [] 
+    dkl_results = []
+    #log_likelihoods = [] 
     print combos
-    r2_table = []
+    dkl_table = []
     for x in combos:
         first, second = combos[x]
         first_distribution = LUX.getColor(first)
         second_distribution = LUX.getColor(second)
-        first_results = dataManip.r2test(first, first_distribution, second_distribution)
-        second_results = dataManip.r2test(second, second_distribution, first_distribution)
-        r2_results.append(first_results)
-        r2_results.append(second_results)
-        r2_table.append(((first, second), (first_results, second_results)))
+        first_results = dataManip.klDivergence(first, first_distribution, second_distribution)
+        second_results = dataManip.klDivergence(second, second_distribution, first_distribution)
+        dkl_results.append(first_results)
+        dkl_results.append(second_results)
+        dkl_table.append(((first, second), (first_results, second_results)))
         #first_log_learned, first_log_predicted, first_num_points, first_perp = testDistributions(first_distribution, second_distribution)
         #second_log_learned, second_log_predicted, second_num_points, second_perp = testDistributions(second_distribution, first_distribution)
         #log_likelihoods.append((first_log_learned, first_log_predicted, first_num_points))
@@ -121,15 +122,17 @@ def r2():
     #print sum([x / z for x, y, z in log_likelihoods]) / len(log_likelihoods)
     #print sum([y / z for x, y, z in log_likelihoods]) / len(log_likelihoods)
     
-    print r2_results
-    for x in r2_table:
+    print dkl_results
+    with open("results/dkl_results.pkl", "w") as fp:
+        pickle.dump(dkl_results, fp)
+    for x in dkl_table:
         print """%s & %s & %03f & %03f \\\\ \hline""" % (x[0][0], x[0][1], x[1][0], x[1][1])
-    plt.hist(r2_results, 30)
+    plt.hist(dkl_results, 30)
     plt.show()
-    print sum(r2_results) / len(r2_results)
+    print sum(dkl_results) / len(dkl_results)
     
 #availAndPerplex()
-r2()
+dkl()
 #insert in the labels
 #get the log likelihood data organized as well
 

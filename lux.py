@@ -7,7 +7,7 @@ There is an accompanying CSV file.  This script opens it and offers basic functi
 """
 
 from scipy.stats import gamma as gam_dist
-from math import sin, cos, atan2, pi
+from math import sin, cos, atan2, pi, fabs
 import xml.etree.ElementTree as ET
 class LUX:
     def __init__(self, filename):
@@ -162,7 +162,24 @@ class single_dim:
     def printStats(self):
         mu1,sh1,sc1,mu2,sh2,sc2 = self.params
         return "mu1: %f, sh1: %f, sc1: %f, mu2: %f, sh2: %f, sc2: %f" % (mu1, sh1, sc1, mu2, sh2, sc2)
-     
+    
+    def broadness(self, maximum):
+        mu1,sh1,sc1,mu2,sh2,sc2 = self.params
+        maximum = float(maximum)
+        def findPoints(start, finish, target, significance = 1e-5):
+            results = []
+            for i in self.frange(start, finish, (finish - start) / 1000.):
+                temp = self.phi(i)
+                if fabs(target - temp) <= significance:
+                    results.append((i, temp))
+            if results == []:
+                if significance == 1:
+                    raise RuntimeError('Something broke')
+                return findPoints(start, finish, target, significance * 10)
+            return  min(results, key = lambda x : fabs(target - x[1]))[0]
+        bottom_quartile = findPoints(0, mu1, self.phi(mu1) / 2.)
+        upper_quartile = findPoints(mu2, maximum, self.phi(mu2) / 2.)
+        return upper_quartile - bottom_quartile
         
 
 class OutOfVocabularyException(Exception):

@@ -12,10 +12,10 @@ green_blue([0, 0, 0])
 blue_green([0, 0, 0])
 print "Testing"
 
-print dataManip.klDivergance("green-blue", green_blue, green_blue)
-print dataManip.klDivergance("blue-green", blue_green, blue_green)
-print dataManip.klDivergance("green-blue", green_blue, blue_green)
-print dataManip.klDivergance("blue-green", blue_green, green_blue)
+print dataManip.klDivergence("green-blue", green_blue, green_blue)
+print dataManip.klDivergence("blue-green", blue_green, blue_green)
+print dataManip.klDivergence("green-blue", green_blue, blue_green)
+print dataManip.klDivergence("blue-green", blue_green, green_blue)
 
     
 #dataManip.plotData("green-blue", green_blue, blue_green, "H")

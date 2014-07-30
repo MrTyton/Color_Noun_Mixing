@@ -7,7 +7,7 @@ There is an accompanying CSV file.  This script opens it and offers basic functi
 """
 
 from scipy.stats import gamma as gam_dist
-from math import sin, cos, atan2, pi, fabs
+from math import sin, cos, atan2, pi, fabs, log
 import xml.etree.ElementTree as ET
 class LUX:
     def __init__(self, filename):
@@ -100,6 +100,9 @@ class color_label:
             ans += x.printStats() + " "
         return ans
     
+    def broadness(self):
+        return log(self.dim_models[0].broadness(360) / 360) + log(self.dim_models[1].broadness(100) / 100) + (self.dim_models[2].broadness(100) / 100)
+    
 class single_dim:
     """
     The single dimension for each color label
@@ -143,7 +146,7 @@ class single_dim:
     def frange(self, start, stop, jump):
         while start <= stop:
             yield start
-            start += jump  
+            start += fabs(jump)  
                 
     def auc(self, maximum):
         maximum = float(maximum)
@@ -166,7 +169,7 @@ class single_dim:
     def broadness(self, maximum):
         mu1,sh1,sc1,mu2,sh2,sc2 = self.params
         maximum = float(maximum)
-        def findPoints(start, finish, target, significance = 1e-5):
+        def findPoints(start, finish, target, mean, significance = 1e-5):
             results = []
             for i in self.frange(start, finish, (finish - start) / 1000.):
                 temp = self.phi(i)
@@ -174,11 +177,21 @@ class single_dim:
                     results.append((i, temp))
             if results == []:
                 if significance == 1:
+                    if fabs(start) == 100:
+                        return 0
+                    if fabs(finish) == 100:
+                        return 100
                     raise RuntimeError('Something broke')
-                return findPoints(start, finish, target, significance * 10)
-            return  min(results, key = lambda x : fabs(target - x[1]))[0]
-        bottom_quartile = findPoints(0, mu1, self.phi(mu1) / 2.)
-        upper_quartile = findPoints(mu2, maximum, self.phi(mu2) / 2.)
+                return findPoints(start, finish, target, mean, significance * 10)
+            if len(results) == 1:
+                if significance != 1:
+                    return findPoints(start, finish, target, mean, significance * 10)
+            #return  min(results, key = lambda x : fabs(target - x[1]))[0]
+            #print results
+            return min(results, key = lambda x : fabs(mean - x[0]))[0]
+        bottom_quartile = findPoints(-maximum if mu1 < 0 else 0, mu1, self.phi(mu1) / 2., mu1)
+        upper_quartile = findPoints(mu2, maximum, self.phi(mu2) / 2., mu2)
+        #print bottom_quartile, upper_quartile
         return upper_quartile - bottom_quartile
         
 

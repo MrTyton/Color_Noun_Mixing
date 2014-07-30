@@ -1,0 +1,3316 @@
+fawn:
+	Hue:		0.077892
+	Saturation:	0.321773
+	Value:		0.286550
+light grey blue:
+	Hue:		0.161405
+	Saturation:	0.333353
+	Value:		0.290531
+pale violet:
+	Hue:		0.189274
+	Saturation:	0.436508
+	Value:		0.193162
+light lilac:
+	Hue:		0.122555
+	Saturation:	0.181096
+	Value:		0.163575
+clay brown:
+	Hue:		0.082070
+	Saturation:	0.471591
+	Value:		0.338680
+peacock blue:
+	Hue:		0.105331
+	Saturation:	0.179574
+	Value:		0.376660
+carnation pink:
+	Hue:		0.107134
+	Saturation:	0.482237
+	Value:		0.133764
+dirty orange:
+	Hue:		0.071661
+	Saturation:	0.283772
+	Value:		0.273708
+yellow:
+	Hue:		0.053475
+	Saturation:	0.361610
+	Value:		0.106197
+cobalt:
+	Hue:		0.159172
+	Saturation:	0.315543
+	Value:		0.546429
+dark mint green:
+	Hue:		0.090150
+	Saturation:	0.479390
+	Value:		0.384353
+minty green:
+	Hue:		0.071316
+	Saturation:	0.654158
+	Value:		0.211076
+deep violet:
+	Hue:		0.155958
+	Saturation:	0.365645
+	Value:		0.498596
+claret:
+	Hue:		0.094324
+	Saturation:	0.347968
+	Value:		0.477333
+skin:
+	Hue:		0.080040
+	Saturation:	0.326336
+	Value:		0.135523
+dull red:
+	Hue:		0.072852
+	Saturation:	0.274825
+	Value:		0.262546
+apple green:
+	Hue:		0.157911
+	Saturation:	0.398473
+	Value:		0.233448
+darkish purple:
+	Hue:		0.179833
+	Saturation:	0.617012
+	Value:		0.447371
+greyish brown:
+	Hue:		0.096414
+	Saturation:	0.367720
+	Value:		0.327420
+prussian blue:
+	Hue:		0.137386
+	Saturation:	0.201294
+	Value:		0.421672
+deep purple:
+	Hue:		0.160534
+	Saturation:	0.390283
+	Value:		0.409275
+yellow ochre:
+	Hue:		0.075893
+	Saturation:	0.129667
+	Value:		0.221947
+dark maroon:
+	Hue:		0.100548
+	Saturation:	0.279779
+	Value:		0.353994
+vomit green:
+	Hue:		0.078154
+	Saturation:	0.250967
+	Value:		0.397619
+crimson:
+	Hue:		0.065713
+	Saturation:	0.195235
+	Value:		0.391323
+camouflage green:
+	Hue:		0.135993
+	Saturation:	0.708491
+	Value:		0.436956
+brown:
+	Hue:		0.088689
+	Saturation:	0.469071
+	Value:		0.414649
+green-yellow:
+	Hue:		0.066731
+	Saturation:	0.351156
+	Value:		0.232703
+sage green:
+	Hue:		0.167364
+	Saturation:	0.378064
+	Value:		0.354900
+bile:
+	Hue:		0.114567
+	Saturation:	0.272075
+	Value:		0.104446
+brown-green:
+	Hue:		0.089581
+	Saturation:	0.384594
+	Value:		0.410972
+purpley blue:
+	Hue:		0.082681
+	Saturation:	0.290326
+	Value:		0.355024
+light periwinkle:
+	Hue:		0.097486
+	Saturation:	0.389938
+	Value:		0.174781
+seafoam blue:
+	Hue:		0.146680
+	Saturation:	0.644391
+	Value:		0.329621
+marigold:
+	Hue:		0.047405
+	Saturation:	0.264219
+	Value:		0.166063
+reddish:
+	Hue:		0.080391
+	Saturation:	0.474326
+	Value:		0.367524
+asparagus:
+	Hue:		0.135824
+	Saturation:	0.427940
+	Value:		0.270570
+light burgundy:
+	Hue:		0.094807
+	Saturation:	0.363973
+	Value:		0.319449
+lemon lime:
+	Hue:		0.065195
+	Saturation:	0.343532
+	Value:		0.131833
+greenish teal:
+	Hue:		0.089334
+	Saturation:	0.392597
+	Value:		0.479284
+greyish green:
+	Hue:		0.238564
+	Saturation:	0.339965
+	Value:		0.369993
+sand:
+	Hue:		0.071551
+	Saturation:	0.399866
+	Value:		0.221708
+brownish:
+	Hue:		0.119847
+	Saturation:	0.641907
+	Value:		0.405434
+brownish purple:
+	Hue:		0.141404
+	Saturation:	0.407888
+	Value:		0.353593
+teal:
+	Hue:		0.095593
+	Saturation:	0.510471
+	Value:		0.247957
+greenish:
+	Hue:		0.147822
+	Saturation:	0.417016
+	Value:		0.440576
+green-brown:
+	Hue:		0.076415
+	Saturation:	0.286874
+	Value:		0.425339
+brown-orange:
+	Hue:		0.061380
+	Saturation:	0.335554
+	Value:		0.201915
+pinky purple:
+	Hue:		0.113075
+	Saturation:	0.453370
+	Value:		0.260565
+bright fuschia:
+	Hue:		0.083766
+	Saturation:	0.201069
+	Value:		0.164003
+blood red:
+	Hue:		0.062623
+	Saturation:	0.143832
+	Value:		0.304197
+neon pink:
+	Hue:		0.102740
+	Saturation:	0.211039
+	Value:		0.104350
+navy green:
+	Hue:		0.331199
+	Saturation:	0.661368
+	Value:		0.700475
+baby blue:
+	Hue:		0.112763
+	Saturation:	0.501930
+	Value:		0.139704
+vermillion:
+	Hue:		0.051069
+	Saturation:	0.209267
+	Value:		0.234633
+darkish green:
+	Hue:		0.151859
+	Saturation:	0.268426
+	Value:		0.307941
+lavender:
+	Hue:		0.150146
+	Saturation:	0.412878
+	Value:		0.257837
+pink-red:
+	Hue:		0.066131
+	Saturation:	0.182780
+	Value:		0.189309
+dark slate blue:
+	Hue:		0.147733
+	Saturation:	0.296773
+	Value:		0.437702
+orangey red:
+	Hue:		0.042430
+	Saturation:	0.169226
+	Value:		0.212064
+earth:
+	Hue:		0.126797
+	Saturation:	0.281377
+	Value:		0.386262
+purple-brown:
+	Hue:		0.108280
+	Saturation:	0.402479
+	Value:		0.364327
+lightish green:
+	Hue:		0.175891
+	Saturation:	0.517720
+	Value:		0.255730
+sick green:
+	Hue:		0.177773
+	Saturation:	0.411733
+	Value:		0.279450
+light orange:
+	Hue:		0.066675
+	Saturation:	0.311908
+	Value:		0.119327
+ugly pink:
+	Hue:		0.222187
+	Saturation:	0.538555
+	Value:		0.211106
+blue:
+	Hue:		0.163744
+	Saturation:	0.305001
+	Value:		0.334498
+pale lilac:
+	Hue:		0.157060
+	Saturation:	0.304914
+	Value:		0.187283
+rich purple:
+	Hue:		0.153462
+	Saturation:	0.211976
+	Value:		0.350334
+metallic blue:
+	Hue:		0.153186
+	Saturation:	0.676281
+	Value:		0.571968
+warm brown:
+	Hue:		0.096148
+	Saturation:	0.339656
+	Value:		0.590023
+dirt:
+	Hue:		0.084433
+	Saturation:	0.518619
+	Value:		0.253267
+burgundy:
+	Hue:		0.097739
+	Saturation:	0.321672
+	Value:		0.360436
+blush pink:
+	Hue:		0.107421
+	Saturation:	0.419604
+	Value:		0.142244
+greenish grey:
+	Hue:		0.242883
+	Saturation:	0.290018
+	Value:		0.479631
+tan brown:
+	Hue:		0.098974
+	Saturation:	0.454670
+	Value:		0.279091
+deep teal:
+	Hue:		0.131211
+	Saturation:	0.294748
+	Value:		0.396274
+burnt red:
+	Hue:		0.047409
+	Saturation:	0.252920
+	Value:		0.371397
+pastel pink:
+	Hue:		0.158972
+	Saturation:	0.341582
+	Value:		0.121373
+camel:
+	Hue:		0.067598
+	Saturation:	0.405582
+	Value:		0.290618
+light kelly green:
+	Hue:		0.147159
+	Saturation:	0.368718
+	Value:		0.289579
+orangey brown:
+	Hue:		0.072249
+	Saturation:	0.327880
+	Value:		0.268903
+acid green:
+	Hue:		0.195173
+	Saturation:	0.210580
+	Value:		0.176980
+bright aqua:
+	Hue:		0.100824
+	Saturation:	0.273838
+	Value:		0.124057
+barbie pink:
+	Hue:		0.099105
+	Saturation:	0.458857
+	Value:		0.117454
+dark cream:
+	Hue:		0.087443
+	Saturation:	0.411685
+	Value:		0.204348
+bluey grey:
+	Hue:		0.137878
+	Saturation:	0.408810
+	Value:		0.387283
+dark navy:
+	Hue:		0.126580
+	Saturation:	0.405036
+	Value:		0.264584
+skin colour:
+	Hue:		0.118831
+	Saturation:	0.277532
+	Value:		0.141205
+leafy green:
+	Hue:		0.178863
+	Saturation:	0.320184
+	Value:		0.477637
+dark tan:
+	Hue:		0.071306
+	Saturation:	0.500827
+	Value:		0.333738
+pear:
+	Hue:		0.105855
+	Saturation:	0.578595
+	Value:		0.229970
+neon yellow:
+	Hue:		0.055711
+	Saturation:	0.181590
+	Value:		0.094227
+dark khaki:
+	Hue:		0.089884
+	Saturation:	0.609801
+	Value:		0.469724
+mud brown:
+	Hue:		0.084939
+	Saturation:	0.227660
+	Value:		0.380147
+dusty rose:
+	Hue:		0.120479
+	Saturation:	0.367179
+	Value:		0.266144
+weird:
+	Hue:		0.443064
+	Saturation:	0.743113
+	Value:		0.255223
+dark rose:
+	Hue:		0.075563
+	Saturation:	0.488200
+	Value:		0.290538
+golden:
+	Hue:		0.043287
+	Saturation:	0.260471
+	Value:		0.172007
+dark peach:
+	Hue:		0.078906
+	Saturation:	0.241523
+	Value:		0.226768
+dried blood:
+	Hue:		0.046893
+	Saturation:	0.256473
+	Value:		0.403678
+orangish:
+	Hue:		0.104773
+	Saturation:	0.439681
+	Value:		0.230424
+sienna:
+	Hue:		0.085634
+	Saturation:	0.268517
+	Value:		0.355814
+hot green:
+	Hue:		0.143444
+	Saturation:	0.235723
+	Value:		0.137128
+dodger blue:
+	Hue:		0.086409
+	Saturation:	0.167910
+	Value:		0.149362
+light mint green:
+	Hue:		0.107615
+	Saturation:	0.243850
+	Value:		0.075692
+booger green:
+	Hue:		0.081061
+	Saturation:	0.287307
+	Value:		0.359555
+seafoam:
+	Hue:		0.101439
+	Saturation:	0.697669
+	Value:		0.211375
+lime:
+	Hue:		0.116541
+	Saturation:	0.335429
+	Value:		0.160342
+celery:
+	Hue:		0.088448
+	Saturation:	0.387652
+	Value:		0.173868
+fluorescent green:
+	Hue:		0.140918
+	Saturation:	0.188361
+	Value:		0.105403
+bright lime green:
+	Hue:		0.142743
+	Saturation:	0.204175
+	Value:		0.116309
+cerulean blue:
+	Hue:		0.133752
+	Saturation:	0.298313
+	Value:		0.274556
+puke:
+	Hue:		0.091511
+	Saturation:	0.388627
+	Value:		0.374866
+sunshine yellow:
+	Hue:		0.064261
+	Saturation:	0.384918
+	Value:		0.093010
+algae:
+	Hue:		0.283177
+	Saturation:	0.440331
+	Value:		0.350782
+pine green:
+	Hue:		0.220619
+	Saturation:	0.308810
+	Value:		0.380989
+light yellow green:
+	Hue:		0.074093
+	Saturation:	0.420402
+	Value:		0.136943
+blueberry:
+	Hue:		0.102303
+	Saturation:	0.424792
+	Value:		0.347354
+chestnut:
+	Hue:		0.079630
+	Saturation:	0.383834
+	Value:		0.394041
+charcoal:
+	Hue:		0.512873
+	Saturation:	0.370019
+	Value:		0.256575
+brick orange:
+	Hue:		0.064295
+	Saturation:	0.246343
+	Value:		0.284223
+yuck:
+	Hue:		0.073721
+	Saturation:	0.422066
+	Value:		0.283296
+pretty:
+	Hue:		0.513769
+	Saturation:	0.252586
+	Value:		0.484571
+ice blue:
+	Hue:		0.142263
+	Saturation:	0.298345
+	Value:		0.108962
+navy blue:
+	Hue:		0.145029
+	Saturation:	0.324261
+	Value:		0.363601
+electric purple:
+	Hue:		0.098067
+	Saturation:	0.239465
+	Value:		0.184913
+tangerine:
+	Hue:		0.083130
+	Saturation:	0.315251
+	Value:		0.116974
+light salmon:
+	Hue:		0.064795
+	Saturation:	0.461806
+	Value:		0.099017
+light aqua:
+	Hue:		0.109149
+	Saturation:	0.544010
+	Value:		0.135660
+chocolate:
+	Hue:		0.078858
+	Saturation:	0.469469
+	Value:		0.346355
+grassy green:
+	Hue:		0.167063
+	Saturation:	0.272052
+	Value:		0.301699
+melon:
+	Hue:		0.070230
+	Saturation:	0.319451
+	Value:		0.112808
+flat green:
+	Hue:		0.209322
+	Saturation:	0.363534
+	Value:		0.354953
+olive:
+	Hue:		0.091592
+	Saturation:	0.387932
+	Value:		0.384816
+pale salmon:
+	Hue:		0.093735
+	Saturation:	0.414386
+	Value:		0.127265
+spearmint:
+	Hue:		0.109112
+	Saturation:	0.361946
+	Value:		0.250876
+flat blue:
+	Hue:		0.101119
+	Saturation:	0.399187
+	Value:		0.389393
+almost black:
+	Hue:		0.896088
+	Saturation:	0.769550
+	Value:		0.149564
+barf green:
+	Hue:		0.087833
+	Saturation:	0.347788
+	Value:		0.413925
+yellow tan:
+	Hue:		0.101401
+	Saturation:	0.197046
+	Value:		0.197546
+cool grey:
+	Hue:		0.753929
+	Saturation:	0.288066
+	Value:		0.404250
+grape:
+	Hue:		0.208665
+	Saturation:	0.312758
+	Value:		0.404235
+darker pink:
+	Hue:		0.996587
+	Saturation:	0.405336
+	Value:		0.296469
+light bright green:
+	Hue:		0.168423
+	Saturation:	0.267911
+	Value:		0.128780
+dull orange:
+	Hue:		0.068199
+	Saturation:	0.378315
+	Value:		0.205475
+dark lavender:
+	Hue:		0.164359
+	Saturation:	0.391785
+	Value:		0.449946
+adobe:
+	Hue:		0.077733
+	Saturation:	0.418819
+	Value:		0.290053
+deep aqua:
+	Hue:		0.095142
+	Saturation:	0.371904
+	Value:		0.468567
+electric green:
+	Hue:		0.130253
+	Saturation:	0.220327
+	Value:		0.123959
+deep magenta:
+	Hue:		0.075896
+	Saturation:	0.251202
+	Value:		0.387013
+light tan:
+	Hue:		0.086405
+	Saturation:	0.432070
+	Value:		0.208385
+dark hot pink:
+	Hue:		0.132532
+	Saturation:	0.209146
+	Value:		0.258689
+swamp green:
+	Hue:		0.109672
+	Saturation:	0.386794
+	Value:		0.412618
+pink:
+	Hue:		0.137392
+	Saturation:	0.676561
+	Value:		0.139457
+warm grey:
+	Hue:		0.149617
+	Saturation:	0.218773
+	Value:		0.386873
+primary blue:
+	Hue:		0.069210
+	Saturation:	0.132112
+	Value:		0.256859
+light mustard:
+	Hue:		0.065937
+	Saturation:	0.390274
+	Value:		0.079337
+lime yellow:
+	Hue:		0.080060
+	Saturation:	0.224717
+	Value:		0.120901
+dark turquoise:
+	Hue:		0.101602
+	Saturation:	0.326281
+	Value:		0.383662
+deep lavender:
+	Hue:		0.124624
+	Saturation:	0.386332
+	Value:		0.266752
+bright lilac:
+	Hue:		0.109411
+	Saturation:	0.335080
+	Value:		0.180450
+sandstone:
+	Hue:		0.126003
+	Saturation:	0.450250
+	Value:		0.289815
+pine:
+	Hue:		0.211709
+	Saturation:	0.600702
+	Value:		0.414361
+merlot:
+	Hue:		0.097330
+	Saturation:	0.216053
+	Value:		0.377865
+soft blue:
+	Hue:		0.107948
+	Saturation:	0.311385
+	Value:		0.323182
+dull green:
+	Hue:		0.215315
+	Saturation:	0.393809
+	Value:		0.329624
+night blue:
+	Hue:		0.373309
+	Saturation:	0.297630
+	Value:		0.874668
+yellowish:
+	Hue:		0.080027
+	Saturation:	0.589275
+	Value:		0.140250
+teal green:
+	Hue:		0.076216
+	Saturation:	0.388559
+	Value:		0.303921
+bubblegum pink:
+	Hue:		0.127770
+	Saturation:	0.416326
+	Value:		0.100197
+pale purple:
+	Hue:		0.158675
+	Saturation:	0.430903
+	Value:		0.315940
+lipstick red:
+	Hue:		0.094795
+	Saturation:	0.199467
+	Value:		0.378969
+seafoam green:
+	Hue:		0.092820
+	Saturation:	0.696626
+	Value:		0.184564
+hunter green:
+	Hue:		0.207393
+	Saturation:	0.442170
+	Value:		0.334303
+blood:
+	Hue:		0.142048
+	Saturation:	0.170122
+	Value:		0.384993
+light pea green:
+	Hue:		0.131658
+	Saturation:	0.303628
+	Value:		0.169935
+pale lime:
+	Hue:		0.095674
+	Saturation:	0.384283
+	Value:		0.170258
+kiwi green:
+	Hue:		0.082216
+	Saturation:	0.467892
+	Value:		0.213772
+faded green:
+	Hue:		0.204078
+	Saturation:	0.372089
+	Value:		0.402911
+very dark green:
+	Hue:		0.244976
+	Saturation:	0.365661
+	Value:		0.205119
+tomato:
+	Hue:		0.040605
+	Saturation:	0.215100
+	Value:		0.191273
+weird green:
+	Hue:		0.249309
+	Saturation:	0.207757
+	Value:		0.125841
+heliotrope:
+	Hue:		0.103696
+	Saturation:	0.614258
+	Value:		0.235651
+light aquamarine:
+	Hue:		0.103828
+	Saturation:	0.702737
+	Value:		0.170133
+poop brown:
+	Hue:		0.068108
+	Saturation:	0.284373
+	Value:		0.344709
+bright light blue:
+	Hue:		0.079981
+	Saturation:	0.248594
+	Value:		0.115708
+chocolate brown:
+	Hue:		0.070714
+	Saturation:	0.349140
+	Value:		0.346816
+mango:
+	Hue:		0.123518
+	Saturation:	0.298588
+	Value:		0.113508
+green:
+	Hue:		0.185677
+	Saturation:	0.348363
+	Value:		0.330928
+bright turquoise:
+	Hue:		0.081282
+	Saturation:	0.151628
+	Value:		0.112227
+red violet:
+	Hue:		0.141211
+	Saturation:	0.285472
+	Value:		0.381956
+easter purple:
+	Hue:		0.144312
+	Saturation:	0.423620
+	Value:		0.232780
+flourescent green:
+	Hue:		0.103697
+	Saturation:	0.189573
+	Value:		0.105868
+rich blue:
+	Hue:		0.140166
+	Saturation:	0.104572
+	Value:		0.379920
+khaki green:
+	Hue:		0.106107
+	Saturation:	0.526368
+	Value:		0.421751
+cadet blue:
+	Hue:		0.112357
+	Saturation:	0.539183
+	Value:		0.291017
+battleship grey:
+	Hue:		0.438397
+	Saturation:	0.320554
+	Value:		0.364583
+poop green:
+	Hue:		0.064776
+	Saturation:	0.316029
+	Value:		0.470353
+irish green:
+	Hue:		0.137170
+	Saturation:	0.271236
+	Value:		0.293488
+dark olive:
+	Hue:		0.118097
+	Saturation:	0.399638
+	Value:		0.369892
+midnight:
+	Hue:		0.187149
+	Saturation:	0.340899
+	Value:		0.413021
+indigo blue:
+	Hue:		0.194178
+	Saturation:	0.398662
+	Value:		0.269639
+canary:
+	Hue:		0.056235
+	Saturation:	0.657247
+	Value:		0.081762
+auburn:
+	Hue:		0.072627
+	Saturation:	0.219675
+	Value:		0.416986
+grey-brown:
+	Hue:		0.089387
+	Saturation:	0.327700
+	Value:		0.369371
+orange-red:
+	Hue:		0.038436
+	Saturation:	0.284981
+	Value:		0.204527
+cyan:
+	Hue:		0.072524
+	Saturation:	0.450363
+	Value:		0.130340
+denim:
+	Hue:		0.094033
+	Saturation:	0.466488
+	Value:		0.391174
+pink-purple:
+	Hue:		0.114595
+	Saturation:	0.363203
+	Value:		0.203515
+bright lime:
+	Hue:		0.121394
+	Saturation:	0.190997
+	Value:		0.128948
+saffron:
+	Hue:		0.080187
+	Saturation:	0.160004
+	Value:		0.148831
+avocado:
+	Hue:		0.077850
+	Saturation:	0.597945
+	Value:		0.319932
+off white:
+	Hue:		0.115780
+	Saturation:	0.227689
+	Value:		0.101347
+darkish red:
+	Hue:		0.087121
+	Saturation:	0.113879
+	Value:		0.184486
+light sky blue:
+	Hue:		0.094632
+	Saturation:	0.429906
+	Value:		0.126541
+lighter green:
+	Hue:		0.173122
+	Saturation:	0.273923
+	Value:		0.215055
+orange:
+	Hue:		0.072749
+	Saturation:	0.258523
+	Value:		0.150088
+burnt sienna:
+	Hue:		0.068000
+	Saturation:	0.307863
+	Value:		0.320382
+forest:
+	Hue:		0.198340
+	Saturation:	0.347274
+	Value:		0.407850
+cornflower:
+	Hue:		0.136726
+	Saturation:	0.464304
+	Value:		0.260453
+coffee:
+	Hue:		0.087664
+	Saturation:	0.593025
+	Value:		0.404123
+neon green:
+	Hue:		0.123619
+	Saturation:	0.193717
+	Value:		0.106449
+dark magenta:
+	Hue:		0.098880
+	Saturation:	0.302301
+	Value:		0.340837
+violet pink:
+	Hue:		0.124035
+	Saturation:	0.512656
+	Value:		0.242446
+slate:
+	Hue:		0.165660
+	Saturation:	0.338822
+	Value:		0.465406
+emerald green:
+	Hue:		0.139365
+	Saturation:	0.250116
+	Value:		0.411959
+blue-grey:
+	Hue:		0.158843
+	Saturation:	0.347406
+	Value:		0.422119
+faded red:
+	Hue:		0.056731
+	Saturation:	0.342020
+	Value:		0.296901
+vomit:
+	Hue:		0.085583
+	Saturation:	0.430432
+	Value:		0.318753
+lightish blue:
+	Hue:		0.113990
+	Saturation:	0.450311
+	Value:		0.212035
+celery green:
+	Hue:		0.217305
+	Saturation:	0.631228
+	Value:		0.171639
+faded orange:
+	Hue:		0.062701
+	Saturation:	0.376238
+	Value:		0.196326
+pumpkin orange:
+	Hue:		0.055904
+	Saturation:	0.174581
+	Value:		0.218965
+pinkish:
+	Hue:		0.156515
+	Saturation:	0.536488
+	Value:		0.239015
+twilight:
+	Hue:		0.175473
+	Saturation:	0.545735
+	Value:		0.586629
+silver:
+	Hue:		0.556311
+	Saturation:	0.194165
+	Value:		0.326861
+dusty teal:
+	Hue:		0.130455
+	Saturation:	0.419235
+	Value:		0.408749
+vomit yellow:
+	Hue:		0.083530
+	Saturation:	0.279323
+	Value:		0.267466
+dark navy blue:
+	Hue:		0.153918
+	Saturation:	0.417981
+	Value:		0.324339
+goldenrod:
+	Hue:		0.051129
+	Saturation:	0.254515
+	Value:		0.216120
+ruby:
+	Hue:		0.079280
+	Saturation:	0.089750
+	Value:		0.477030
+jade green:
+	Hue:		0.204773
+	Saturation:	0.373422
+	Value:		0.357132
+dirty green:
+	Hue:		0.096007
+	Saturation:	0.648036
+	Value:		0.351666
+off green:
+	Hue:		0.283375
+	Saturation:	0.432250
+	Value:		0.376677
+pale olive green:
+	Hue:		0.144521
+	Saturation:	0.516422
+	Value:		0.338019
+dark violet:
+	Hue:		0.139861
+	Saturation:	0.347563
+	Value:		0.395875
+reddy brown:
+	Hue:		0.039023
+	Saturation:	0.430439
+	Value:		0.540293
+ecru:
+	Hue:		0.095157
+	Saturation:	0.392263
+	Value:		0.204065
+soft pink:
+	Hue:		0.149976
+	Saturation:	0.413114
+	Value:		0.136484
+scarlet:
+	Hue:		0.066345
+	Saturation:	0.175637
+	Value:		0.364238
+milk chocolate:
+	Hue:		0.086512
+	Saturation:	0.498522
+	Value:		0.353270
+pale yellow-green:
+	Hue:		0.096282
+	Saturation:	0.684140
+	Value:		0.167722
+rose red:
+	Hue:		0.998484
+	Saturation:	0.189388
+	Value:		0.314924
+pure blue:
+	Hue:		0.078448
+	Saturation:	0.077155
+	Value:		0.247729
+dark royal blue:
+	Hue:		0.131165
+	Saturation:	0.195579
+	Value:		0.598977
+greyish pink:
+	Hue:		0.169056
+	Saturation:	0.362498
+	Value:		0.203040
+magneta:
+	Hue:		0.144361
+	Saturation:	0.253796
+	Value:		0.237245
+lilac:
+	Hue:		0.151369
+	Saturation:	0.422514
+	Value:		0.245437
+robin's egg blue:
+	Hue:		0.098167
+	Saturation:	0.724735
+	Value:		0.171349
+mahogany:
+	Hue:		0.051966
+	Saturation:	0.269408
+	Value:		0.429603
+pea soup green:
+	Hue:		0.078277
+	Saturation:	0.296785
+	Value:		0.332411
+steel blue:
+	Hue:		0.105150
+	Saturation:	0.466260
+	Value:		0.355777
+light olive green:
+	Hue:		0.082939
+	Saturation:	0.504268
+	Value:		0.277704
+grey blue:
+	Hue:		0.139092
+	Saturation:	0.383195
+	Value:		0.386283
+deep green:
+	Hue:		0.156411
+	Saturation:	0.245061
+	Value:		0.360712
+dusky rose:
+	Hue:		0.104204
+	Saturation:	0.334443
+	Value:		0.262285
+navy:
+	Hue:		0.137900
+	Saturation:	0.370680
+	Value:		0.338079
+pea:
+	Hue:		0.074147
+	Saturation:	0.474023
+	Value:		0.401567
+sandy:
+	Hue:		0.090056
+	Saturation:	0.260522
+	Value:		0.231877
+velvet:
+	Hue:		0.365939
+	Saturation:	0.367108
+	Value:		0.390682
+lipstick:
+	Hue:		0.077875
+	Saturation:	0.195342
+	Value:		0.287984
+greyish teal:
+	Hue:		0.196939
+	Saturation:	0.466782
+	Value:		0.485401
+dark red:
+	Hue:		0.063520
+	Saturation:	0.220217
+	Value:		0.338994
+pastel green:
+	Hue:		0.191984
+	Saturation:	0.411365
+	Value:		0.152948
+brick red:
+	Hue:		0.024837
+	Saturation:	0.292391
+	Value:		0.337742
+carolina blue:
+	Hue:		0.126385
+	Saturation:	0.483858
+	Value:		0.185204
+amethyst:
+	Hue:		0.134505
+	Saturation:	0.538331
+	Value:		0.526862
+dirty yellow:
+	Hue:		0.059354
+	Saturation:	0.299849
+	Value:		0.239401
+dark plum:
+	Hue:		0.995368
+	Saturation:	0.595601
+	Value:		0.280385
+caucasian:
+	Hue:		0.084565
+	Saturation:	0.403372
+	Value:		0.145987
+red:
+	Hue:		0.058809
+	Saturation:	0.175262
+	Value:		0.317968
+bright pink:
+	Hue:		0.115895
+	Saturation:	0.294229
+	Value:		0.106105
+brownish red:
+	Hue:		0.036302
+	Saturation:	0.444555
+	Value:		0.348137
+baby green:
+	Hue:		0.137104
+	Saturation:	0.652207
+	Value:		0.125273
+light magenta:
+	Hue:		0.136333
+	Saturation:	0.344130
+	Value:		0.224280
+fuschia:
+	Hue:		0.121476
+	Saturation:	0.305868
+	Value:		0.272600
+royal blue:
+	Hue:		0.098190
+	Saturation:	0.185893
+	Value:		0.225478
+putty:
+	Hue:		0.222552
+	Saturation:	0.356884
+	Value:		0.386518
+sky blue:
+	Hue:		0.104274
+	Saturation:	0.328852
+	Value:		0.149774
+deep lilac:
+	Hue:		0.996150
+	Saturation:	0.848463
+	Value:		0.461101
+marine:
+	Hue:		0.175435
+	Saturation:	0.398401
+	Value:		0.566883
+dark periwinkle:
+	Hue:		0.097464
+	Saturation:	0.469396
+	Value:		0.281678
+cornflower blue:
+	Hue:		0.116413
+	Saturation:	0.505357
+	Value:		0.294453
+gunmetal:
+	Hue:		0.344834
+	Saturation:	0.323443
+	Value:		0.335425
+puke green:
+	Hue:		0.075810
+	Saturation:	0.371909
+	Value:		0.367617
+yellow-orange:
+	Hue:		0.047708
+	Saturation:	0.287081
+	Value:		0.115578
+camo green:
+	Hue:		0.091325
+	Saturation:	0.622310
+	Value:		0.304014
+pale cyan:
+	Hue:		0.137482
+	Saturation:	0.517218
+	Value:		0.137780
+midnight purple:
+	Hue:		0.113457
+	Saturation:	0.295904
+	Value:		0.366260
+dark gold:
+	Hue:		0.058748
+	Saturation:	0.260959
+	Value:		0.354244
+grey pink:
+	Hue:		0.144110
+	Saturation:	0.345455
+	Value:		0.229446
+twilight blue:
+	Hue:		0.198519
+	Saturation:	0.373522
+	Value:		0.624211
+muted purple:
+	Hue:		0.199874
+	Saturation:	0.533437
+	Value:		0.284878
+blush:
+	Hue:		0.114840
+	Saturation:	0.429689
+	Value:		0.241895
+darkish blue:
+	Hue:		0.125963
+	Saturation:	0.319728
+	Value:		0.326394
+slate grey:
+	Hue:		0.156024
+	Saturation:	0.290349
+	Value:		0.462458
+dusty orange:
+	Hue:		0.084148
+	Saturation:	0.310109
+	Value:		0.252591
+copper:
+	Hue:		0.108388
+	Saturation:	0.378424
+	Value:		0.369309
+puce:
+	Hue:		0.205996
+	Saturation:	0.328057
+	Value:		0.379693
+dark pink:
+	Hue:		0.997374
+	Saturation:	0.363568
+	Value:		0.298823
+dark coral:
+	Hue:		0.087047
+	Saturation:	0.357390
+	Value:		0.289922
+pale teal:
+	Hue:		0.104066
+	Saturation:	0.415677
+	Value:		0.268457
+pinkish brown:
+	Hue:		0.059991
+	Saturation:	0.407330
+	Value:		0.359956
+red-brown:
+	Hue:		0.048424
+	Saturation:	0.346275
+	Value:		0.331675
+fern:
+	Hue:		0.154287
+	Saturation:	0.650588
+	Value:		0.386177
+reddish pink:
+	Hue:		0.066547
+	Saturation:	0.287149
+	Value:		0.241161
+aqua green:
+	Hue:		0.077022
+	Saturation:	0.325578
+	Value:		0.262416
+pale sky blue:
+	Hue:		0.182137
+	Saturation:	0.351532
+	Value:		0.143656
+pinkish grey:
+	Hue:		0.227471
+	Saturation:	0.283609
+	Value:		0.301832
+lavender blue:
+	Hue:		0.090639
+	Saturation:	0.558726
+	Value:		0.251407
+terracotta:
+	Hue:		0.066696
+	Saturation:	0.450154
+	Value:		0.268840
+dusk blue:
+	Hue:		0.123059
+	Saturation:	0.193815
+	Value:		0.558836
+dark blue:
+	Hue:		0.137987
+	Saturation:	0.258114
+	Value:		0.390372
+cool blue:
+	Hue:		0.115727
+	Saturation:	0.407909
+	Value:		0.309592
+muted pink:
+	Hue:		0.102861
+	Saturation:	0.427709
+	Value:		0.235950
+drab green:
+	Hue:		0.134387
+	Saturation:	0.465811
+	Value:		0.362713
+white:
+	Hue:		0.194492
+	Saturation:	0.146739
+	Value:		0.068010
+light peach:
+	Hue:		0.076590
+	Saturation:	0.423756
+	Value:		0.101567
+banana:
+	Hue:		0.055531
+	Saturation:	0.578350
+	Value:		0.112283
+snot green:
+	Hue:		0.086310
+	Saturation:	0.159603
+	Value:		0.352798
+kiwi:
+	Hue:		0.131604
+	Saturation:	0.314591
+	Value:		0.167261
+brown yellow:
+	Hue:		0.052832
+	Saturation:	0.207947
+	Value:		0.361062
+light mauve:
+	Hue:		0.226607
+	Saturation:	0.325074
+	Value:		0.326963
+muted blue:
+	Hue:		0.133256
+	Saturation:	0.492001
+	Value:		0.330153
+light lavender:
+	Hue:		0.151294
+	Saturation:	0.296304
+	Value:		0.161940
+brownish grey:
+	Hue:		0.107229
+	Saturation:	0.358489
+	Value:		0.386942
+off yellow:
+	Hue:		0.062247
+	Saturation:	0.339751
+	Value:		0.201566
+pinkish purple:
+	Hue:		0.107444
+	Saturation:	0.398631
+	Value:		0.295277
+light mint:
+	Hue:		0.239423
+	Saturation:	0.373307
+	Value:		0.099620
+light sage:
+	Hue:		0.150547
+	Saturation:	0.337962
+	Value:		0.292305
+deep orange:
+	Hue:		0.044945
+	Saturation:	0.142886
+	Value:		0.255310
+greeny brown:
+	Hue:		0.048354
+	Saturation:	0.398483
+	Value:		0.402627
+royal:
+	Hue:		0.192827
+	Saturation:	0.247622
+	Value:		0.253845
+steel:
+	Hue:		0.196238
+	Saturation:	0.323106
+	Value:		0.333570
+off blue:
+	Hue:		0.183538
+	Saturation:	0.657668
+	Value:		0.241096
+electric blue:
+	Hue:		0.196402
+	Saturation:	0.195582
+	Value:		0.123002
+ugly green:
+	Hue:		0.082592
+	Saturation:	0.255609
+	Value:		0.417312
+medium blue:
+	Hue:		0.098649
+	Saturation:	0.344633
+	Value:		0.335526
+forest green:
+	Hue:		0.208225
+	Saturation:	0.430161
+	Value:		0.349354
+celadon:
+	Hue:		0.234828
+	Saturation:	0.391272
+	Value:		0.158169
+purple-pink:
+	Hue:		0.111755
+	Saturation:	0.312185
+	Value:		0.308682
+light green:
+	Hue:		0.204865
+	Saturation:	0.597578
+	Value:		0.184831
+pea green:
+	Hue:		0.086074
+	Saturation:	0.478102
+	Value:		0.390329
+rusty red:
+	Hue:		0.044189
+	Saturation:	0.288941
+	Value:		0.259105
+true blue:
+	Hue:		0.107693
+	Saturation:	0.185617
+	Value:		0.314323
+cherry red:
+	Hue:		0.072772
+	Saturation:	0.090052
+	Value:		0.302630
+pale gold:
+	Hue:		0.068454
+	Saturation:	0.366614
+	Value:		0.202949
+fire engine red:
+	Hue:		0.044293
+	Saturation:	0.114445
+	Value:		0.162168
+bright teal:
+	Hue:		0.098941
+	Saturation:	0.295904
+	Value:		0.154984
+barf:
+	Hue:		0.079934
+	Saturation:	0.120603
+	Value:		0.331095
+dark aqua:
+	Hue:		0.104267
+	Saturation:	0.236948
+	Value:		0.482948
+tea green:
+	Hue:		0.164801
+	Saturation:	0.417825
+	Value:		0.280671
+raw umber:
+	Hue:		0.091802
+	Saturation:	0.371467
+	Value:		0.441220
+baby puke green:
+	Hue:		0.085373
+	Saturation:	0.404865
+	Value:		0.165565
+mint:
+	Hue:		0.114122
+	Saturation:	0.577859
+	Value:		0.166218
+biege:
+	Hue:		0.104766
+	Saturation:	0.459723
+	Value:		0.154483
+baby poop green:
+	Hue:		0.098557
+	Saturation:	0.420645
+	Value:		0.416228
+lawn green:
+	Hue:		0.179893
+	Saturation:	0.372681
+	Value:		0.353090
+pastel blue:
+	Hue:		0.148966
+	Saturation:	0.483806
+	Value:		0.185887
+neon red:
+	Hue:		0.090654
+	Saturation:	0.176652
+	Value:		0.092173
+turtle green:
+	Hue:		0.237578
+	Saturation:	0.420031
+	Value:		0.362738
+green-grey:
+	Hue:		0.259284
+	Saturation:	0.306614
+	Value:		0.418026
+snot:
+	Hue:		0.080060
+	Saturation:	0.344913
+	Value:		0.356657
+barney purple:
+	Hue:		0.133586
+	Saturation:	0.277120
+	Value:		0.455275
+viridian:
+	Hue:		0.191339
+	Saturation:	0.189321
+	Value:		0.363964
+robin's egg:
+	Hue:		0.116806
+	Saturation:	0.485554
+	Value:		0.170932
+buff:
+	Hue:		0.082241
+	Saturation:	0.474541
+	Value:		0.227705
+dark seafoam green:
+	Hue:		0.112910
+	Saturation:	0.286200
+	Value:		0.298536
+dull blue:
+	Hue:		0.093863
+	Saturation:	0.530998
+	Value:		0.363738
+hazel:
+	Hue:		0.146806
+	Saturation:	0.161900
+	Value:		0.381112
+salmon:
+	Hue:		0.036240
+	Saturation:	0.340596
+	Value:		0.142988
+periwinkle blue:
+	Hue:		0.121739
+	Saturation:	0.439199
+	Value:		0.199884
+pale blue-green:
+	Hue:		0.098482
+	Saturation:	0.571458
+	Value:		0.159993
+pale brown:
+	Hue:		0.087637
+	Saturation:	0.348564
+	Value:		0.315832
+dark grey:
+	Hue:		0.567290
+	Saturation:	0.292125
+	Value:		0.304707
+greyish:
+	Hue:		0.277011
+	Saturation:	0.278685
+	Value:		0.608272
+warm blue:
+	Hue:		0.394293
+	Saturation:	0.271296
+	Value:		0.492753
+raw sienna:
+	Hue:		0.128064
+	Saturation:	0.394596
+	Value:		0.277120
+hot purple:
+	Hue:		0.078634
+	Saturation:	0.248162
+	Value:		0.257157
+red-pink:
+	Hue:		0.062788
+	Saturation:	0.294174
+	Value:		0.197355
+bright sea green:
+	Hue:		0.219905
+	Saturation:	0.171237
+	Value:		0.087275
+light gold:
+	Hue:		0.153323
+	Saturation:	0.255352
+	Value:		0.139811
+dark mustard:
+	Hue:		0.072571
+	Saturation:	0.208929
+	Value:		0.248145
+pale orange:
+	Hue:		0.070458
+	Saturation:	0.276593
+	Value:		0.131022
+light lime green:
+	Hue:		0.105218
+	Saturation:	0.368683
+	Value:		0.131415
+purpley pink:
+	Hue:		0.109355
+	Saturation:	0.248647
+	Value:		0.300712
+reddish purple:
+	Hue:		0.096563
+	Saturation:	0.320790
+	Value:		0.361351
+wine:
+	Hue:		0.082651
+	Saturation:	0.380207
+	Value:		0.396592
+dusty pink:
+	Hue:		0.132349
+	Saturation:	0.369406
+	Value:		0.257547
+vibrant blue:
+	Hue:		0.146758
+	Saturation:	0.174140
+	Value:		0.203521
+gold:
+	Hue:		0.050235
+	Saturation:	0.297883
+	Value:		0.252200
+bluey green:
+	Hue:		0.099355
+	Saturation:	0.412213
+	Value:		0.421224
+flesh pink:
+	Hue:		0.086784
+	Saturation:	0.295077
+	Value:		0.136776
+tiffany blue:
+	Hue:		0.090156
+	Saturation:	0.376372
+	Value:		0.172210
+sage:
+	Hue:		0.155754
+	Saturation:	0.374568
+	Value:		0.329610
+royal purple:
+	Hue:		0.103192
+	Saturation:	0.307400
+	Value:		0.449458
+pea soup:
+	Hue:		0.088112
+	Saturation:	0.419299
+	Value:		0.332028
+puke yellow:
+	Hue:		0.060125
+	Saturation:	0.238870
+	Value:		0.231547
+seaweed:
+	Hue:		0.151425
+	Saturation:	0.595709
+	Value:		0.281330
+rouge:
+	Hue:		0.096369
+	Saturation:	0.360090
+	Value:		0.367067
+purple grey:
+	Hue:		0.237879
+	Saturation:	0.241220
+	Value:		0.335504
+dirty blue:
+	Hue:		0.130980
+	Saturation:	0.606693
+	Value:		0.339225
+deep red:
+	Hue:		0.064222
+	Saturation:	0.154678
+	Value:		0.265450
+bright purple:
+	Hue:		0.093644
+	Saturation:	0.300173
+	Value:		0.240466
+violet red:
+	Hue:		0.112232
+	Saturation:	0.224391
+	Value:		0.455935
+key lime:
+	Hue:		0.138293
+	Saturation:	0.206631
+	Value:		0.133431
+greenish turquoise:
+	Hue:		0.087936
+	Saturation:	0.378821
+	Value:		0.283501
+very light blue:
+	Hue:		0.109918
+	Saturation:	0.220725
+	Value:		0.095523
+greenish blue:
+	Hue:		0.111209
+	Saturation:	0.382752
+	Value:		0.434193
+bluish grey:
+	Hue:		0.156098
+	Saturation:	0.335603
+	Value:		0.420609
+purplish pink:
+	Hue:		0.102104
+	Saturation:	0.307634
+	Value:		0.223568
+muddy green:
+	Hue:		0.094860
+	Saturation:	0.636924
+	Value:		0.392082
+black:
+	Hue:		0.568805
+	Saturation:	0.511012
+	Value:		0.172910
+cerise:
+	Hue:		0.079517
+	Saturation:	0.264575
+	Value:		0.212916
+indian red:
+	Hue:		0.052146
+	Saturation:	0.459713
+	Value:		0.383833
+denim blue:
+	Hue:		0.110273
+	Saturation:	0.462582
+	Value:		0.361595
+darker purple:
+	Hue:		0.157884
+	Saturation:	0.344744
+	Value:		0.466569
+pumpkin:
+	Hue:		0.062288
+	Saturation:	0.197079
+	Value:		0.241723
+pale lavender:
+	Hue:		0.166811
+	Saturation:	0.242850
+	Value:		0.182066
+magenta:
+	Hue:		0.130337
+	Saturation:	0.286165
+	Value:		0.302015
+dark blue-grey:
+	Hue:		0.121434
+	Saturation:	0.480500
+	Value:		0.324652
+dandelion:
+	Hue:		0.094235
+	Saturation:	0.261876
+	Value:		0.130848
+pastel orange:
+	Hue:		0.068699
+	Saturation:	0.301609
+	Value:		0.112982
+kermit green:
+	Hue:		0.084694
+	Saturation:	0.235670
+	Value:		0.359960
+foam green:
+	Hue:		0.111608
+	Saturation:	0.621586
+	Value:		0.250124
+electric pink:
+	Hue:		0.088833
+	Saturation:	0.169520
+	Value:		0.115914
+watermelon:
+	Hue:		0.063383
+	Saturation:	0.407751
+	Value:		0.119212
+light grass green:
+	Hue:		0.144257
+	Saturation:	0.551218
+	Value:		0.230922
+purplish red:
+	Hue:		0.080343
+	Saturation:	0.224878
+	Value:		0.383745
+brownish green:
+	Hue:		0.081327
+	Saturation:	0.398803
+	Value:		0.377752
+skin tone:
+	Hue:		0.097851
+	Saturation:	0.311160
+	Value:		0.125389
+ugly purple:
+	Hue:		0.268610
+	Saturation:	0.741595
+	Value:		0.314979
+leather:
+	Hue:		0.102624
+	Saturation:	0.575306
+	Value:		0.463414
+red-purple:
+	Hue:		0.105697
+	Saturation:	0.321640
+	Value:		0.386943
+dark sage:
+	Hue:		0.430730
+	Saturation:	0.513920
+	Value:		0.201717
+topaz:
+	Hue:		0.377694
+	Saturation:	0.477152
+	Value:		0.164575
+caramel:
+	Hue:		0.044517
+	Saturation:	0.230288
+	Value:		0.231959
+dirty pink:
+	Hue:		0.116952
+	Saturation:	0.363644
+	Value:		0.224485
+electric lime:
+	Hue:		0.237869
+	Saturation:	0.189694
+	Value:		0.122515
+deep pink:
+	Hue:		0.082107
+	Saturation:	0.314495
+	Value:		0.294602
+golden yellow:
+	Hue:		0.049851
+	Saturation:	0.264130
+	Value:		0.136759
+yellowish green:
+	Hue:		0.083832
+	Saturation:	0.337682
+	Value:		0.240561
+bright magenta:
+	Hue:		0.094412
+	Saturation:	0.195408
+	Value:		0.170654
+dark sky blue:
+	Hue:		0.096546
+	Saturation:	0.491953
+	Value:		0.274666
+jade:
+	Hue:		0.073820
+	Saturation:	0.414867
+	Value:		0.420508
+avocado green:
+	Hue:		0.115446
+	Saturation:	0.406067
+	Value:		0.381488
+muddy yellow:
+	Hue:		0.082780
+	Saturation:	0.314680
+	Value:		0.295265
+orange-yellow:
+	Hue:		0.046890
+	Saturation:	0.281432
+	Value:		0.119630
+grey:
+	Hue:		0.612121
+	Saturation:	0.224991
+	Value:		0.473740
+bright yellow:
+	Hue:		0.039551
+	Saturation:	0.206704
+	Value:		0.083270
+puke brown:
+	Hue:		0.060204
+	Saturation:	0.218903
+	Value:		0.396889
+sea:
+	Hue:		0.200687
+	Saturation:	0.305962
+	Value:		0.263856
+violet:
+	Hue:		0.142340
+	Saturation:	0.531485
+	Value:		0.430348
+bright cyan:
+	Hue:		0.076927
+	Saturation:	0.410012
+	Value:		0.133457
+very dark purple:
+	Hue:		0.199973
+	Saturation:	0.494529
+	Value:		0.224419
+peachy pink:
+	Hue:		0.044079
+	Saturation:	0.413990
+	Value:		0.161362
+light maroon:
+	Hue:		0.101635
+	Saturation:	0.469483
+	Value:		0.318815
+pale yellow:
+	Hue:		0.056720
+	Saturation:	0.347838
+	Value:		0.088524
+light purple:
+	Hue:		0.139387
+	Saturation:	0.514003
+	Value:		0.262082
+duck egg blue:
+	Hue:		0.175351
+	Saturation:	0.503973
+	Value:		0.213393
+light rose:
+	Hue:		0.144237
+	Saturation:	0.279063
+	Value:		0.147869
+baby shit green:
+	Hue:		0.114113
+	Saturation:	0.183008
+	Value:		0.410673
+cobalt blue:
+	Hue:		0.143895
+	Saturation:	0.231795
+	Value:		0.503929
+mud:
+	Hue:		0.111385
+	Saturation:	0.636172
+	Value:		0.403385
+frog green:
+	Hue:		0.148139
+	Saturation:	0.211302
+	Value:		0.271369
+horrible:
+	Hue:		0.311191
+	Saturation:	0.202424
+	Value:		0.372971
+vivid green:
+	Hue:		0.089354
+	Saturation:	0.221546
+	Value:		0.067937
+faded blue:
+	Hue:		0.130039
+	Saturation:	0.477905
+	Value:		0.278473
+sickly green:
+	Hue:		0.089267
+	Saturation:	0.343054
+	Value:		0.341313
+plum purple:
+	Hue:		0.204483
+	Saturation:	0.336431
+	Value:		0.418061
+sandy yellow:
+	Hue:		0.065280
+	Saturation:	0.386386
+	Value:		0.205633
+very pale green:
+	Hue:		0.224613
+	Saturation:	0.389830
+	Value:		0.146812
+yellowish brown:
+	Hue:		0.055188
+	Saturation:	0.264232
+	Value:		0.383048
+light blue grey:
+	Hue:		0.236744
+	Saturation:	0.301020
+	Value:		0.275676
+bright orange:
+	Hue:		0.062669
+	Saturation:	0.150976
+	Value:		0.086734
+shit brown:
+	Hue:		0.085865
+	Saturation:	0.270586
+	Value:		0.394086
+grey purple:
+	Hue:		0.233971
+	Saturation:	0.273688
+	Value:		0.382366
+cerulean:
+	Hue:		0.114350
+	Saturation:	0.287517
+	Value:		0.324405
+yellow-green:
+	Hue:		0.068048
+	Saturation:	0.377665
+	Value:		0.200662
+slate green:
+	Hue:		0.197131
+	Saturation:	0.346683
+	Value:		0.402317
+dark taupe:
+	Hue:		0.140724
+	Saturation:	0.543572
+	Value:		0.390904
+umber:
+	Hue:		0.112899
+	Saturation:	0.253677
+	Value:		0.376706
+greenish tan:
+	Hue:		0.092233
+	Saturation:	0.487547
+	Value:		0.281075
+bronze:
+	Hue:		0.056502
+	Saturation:	0.230504
+	Value:		0.368974
+darker blue:
+	Hue:		0.118997
+	Saturation:	0.281282
+	Value:		0.447429
+very light green:
+	Hue:		0.123602
+	Saturation:	0.302940
+	Value:		0.104806
+vivid purple:
+	Hue:		0.113092
+	Saturation:	0.159797
+	Value:		0.241750
+burnt yellow:
+	Hue:		0.060224
+	Saturation:	0.201640
+	Value:		0.307927
+dark lime:
+	Hue:		0.105664
+	Saturation:	0.229077
+	Value:		0.280765
+violet blue:
+	Hue:		0.068186
+	Saturation:	0.380814
+	Value:		0.324623
+dusty purple:
+	Hue:		0.999042
+	Saturation:	0.395903
+	Value:		0.354816
+hot pink:
+	Hue:		0.105420
+	Saturation:	0.260584
+	Value:		0.118542
+aqua:
+	Hue:		0.094339
+	Saturation:	0.433636
+	Value:		0.205434
+canary yellow:
+	Hue:		0.054713
+	Saturation:	0.223055
+	Value:		0.082939
+pale olive:
+	Hue:		0.099654
+	Saturation:	0.359565
+	Value:		0.279081
+warm pink:
+	Hue:		0.108640
+	Saturation:	0.428711
+	Value:		0.185917
+berry:
+	Hue:		0.071357
+	Saturation:	0.269350
+	Value:		0.319968
+eggplant:
+	Hue:		0.176969
+	Saturation:	0.373461
+	Value:		0.340837
+rose:
+	Hue:		0.089566
+	Saturation:	0.491853
+	Value:		0.276683
+medium pink:
+	Hue:		0.119267
+	Saturation:	0.318478
+	Value:		0.168027
+lightish purple:
+	Hue:		0.127897
+	Saturation:	0.335517
+	Value:		0.246064
+dusky blue:
+	Hue:		0.106374
+	Saturation:	0.386886
+	Value:		0.340143
+neon blue:
+	Hue:		0.074271
+	Saturation:	0.204044
+	Value:		0.120592
+butter yellow:
+	Hue:		0.053832
+	Saturation:	0.386920
+	Value:		0.096927
+pale grey:
+	Hue:		0.509872
+	Saturation:	0.418353
+	Value:		0.178624
+lighter blue:
+	Hue:		0.134414
+	Saturation:	0.249052
+	Value:		0.202423
+pastel purple:
+	Hue:		0.120468
+	Saturation:	0.382664
+	Value:		0.230733
+pale rose:
+	Hue:		0.133936
+	Saturation:	0.375809
+	Value:		0.202044
+steel grey:
+	Hue:		0.222373
+	Saturation:	0.294651
+	Value:		0.382425
+pinky red:
+	Hue:		0.057272
+	Saturation:	0.347517
+	Value:		0.248390
+baby pink:
+	Hue:		0.149198
+	Saturation:	0.301571
+	Value:		0.095370
+dull purple:
+	Hue:		0.206485
+	Saturation:	0.365833
+	Value:		0.349177
+brownish yellow:
+	Hue:		0.064477
+	Saturation:	0.265926
+	Value:		0.250279
+wine red:
+	Hue:		0.069099
+	Saturation:	0.230792
+	Value:		0.414363
+wisteria:
+	Hue:		0.189643
+	Saturation:	0.612573
+	Value:		0.318641
+flesh tone:
+	Hue:		0.066482
+	Saturation:	0.466678
+	Value:		0.174843
+light lime:
+	Hue:		0.096089
+	Saturation:	0.474786
+	Value:		0.122291
+orange-brown:
+	Hue:		0.068834
+	Saturation:	0.308200
+	Value:		0.231689
+rust red:
+	Hue:		0.049392
+	Saturation:	0.266445
+	Value:		0.290280
+light navy:
+	Hue:		0.102972
+	Saturation:	0.398108
+	Value:		0.289801
+deep rose:
+	Hue:		0.999384
+	Saturation:	0.563480
+	Value:		0.345056
+dark teal:
+	Hue:		0.106090
+	Saturation:	0.526690
+	Value:		0.356510
+pale lime green:
+	Hue:		0.116144
+	Saturation:	0.324845
+	Value:		0.146042
+grapefruit:
+	Hue:		0.108513
+	Saturation:	0.377594
+	Value:		0.178386
+faded pink:
+	Hue:		0.141350
+	Saturation:	0.390928
+	Value:		0.199455
+brick:
+	Hue:		0.052508
+	Saturation:	0.361316
+	Value:		0.359989
+greenish yellow:
+	Hue:		0.056589
+	Saturation:	0.336246
+	Value:		0.193143
+kahki:
+	Hue:		0.089504
+	Saturation:	0.637725
+	Value:		0.424289
+murky green:
+	Hue:		0.107935
+	Saturation:	0.704208
+	Value:		0.445546
+mushroom:
+	Hue:		0.200015
+	Saturation:	0.233540
+	Value:		0.451043
+mustard brown:
+	Hue:		0.044914
+	Saturation:	0.313627
+	Value:		0.255050
+dark sand:
+	Hue:		0.064074
+	Saturation:	0.714101
+	Value:		0.457501
+mustard green:
+	Hue:		0.065074
+	Saturation:	0.168318
+	Value:		0.268750
+squash:
+	Hue:		0.056361
+	Saturation:	0.364915
+	Value:		0.277651
+marine blue:
+	Hue:		0.104933
+	Saturation:	0.377468
+	Value:		0.504394
+light light blue:
+	Hue:		0.241324
+	Saturation:	0.322775
+	Value:		0.123008
+pale aqua:
+	Hue:		0.082567
+	Saturation:	0.406166
+	Value:		0.120612
+light indigo:
+	Hue:		0.105514
+	Saturation:	0.437980
+	Value:		0.295948
+burnt umber:
+	Hue:		0.087835
+	Saturation:	0.290255
+	Value:		0.395717
+darker green:
+	Hue:		0.132460
+	Saturation:	0.276568
+	Value:		0.319542
+midnight blue:
+	Hue:		0.151457
+	Saturation:	0.363081
+	Value:		0.315979
+light forest green:
+	Hue:		0.182044
+	Saturation:	0.632065
+	Value:		0.305050
+green apple:
+	Hue:		0.151443
+	Saturation:	0.258732
+	Value:		0.285529
+red-orange:
+	Hue:		0.037290
+	Saturation:	0.254428
+	Value:		0.213071
+easter green:
+	Hue:		0.180974
+	Saturation:	0.468278
+	Value:		0.154313
+greyish blue:
+	Hue:		0.127623
+	Saturation:	0.421773
+	Value:		0.377146
+dark seafoam:
+	Hue:		0.108360
+	Saturation:	0.345458
+	Value:		0.328916
+yellow-brown:
+	Hue:		0.057632
+	Saturation:	0.374142
+	Value:		0.324351
+blue-green:
+	Hue:		0.094416
+	Saturation:	0.491639
+	Value:		0.522993
+moss green:
+	Hue:		0.125869
+	Saturation:	0.677944
+	Value:		0.384892
+light plum:
+	Hue:		0.147802
+	Saturation:	0.514371
+	Value:		0.243067
+ugly:
+	Hue:		0.138274
+	Saturation:	0.395000
+	Value:		0.319507
+dark cyan:
+	Hue:		0.086339
+	Saturation:	0.402336
+	Value:		0.413264
+taupe:
+	Hue:		0.123802
+	Saturation:	0.389897
+	Value:		0.372067
+dark fuschia:
+	Hue:		0.100137
+	Saturation:	0.231189
+	Value:		0.317367
+dark yellow:
+	Hue:		0.056947
+	Saturation:	0.305046
+	Value:		0.276842
+slime green:
+	Hue:		0.120400
+	Saturation:	0.231436
+	Value:		0.352597
+bottle green:
+	Hue:		0.129113
+	Saturation:	0.417493
+	Value:		0.365426
+shamrock:
+	Hue:		0.119416
+	Saturation:	0.225621
+	Value:		0.446971
+british racing green:
+	Hue:		0.158755
+	Saturation:	0.274976
+	Value:		0.301960
+pale red:
+	Hue:		0.026903
+	Saturation:	0.335457
+	Value:		0.269656
+tree green:
+	Hue:		0.169772
+	Saturation:	0.377920
+	Value:		0.363384
+light royal blue:
+	Hue:		0.134582
+	Saturation:	0.376037
+	Value:		0.229242
+grey green:
+	Hue:		0.261489
+	Saturation:	0.316463
+	Value:		0.373863
+eggshell:
+	Hue:		0.128216
+	Saturation:	0.253270
+	Value:		0.098842
+gross green:
+	Hue:		0.157012
+	Saturation:	0.184240
+	Value:		0.305662
+algae green:
+	Hue:		0.250245
+	Saturation:	0.284332
+	Value:		0.426307
+pale green:
+	Hue:		0.204531
+	Saturation:	0.441498
+	Value:		0.197367
+purplish brown:
+	Hue:		0.083643
+	Saturation:	0.359942
+	Value:		0.523790
+carnation:
+	Hue:		0.114819
+	Saturation:	0.540872
+	Value:		0.123958
+grass green:
+	Hue:		0.149618
+	Saturation:	0.357759
+	Value:		0.383595
+bright sky blue:
+	Hue:		0.082399
+	Saturation:	0.265793
+	Value:		0.116379
+ugly yellow:
+	Hue:		0.065477
+	Saturation:	0.274376
+	Value:		0.231213
+yellowish orange:
+	Hue:		0.045222
+	Saturation:	0.274522
+	Value:		0.171187
+dusk:
+	Hue:		0.335624
+	Saturation:	0.737969
+	Value:		0.517384
+dark mint:
+	Hue:		0.136998
+	Saturation:	0.313250
+	Value:		0.340723
+barney:
+	Hue:		0.156121
+	Saturation:	0.339583
+	Value:		0.445906
+lightish red:
+	Hue:		0.103292
+	Saturation:	0.308771
+	Value:		0.138631
+medium purple:
+	Hue:		0.113108
+	Saturation:	0.555977
+	Value:		0.294411
+dark aquamarine:
+	Hue:		0.105097
+	Saturation:	0.247232
+	Value:		0.411332
+light green-blue:
+	Hue:		0.124681
+	Saturation:	0.357506
+	Value:		0.187131
+soft green:
+	Hue:		0.125468
+	Saturation:	0.421010
+	Value:		0.255305
+deep sky blue:
+	Hue:		0.097917
+	Saturation:	0.263231
+	Value:		0.218207
+heather:
+	Hue:		0.385127
+	Saturation:	0.373787
+	Value:		0.336892
+mulberry:
+	Hue:		0.082031
+	Saturation:	0.242010
+	Value:		0.325615
+jungle green:
+	Hue:		0.118552
+	Saturation:	0.261973
+	Value:		0.460724
+butter:
+	Hue:		0.070040
+	Saturation:	0.336042
+	Value:		0.092328
+medium brown:
+	Hue:		0.059719
+	Saturation:	0.365936
+	Value:		0.340698
+blood orange:
+	Hue:		0.055825
+	Saturation:	0.291161
+	Value:		0.182478
+piss yellow:
+	Hue:		0.060635
+	Saturation:	0.359967
+	Value:		0.168273
+light olive:
+	Hue:		0.076535
+	Saturation:	0.491682
+	Value:		0.276701
+ocean:
+	Hue:		0.117245
+	Saturation:	0.258780
+	Value:		0.335473
+sap green:
+	Hue:		0.112547
+	Saturation:	0.216147
+	Value:		0.405277
+medium grey:
+	Hue:		0.476843
+	Saturation:	0.204551
+	Value:		0.341035
+mint green:
+	Hue:		0.109990
+	Saturation:	0.572824
+	Value:		0.161076
+light navy blue:
+	Hue:		0.118647
+	Saturation:	0.504058
+	Value:		0.303251
+powder blue:
+	Hue:		0.131468
+	Saturation:	0.424968
+	Value:		0.183800
+dirt brown:
+	Hue:		0.075407
+	Saturation:	0.383073
+	Value:		0.363034
+dull brown:
+	Hue:		0.114486
+	Saturation:	0.382736
+	Value:		0.314593
+ocean blue:
+	Hue:		0.110336
+	Saturation:	0.326718
+	Value:		0.435622
+dusty blue:
+	Hue:		0.103579
+	Saturation:	0.373118
+	Value:		0.280855
+plum:
+	Hue:		0.107683
+	Saturation:	0.491757
+	Value:		0.383689
+flesh:
+	Hue:		0.084656
+	Saturation:	0.349035
+	Value:		0.150498
+emerald:
+	Hue:		0.095232
+	Saturation:	0.272604
+	Value:		0.479268
+bright light green:
+	Hue:		0.184772
+	Saturation:	0.218680
+	Value:		0.115741
+olive brown:
+	Hue:		0.056294
+	Saturation:	0.532328
+	Value:		0.350557
+light turquoise:
+	Hue:		0.092359
+	Saturation:	0.589614
+	Value:		0.166640
+dark olive green:
+	Hue:		0.133667
+	Saturation:	0.277614
+	Value:		0.234523
+pale pink:
+	Hue:		0.198401
+	Saturation:	0.329392
+	Value:		0.115659
+dark forest green:
+	Hue:		0.208292
+	Saturation:	0.408889
+	Value:		0.249062
+reddish brown:
+	Hue:		0.049195
+	Saturation:	0.431425
+	Value:		0.388181
+parchment:
+	Hue:		0.098924
+	Saturation:	0.294016
+	Value:		0.133454
+apple:
+	Hue:		0.141138
+	Saturation:	0.373407
+	Value:		0.156272
+green-blue:
+	Hue:		0.080100
+	Saturation:	0.412497
+	Value:		0.498382
+sunflower:
+	Hue:		0.071905
+	Saturation:	0.336364
+	Value:		0.128045
+light yellow:
+	Hue:		0.048517
+	Saturation:	0.362000
+	Value:		0.083673
+cherry:
+	Hue:		0.039133
+	Saturation:	0.198901
+	Value:		0.257253
+very light pink:
+	Hue:		0.222136
+	Saturation:	0.210325
+	Value:		0.088416
+sky:
+	Hue:		0.125601
+	Saturation:	0.619822
+	Value:		0.169380
+pale turquoise:
+	Hue:		0.109962
+	Saturation:	0.413895
+	Value:		0.196834
+neon purple:
+	Hue:		0.077898
+	Saturation:	0.295867
+	Value:		0.197662
+light violet:
+	Hue:		0.132144
+	Saturation:	0.542402
+	Value:		0.229195
+chartreuse:
+	Hue:		0.073942
+	Saturation:	0.319297
+	Value:		0.208615
+true green:
+	Hue:		0.101427
+	Saturation:	0.210156
+	Value:		0.439061
+dark sea green:
+	Hue:		0.089061
+	Saturation:	0.383580
+	Value:		0.389236
+periwinkle:
+	Hue:		0.123329
+	Saturation:	0.450249
+	Value:		0.224815
+hospital green:
+	Hue:		0.107624
+	Saturation:	0.502634
+	Value:		0.241287
+leaf green:
+	Hue:		0.150948
+	Saturation:	0.360525
+	Value:		0.347423
+light neon green:
+	Hue:		0.195303
+	Saturation:	0.312072
+	Value:		0.150801
+shocking pink:
+	Hue:		0.138019
+	Saturation:	0.128016
+	Value:		0.113538
+salmon pink:
+	Hue:		0.081892
+	Saturation:	0.333401
+	Value:		0.142059
+turquoise:
+	Hue:		0.092986
+	Saturation:	0.408050
+	Value:		0.312178
+aubergine:
+	Hue:		0.165874
+	Saturation:	0.293638
+	Value:		0.338623
+shit green:
+	Hue:		0.103596
+	Saturation:	0.331922
+	Value:		0.427264
+light red:
+	Hue:		0.064891
+	Saturation:	0.353888
+	Value:		0.202984
+ultramarine:
+	Hue:		0.115046
+	Saturation:	0.233623
+	Value:		0.368049
+dull pink:
+	Hue:		0.116373
+	Saturation:	0.350047
+	Value:		0.258474
+pale blue:
+	Hue:		0.184892
+	Saturation:	0.446730
+	Value:		0.161768
+reddish orange:
+	Hue:		0.049091
+	Saturation:	0.256578
+	Value:		0.192742
+pale magenta:
+	Hue:		0.224761
+	Saturation:	0.602421
+	Value:		0.209984
+dark mauve:
+	Hue:		0.116770
+	Saturation:	0.422269
+	Value:		0.326425
+olive green:
+	Hue:		0.092636
+	Saturation:	0.466147
+	Value:		0.367318
+cool green:
+	Hue:		0.105872
+	Saturation:	0.067222
+	Value:		0.410196
+aqua blue:
+	Hue:		0.083431
+	Saturation:	0.382614
+	Value:		0.229867
+light greenish blue:
+	Hue:		0.105471
+	Saturation:	0.565590
+	Value:		0.233701
+faded yellow:
+	Hue:		0.071145
+	Saturation:	0.479337
+	Value:		0.103149
+nude:
+	Hue:		0.116198
+	Saturation:	0.383167
+	Value:		0.163585
+fern green:
+	Hue:		0.196347
+	Saturation:	0.389642
+	Value:		0.414244
+light beige:
+	Hue:		0.087945
+	Saturation:	0.310728
+	Value:		0.157385
+banana yellow:
+	Hue:		0.065240
+	Saturation:	0.404401
+	Value:		0.080933
+bright blue:
+	Hue:		0.200021
+	Saturation:	0.191328
+	Value:		0.147791
+dark lime green:
+	Hue:		0.131433
+	Saturation:	0.234875
+	Value:		0.281685
+clay:
+	Hue:		0.068532
+	Saturation:	0.533230
+	Value:		0.332475
+muddy brown:
+	Hue:		0.086350
+	Saturation:	0.467001
+	Value:		0.371707
+rosy pink:
+	Hue:		0.102880
+	Saturation:	0.447314
+	Value:		0.222565
+burnt orange:
+	Hue:		0.065970
+	Saturation:	0.236213
+	Value:		0.227899
+wintergreen:
+	Hue:		0.095202
+	Saturation:	0.426336
+	Value:		0.210954
+dark indigo:
+	Hue:		0.099518
+	Saturation:	0.314048
+	Value:		0.418950
+eggshell blue:
+	Hue:		0.106645
+	Saturation:	0.222691
+	Value:		0.169865
+mauve:
+	Hue:		0.168886
+	Saturation:	0.481689
+	Value:		0.403012
+pinkish orange:
+	Hue:		0.092391
+	Saturation:	0.237792
+	Value:		0.136946
+very pale blue:
+	Hue:		0.307061
+	Saturation:	0.308699
+	Value:		0.111846
+deep blue:
+	Hue:		0.097727
+	Saturation:	0.233190
+	Value:		0.476031
+dark brown:
+	Hue:		0.124130
+	Saturation:	0.539053
+	Value:		0.214200
+ultramarine blue:
+	Hue:		0.128729
+	Saturation:	0.157705
+	Value:		0.450995
+butterscotch:
+	Hue:		0.061659
+	Saturation:	0.357922
+	Value:		0.225297
+orchid:
+	Hue:		0.999455
+	Saturation:	0.505121
+	Value:		0.322348
+gross:
+	Hue:		0.094486
+	Saturation:	0.337119
+	Value:		0.424016
+light seafoam:
+	Hue:		0.091974
+	Saturation:	0.540340
+	Value:		0.152031
+leaf:
+	Hue:		0.156361
+	Saturation:	0.387159
+	Value:		0.386652
+purple:
+	Hue:		0.129210
+	Saturation:	0.439037
+	Value:		0.231292
+ice:
+	Hue:		0.173014
+	Saturation:	0.120617
+	Value:		0.116207
+indigo:
+	Hue:		0.078048
+	Saturation:	0.418237
+	Value:		0.363018
+blue violet:
+	Hue:		0.078599
+	Saturation:	0.347149
+	Value:		0.393758
+dark grey blue:
+	Hue:		0.223398
+	Saturation:	0.534403
+	Value:		0.395266
+mid blue:
+	Hue:		0.109028
+	Saturation:	0.378377
+	Value:		0.373695
+dusty red:
+	Hue:		0.084392
+	Saturation:	0.303829
+	Value:		0.315320
+dusty green:
+	Hue:		0.210906
+	Saturation:	0.357138
+	Value:		0.306757
+khaki:
+	Hue:		0.088397
+	Saturation:	0.496830
+	Value:		0.421925
+wheat:
+	Hue:		0.071427
+	Saturation:	0.437615
+	Value:		0.243082
+greyish purple:
+	Hue:		0.258451
+	Saturation:	0.301261
+	Value:		0.317313
+icky green:
+	Hue:		0.136277
+	Saturation:	0.279619
+	Value:		0.374250
+bright lavender:
+	Hue:		0.117014
+	Saturation:	0.386441
+	Value:		0.158641
+tomato red:
+	Hue:		0.991538
+	Saturation:	0.261606
+	Value:		0.277507
+dark purple:
+	Hue:		0.166060
+	Saturation:	0.517489
+	Value:		0.363384
+dull teal:
+	Hue:		0.107252
+	Saturation:	0.396298
+	Value:		0.370852
+raspberry:
+	Hue:		0.072938
+	Saturation:	0.323746
+	Value:		0.317754
+ochre:
+	Hue:		0.082610
+	Saturation:	0.323913
+	Value:		0.275960
+iris:
+	Hue:		0.148212
+	Saturation:	0.368576
+	Value:		0.414661
+stone:
+	Hue:		0.139622
+	Saturation:	0.265431
+	Value:		0.465499
+turquoise blue:
+	Hue:		0.088745
+	Saturation:	0.181857
+	Value:		0.226723
+army green:
+	Hue:		0.097620
+	Saturation:	0.199365
+	Value:		0.364494
+purplish grey:
+	Hue:		0.323058
+	Saturation:	0.282152
+	Value:		0.469789
+light grey:
+	Hue:		0.472559
+	Saturation:	0.169494
+	Value:		0.261019
+coral:
+	Hue:		0.043445
+	Saturation:	0.304913
+	Value:		0.135140
+bright red:
+	Hue:		0.060048
+	Saturation:	0.144721
+	Value:		0.116224
+bluish purple:
+	Hue:		0.076940
+	Saturation:	0.338265
+	Value:		0.356093
+vivid blue:
+	Hue:		0.145584
+	Saturation:	0.191847
+	Value:		0.141353
+pistachio:
+	Hue:		0.232722
+	Saturation:	0.415599
+	Value:		0.179839
+baby poop:
+	Hue:		0.075332
+	Saturation:	0.323030
+	Value:		0.343664
+beige:
+	Hue:		0.093996
+	Saturation:	0.398911
+	Value:		0.254351
+cranberry:
+	Hue:		0.066779
+	Saturation:	0.211372
+	Value:		0.335705
+azure:
+	Hue:		0.107251
+	Saturation:	0.336425
+	Value:		0.210430
+seaweed green:
+	Hue:		0.153334
+	Saturation:	0.652542
+	Value:		0.579936
+hot magenta:
+	Hue:		0.113256
+	Saturation:	0.164134
+	Value:		0.174543
+brownish pink:
+	Hue:		0.103561
+	Saturation:	0.311556
+	Value:		0.332236
+muted green:
+	Hue:		0.187645
+	Saturation:	0.441319
+	Value:		0.306655
+amber:
+	Hue:		0.070335
+	Saturation:	0.207670
+	Value:		0.180950
+lemon yellow:
+	Hue:		0.040553
+	Saturation:	0.396412
+	Value:		0.093746
+moss:
+	Hue:		0.162414
+	Saturation:	0.644208
+	Value:		0.405996
+dark orange:
+	Hue:		0.067828
+	Saturation:	0.218133
+	Value:		0.211418
+greeny grey:
+	Hue:		0.335688
+	Saturation:	0.299077
+	Value:		0.449187
+dark salmon:
+	Hue:		0.038590
+	Saturation:	0.308818
+	Value:		0.263770
+mocha:
+	Hue:		0.087985
+	Saturation:	0.342694
+	Value:		0.334512
+cocoa:
+	Hue:		0.131930
+	Saturation:	0.374091
+	Value:		0.498605
+dusky purple:
+	Hue:		0.255202
+	Saturation:	0.322274
+	Value:		0.332873
+muave:
+	Hue:		0.185826
+	Saturation:	0.711605
+	Value:		0.429422
+kelly green:
+	Hue:		0.125725
+	Saturation:	0.259462
+	Value:		0.387238
+sandy brown:
+	Hue:		0.051126
+	Saturation:	0.426932
+	Value:		0.314964
+lighter purple:
+	Hue:		0.103118
+	Saturation:	0.558013
+	Value:		0.327468
+purplish:
+	Hue:		0.259314
+	Saturation:	0.638899
+	Value:		0.450670
+blue-purple:
+	Hue:		0.076182
+	Saturation:	0.446187
+	Value:		0.375092
+maize:
+	Hue:		0.054608
+	Saturation:	0.376923
+	Value:		0.224774
+pinkish red:
+	Hue:		0.057299
+	Saturation:	0.332336
+	Value:		0.236471
+orangish brown:
+	Hue:		0.081811
+	Saturation:	0.260183
+	Value:		0.311307
+golden brown:
+	Hue:		0.050101
+	Saturation:	0.260555
+	Value:		0.271185
+turquoise green:
+	Hue:		0.072590
+	Saturation:	0.267420
+	Value:		0.314435
+light pink:
+	Hue:		0.216564
+	Saturation:	0.385359
+	Value:		0.102684
+soft purple:
+	Hue:		0.116699
+	Saturation:	0.371283
+	Value:		0.442001
+brown-red:
+	Hue:		0.055540
+	Saturation:	0.356959
+	Value:		0.364843
+pastel yellow:
+	Hue:		0.054957
+	Saturation:	0.351239
+	Value:		0.084087
+vibrant purple:
+	Hue:		0.127930
+	Saturation:	0.228451
+	Value:		0.200695
+rusty orange:
+	Hue:		0.059571
+	Saturation:	0.103329
+	Value:		0.219997
+mid green:
+	Hue:		0.167937
+	Saturation:	0.426855
+	Value:		0.403531
+olive drab:
+	Hue:		0.112765
+	Saturation:	0.700071
+	Value:		0.406203
+very light purple:
+	Hue:		0.185557
+	Saturation:	0.147742
+	Value:		0.148448
+ivory:
+	Hue:		0.106775
+	Saturation:	0.274897
+	Value:		0.100890
+tealish:
+	Hue:		0.123511
+	Saturation:	0.424199
+	Value:		0.400071
+french blue:
+	Hue:		0.135096
+	Saturation:	0.357722
+	Value:		0.331735
+bluish green:
+	Hue:		0.083380
+	Saturation:	0.422340
+	Value:		0.461967
+bright olive:
+	Hue:		0.086401
+	Saturation:	0.127545
+	Value:		0.386352
+medium green:
+	Hue:		0.161692
+	Saturation:	0.304399
+	Value:		0.335232
+spam:
+	Hue:		0.700196
+	Saturation:	0.647316
+	Value:		0.221748
+hiccup:
+	Hue:		0.894056
+	Saturation:	0.455939
+	Value:		0.209782
+blueish:
+	Hue:		0.237278
+	Saturation:	0.611412
+	Value:		0.314583
+pale mauve:
+	Hue:		0.278764
+	Saturation:	0.245208
+	Value:		0.253523
+coral pink:
+	Hue:		0.110880
+	Saturation:	0.387659
+	Value:		0.177788
+faded purple:
+	Hue:		0.214249
+	Saturation:	0.334283
+	Value:		0.425234
+apricot:
+	Hue:		0.085064
+	Saturation:	0.325168
+	Value:		0.116884
+dark lilac:
+	Hue:		0.174352
+	Saturation:	0.378401
+	Value:		0.403360
+brown-grey:
+	Hue:		0.085128
+	Saturation:	0.270065
+	Value:		0.432486
+strawberry:
+	Hue:		0.068189
+	Saturation:	0.318250
+	Value:		0.192448
+light cyan:
+	Hue:		0.099121
+	Saturation:	0.417654
+	Value:		0.100477
+purple-red:
+	Hue:		0.999596
+	Saturation:	0.329560
+	Value:		0.283846
+sapphire:
+	Hue:		0.126624
+	Saturation:	0.335829
+	Value:		0.598630
+sea blue:
+	Hue:		0.102605
+	Saturation:	0.340778
+	Value:		0.320803
+dark blue-green:
+	Hue:		0.127067
+	Saturation:	0.424257
+	Value:		0.307048
+grass:
+	Hue:		0.146935
+	Saturation:	0.399783
+	Value:		0.391725
+rust:
+	Hue:		0.056437
+	Saturation:	0.333658
+	Value:		0.332045
+bluey purple:
+	Hue:		0.056913
+	Saturation:	0.465523
+	Value:		0.373965
+russet:
+	Hue:		0.066613
+	Saturation:	0.338813
+	Value:		0.355279
+rust orange:
+	Hue:		0.049807
+	Saturation:	0.210795
+	Value:		0.285770
+light fuschia:
+	Hue:		0.132020
+	Saturation:	0.406552
+	Value:		0.161984
+very dark blue:
+	Hue:		0.215917
+	Saturation:	0.213748
+	Value:		0.295346
+sepia:
+	Hue:		0.102326
+	Saturation:	0.594143
+	Value:		0.377316
+maroon:
+	Hue:		0.093215
+	Saturation:	0.329797
+	Value:		0.378299
+light sea green:
+	Hue:		0.117548
+	Saturation:	0.398963
+	Value:		0.157676
+sunflower yellow:
+	Hue:		0.066887
+	Saturation:	0.234519
+	Value:		0.113921
+purplish blue:
+	Hue:		0.081184
+	Saturation:	0.451337
+	Value:		0.321287
+spring green:
+	Hue:		0.172799
+	Saturation:	0.277290
+	Value:		0.208626
+light blue:
+	Hue:		0.129148
+	Saturation:	0.733953
+	Value:		0.164510
+lime green:
+	Hue:		0.121840
+	Saturation:	0.275088
+	Value:		0.155000
+shit:
+	Hue:		0.103576
+	Saturation:	0.367772
+	Value:		0.478989
+cream:
+	Hue:		0.091322
+	Saturation:	0.345840
+	Value:		0.097176
+lemon:
+	Hue:		0.054665
+	Saturation:	0.240274
+	Value:		0.100967
+peach:
+	Hue:		0.082584
+	Saturation:	0.365486
+	Value:		0.100144
+bright violet:
+	Hue:		0.105475
+	Saturation:	0.251617
+	Value:		0.188954
+pale:
+	Hue:		0.107804
+	Saturation:	0.385439
+	Value:		0.156317
+diarrhea:
+	Hue:		0.073634
+	Saturation:	0.104562
+	Value:		0.202939
+brownish orange:
+	Hue:		0.077618
+	Saturation:	0.312522
+	Value:		0.239315
+bubblegum:
+	Hue:		0.120114
+	Saturation:	0.401975
+	Value:		0.125420
+bright yellow green:
+	Hue:		0.085164
+	Saturation:	0.216292
+	Value:		0.135206
+rose pink:
+	Hue:		0.092289
+	Saturation:	0.406879
+	Value:		0.208197
+purple blue:
+	Hue:		0.081255
+	Saturation:	0.343769
+	Value:		0.371977
+fluro green:
+	Hue:		0.121496
+	Saturation:	0.180213
+	Value:		0.102295
+dusky pink:
+	Hue:		0.102559
+	Saturation:	0.399519
+	Value:		0.252398
+teal blue:
+	Hue:		0.064092
+	Saturation:	0.272554
+	Value:		0.452966
+evergreen:
+	Hue:		0.171305
+	Saturation:	0.348149
+	Value:		0.388605
+pale peach:
+	Hue:		0.125483
+	Saturation:	0.328065
+	Value:		0.105297
+poop:
+	Hue:		0.082047
+	Saturation:	0.258700
+	Value:		0.382889
+bright indigo:
+	Hue:		0.130145
+	Saturation:	0.298781
+	Value:		0.221669
+mustard:
+	Hue:		0.055085
+	Saturation:	0.330974
+	Value:		0.237299
+military green:
+	Hue:		0.163100
+	Saturation:	0.541833
+	Value:		0.351812
+sea green:
+	Hue:		0.088481
+	Saturation:	0.316157
+	Value:		0.299813
+bright green:
+	Hue:		0.112787
+	Saturation:	0.197203
+	Value:		0.159847
+vibrant green:
+	Hue:		0.105922
+	Saturation:	0.216495
+	Value:		0.284642
+dark yellow-green:
+	Hue:		0.091640
+	Saturation:	0.303904
+	Value:		0.337307
+light brown:
+	Hue:		0.071488
+	Saturation:	0.535163
+	Value:		0.296358
+light teal:
+	Hue:		0.099874
+	Saturation:	0.671302
+	Value:		0.272781
+orangish red:
+	Hue:		0.065627
+	Saturation:	0.191020
+	Value:		0.240750
+dark beige:
+	Hue:		0.094389
+	Saturation:	0.448640
+	Value:		0.289418
+drab:
+	Hue:		0.123639
+	Saturation:	0.531969
+	Value:		0.426378
+mustard yellow:
+	Hue:		0.057870
+	Saturation:	0.302580
+	Value:		0.241928
+tan:
+	Hue:		0.075402
+	Saturation:	0.431053
+	Value:		0.294791
+aquamarine:
+	Hue:		0.094247
+	Saturation:	0.424163
+	Value:		0.251501
+dull yellow:
+	Hue:		0.053103
+	Saturation:	0.471431
+	Value:		0.188062
+highlighter green:
+	Hue:		0.139721
+	Saturation:	0.164180
+	Value:		0.086240
+greenish brown:
+	Hue:		0.063796
+	Saturation:	0.384725
+	Value:		0.390056
+blurple:
+	Hue:		0.080500
+	Saturation:	0.366418
+	Value:		0.215889
+macaroni and cheese:
+	Hue:		0.055853
+	Saturation:	0.378450
+	Value:		0.106353
+stormy blue:
+	Hue:		0.112017
+	Saturation:	0.401991
+	Value:		0.398276
+light seafoam green:
+	Hue:		0.186723
+	Saturation:	0.391969
+	Value:		0.137808
+ocean green:
+	Hue:		0.104265
+	Saturation:	0.279352
+	Value:		0.326802
+grape purple:
+	Hue:		0.209867
+	Saturation:	0.308747
+	Value:		0.547463
+shamrock green:
+	Hue:		0.162815
+	Saturation:	0.188845
+	Value:		0.395052
+light blue-green:
+	Hue:		0.090898
+	Saturation:	0.618294
+	Value:		0.179000
+slate blue:
+	Hue:		0.115303
+	Saturation:	0.398305
+	Value:		0.423688
+dark green:
+	Hue:		0.216654
+	Saturation:	0.401627
+	Value:		0.352970

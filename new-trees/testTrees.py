@@ -1,8 +1,9 @@
 from sklearn.ensemble import RandomForestRegressor
 from dataManip import *
 import pickle
+import numpy as np
 
-directory = "./Full + Broadness - Availability - Adjust"
+directory = "./Split + Broadness - Availability - Adjust"
 
 with open("%s/forest_regressor.pkl" % (directory), "r") as fp:
     forests = pickle.load(fp)
@@ -12,12 +13,15 @@ with open("%s/testing_data.pkl" % (directory), "r") as fp:
 
 initial_results = []
 
-for current in forests:
-    initial_results.append(current.predict([x[0][1:38] + x[0][39:] for x in testing_data]))
+for i, current in enumerate(forests):
+    initial_results.append(([current.predict(x[0][i]) for x in testing_data]))
 
 results = []
-for i in range(len(initial_results[0])):
-    results.append([x[i] for x in initial_results])
+
+for x, y, z in zip(initial_results[0], initial_results[1], initial_results[2]):
+    temp = np.append(x, y)
+    temp = np.append(temp, z)
+    results.append(temp)
 
 dkl_tests = []
 
@@ -25,8 +29,8 @@ total = len(results)
 
 fp = open("%s/raw_output.txt" % (directory), "w")
 
-for i, (x, y) in enumerate(zip(results, [x[1][0] for x in testing_data])):
-    print "Testing %d out of %d"  % (i+1, total)
+for i, (x, y) in enumerate(zip(results, [x[1] for x in testing_data])):
+    print "Testing %d out of %d: %s."  % (i+1, total, y)
     predicted = createDistribution(y, x)
     
     actual = LUX.getColor(y)

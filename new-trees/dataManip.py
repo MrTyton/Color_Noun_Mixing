@@ -39,11 +39,14 @@ def testDistributions(real_distribution, created_distribution):
         #+perp = 2 ^ average log likelihood
     return log_learned, log_predicted, len(test_data), 2 ** -cross_entropy
 
-def convertToVector(color_name):
+def convertToVector(color_name, broad=None):
     color = LUX.getColor(color_name)
     vector = []
     vector.append(color.availability)
-    vector.append(1) if color.hue_adjust else vector.append(0)
+    if broad is not None:
+        vector.append(broad)
+    else:    
+        vector.append(1) if color.hue_adjust else vector.append(0)
     for single_dim in color.dim_models:
         vector += single_dim.params
         vector += single_dim.stdevs

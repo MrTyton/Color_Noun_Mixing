@@ -169,7 +169,7 @@ class single_dim:
     def broadness(self, maximum):
         mu1,sh1,sc1,mu2,sh2,sc2 = self.params
         maximum = float(maximum)
-        def findPoints(start, finish, target, mean, significance = 1e-5):
+        def findPoints(start, finish, target, mean, significance = 1e-4):
             results = []
             for i in self.frange(start, finish, (finish - start) / 1000.):
                 temp = self.phi(i)

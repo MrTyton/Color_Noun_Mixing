@@ -1,7 +1,7 @@
 
 from dataManip import *
 import pickle
-destination = "."
+destination = "./Full + Broadness - Availability - Adjust"
 
 with open("composed_wordlist.pkl", "r") as fp:
     composed_wordlist = pickle.load(fp)
@@ -10,18 +10,19 @@ composed_wordlist = [(x, composed_wordlist[x][0], composed_wordlist[x][1]) for x
 
 manipulated_wordlist = []
 
-for composed, first, second in composed_wordlist:
-    first_color = LUX.getColor(first)
-    second_color = LUX.getColor(second)
-    first_mu = (first_color.dim_models[0].params[0] + first_color.dim_models[0].params[3]) / 2
-    second_mu = (second_color.dim_models[0].params[0] + second_color.dim_models[0].params[3]) / 2
+for i, (composed, first, second) in enumerate(composed_wordlist):
+    print "Working on %d out of %d, %s and %s." % (i+1, len(composed_wordlist), first, second)
+    with open("../broadness_test.pkl", "r") as fp:
+        broadness = pickle.load(fp)
+        first_comparison = sum([log(x) for x in broadness[first]])
+        second_comparison = sum([log(x) for x in broadness[second]])
     
-    if first_mu < second_mu:
-        manipulated_wordlist.append((convertToVector(first) + convertToVector(second), (composed, convertToVector(composed))))
+    if first_comparison > second_comparison:
+        manipulated_wordlist.append((convertToVector(first, broad=first_comparison) + convertToVector(second, broad=second_comparison), (composed, convertToVector(composed))))
     else:
-        manipulated_wordlist.append((convertToVector(second) + convertToVector(first), (composed, convertToVector(composed))))
+        manipulated_wordlist.append((convertToVector(second, broad=second_comparison) + convertToVector(first, broad=first_comparison), (composed, convertToVector(composed))))
 
-composed_wordlist = manipulated_wordlist #now composed_wordlist is x, y, z, with x being the lower mu,y being the higher mu, and z being the composed
+composed_wordlist = manipulated_wordlist #now composed_wordlist is x, y, z, with x being the less broad, y being the more broad, and z being the composed
 
 diff = len(composed_wordlist) - (len(composed_wordlist) / 3)
 

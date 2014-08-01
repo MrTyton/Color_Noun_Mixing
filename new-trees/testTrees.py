@@ -2,7 +2,7 @@ from sklearn.ensemble import RandomForestRegressor
 from dataManip import *
 import pickle
 
-directory = "."
+directory = "./Full + Broadness - Availability - Adjust"
 
 with open("%s/forest_regressor.pkl" % (directory), "r") as fp:
     forests = pickle.load(fp)
@@ -13,7 +13,7 @@ with open("%s/testing_data.pkl" % (directory), "r") as fp:
 initial_results = []
 
 for current in forests:
-    initial_results.append(current.predict([x[0][2:38] + x[0][40:] for x in testing_data]))
+    initial_results.append(current.predict([x[0][1:38] + x[0][39:] for x in testing_data]))
 
 results = []
 for i in range(len(initial_results[0])):
@@ -35,11 +35,11 @@ for i, (x, y) in enumerate(zip(results, [x[1][0] for x in testing_data])):
     
     fp.write("%s\n%f\n%s\n%s\n\n----\n" % (y, test_result, actual.printStats(), predicted.printStats()))
 
-#    if i == 0 or i == 5 or i == 27:
-#        print test_result
-#        plotData(y, LUX.getColor(y), predicted, axis="H")
-#        plotData(y, LUX.getColor(y), predicted, axis="S")
-#        plotData(y, LUX.getColor(y), predicted, axis="V")
+    if i == 0 or i == 5 or i == 27:
+        print test_result
+        plotData(y, LUX.getColor(y), predicted, axis="H")
+        plotData(y, LUX.getColor(y), predicted, axis="S")
+        plotData(y, LUX.getColor(y), predicted, axis="V")
 
 fp.close()    
      

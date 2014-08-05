@@ -3,7 +3,7 @@ from dataManip import *
 import pickle
 import numpy as np
 
-directory = "./Split + Broadness - Availability - Adjust"
+directory = "./Split + Skew - Availability - Adjust"
 
 with open("%s/forest_regressor.pkl" % (directory), "r") as fp:
     forests = pickle.load(fp)

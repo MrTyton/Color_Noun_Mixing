@@ -103,6 +103,9 @@ class color_label:
     def broadness(self):
         return log(self.dim_models[0].broadness(360) / 360) + log(self.dim_models[1].broadness(100) / 100) + (self.dim_models[2].broadness(100) / 100)
     
+    def skew(self):
+        return (self.dim_models[0].skew(360),  self.dim_models[1].skew(100), self.dim_models[2].skew(100))
+        
 class single_dim:
     """
     The single dimension for each color label
@@ -166,7 +169,7 @@ class single_dim:
         mu1,sh1,sc1,mu2,sh2,sc2 = self.params
         return "mu1: %f, sh1: %f, sc1: %f, mu2: %f, sh2: %f, sc2: %f" % (mu1, sh1, sc1, mu2, sh2, sc2)
     
-    def broadness(self, maximum):
+    def broadness(self, maximum, params=False):
         mu1,sh1,sc1,mu2,sh2,sc2 = self.params
         maximum = float(maximum)
         def findPoints(start, finish, target, mean, significance = 1e-4):
@@ -192,7 +195,17 @@ class single_dim:
         bottom_quartile = findPoints(-maximum if mu1 < 0 else 0, mu1, self.phi(mu1) / 2., mu1)
         upper_quartile = findPoints(mu2, maximum, self.phi(mu2) / 2., mu2)
         #print bottom_quartile, upper_quartile
-        return upper_quartile - bottom_quartile
+        if not params:
+            return upper_quartile - bottom_quartile
+        else:
+            return upper_quartile - bottom_quartile, upper_quartile, bottom_quartile
+        
+    def skew(self, maximum): #should tell us what the skewdness of the distribution is
+        broad, upper, lower = self.broadness(maximum, params=True)
+        mean = (self.params[0] + self.params[3]) / 2
+        upper = fabs(upper - mean)
+        lower = fabs(lower - mean)
+        return (upper - lower) / (broad / 2)
         
 
 class OutOfVocabularyException(Exception):

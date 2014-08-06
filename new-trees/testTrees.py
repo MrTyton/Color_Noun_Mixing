@@ -39,11 +39,9 @@ for i, (x, y) in enumerate(zip(results, [x[1] for x in testing_data])):
     
     fp.write("%s\n%f\n%s\n%s\n\n----\n" % (y, test_result, actual.printStats(), predicted.printStats()))
 
-    if i == 0 or i == 5 or i == 27:
-        print test_result
-        plotData(y, LUX.getColor(y), predicted, axis="H")
-        plotData(y, LUX.getColor(y), predicted, axis="S")
-        plotData(y, LUX.getColor(y), predicted, axis="V")
+    plotData(y, LUX.getColor(y), predicted, axis="H", filename="%s/Results/Hue/%s-hue.png" % (directory, y), created=True)
+    plotData(y, LUX.getColor(y), predicted, axis="S", filename="%s/Results/Saturation/%s-saturation.png" % (directory, y), created=True)
+    plotData(y, LUX.getColor(y), predicted, axis="V", filename="%s/Results/Value/%s-value.png" % (directory, y), created=True)
 
 fp.close()    
      

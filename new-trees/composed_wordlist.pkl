@@ -176,10 +176,10 @@ p85
 p86
 g3
 tp87
-sS'pink-red'
+sS'orange-yellow'
 p88
-(g34
-g38
+(g77
+g26
 tp89
 sS'grey blue'
 p90
@@ -269,10 +269,10 @@ p128
 (g37
 g3
 tp129
-sS'yellow-orange'
+sS'puke green'
 p130
-(g26
-g77
+(g25
+g7
 tp131
 sS'midnight purple'
 p132
@@ -284,77 +284,77 @@ p134
 (g18
 g34
 tp135
-sS'orange-brown'
-p136
-(g77
-g15
-tp137
-sS'lavender blue'
-p138
-(S'lavender'
-p139
-g3
-tp140
-sS'poop green'
-p141
-(S'poop'
-p142
-g7
-tp143
-sS'lemon yellow'
-p144
-(g21
-g26
-tp145
-sS'olive green'
-p146
-(g14
-g7
-tp147
-sS'steel grey'
-p148
-(g86
-g18
-tp149
-sS'red-brown'
-p150
-(g38
-g15
-tp151
-sS'sandy brown'
-p152
-(g103
-g15
-tp153
-sS'blue violet'
-p154
-(g3
-g37
-tp155
-sS'blue-purple'
-p156
-(g3
-g11
-tp157
-sS'aqua green'
-p158
-(g65
-g7
-tp159
-sS'golden brown'
-p160
-(g80
-g15
-tp161
 sS'turquoise green'
-p162
+p136
 (g117
 g7
-tp163
+tp137
 sS'slate grey'
-p164
+p138
 (g126
 g18
+tp139
+sS'poop green'
+p140
+(S'poop'
+p141
+g7
+tp142
+sS'lemon yellow'
+p143
+(g21
+g26
+tp144
+sS'olive green'
+p145
+(g14
+g7
+tp146
+sS'steel grey'
+p147
+(g86
+g18
+tp148
+sS'red-brown'
+p149
+(g38
+g15
+tp150
+sS'sandy brown'
+p151
+(g103
+g15
+tp152
+sS'blue violet'
+p153
+(g3
+g37
+tp154
+sS'blue-purple'
+p155
+(g3
+g11
+tp156
+sS'aqua green'
+p157
+(g65
+g7
+tp158
+sS'golden brown'
+p159
+(g80
+g15
+tp160
+sS'orange-brown'
+p161
+(g77
+g15
+tp162
+sS'lavender blue'
+p163
+(S'lavender'
+p164
+g3
 tp165
 sS'rust red'
 p166
@@ -405,140 +405,134 @@ p186
 (g182
 g7
 tp187
-sS'green apple'
+sS'pink-red'
 p188
-(g7
-g31
+(g34
+g38
 tp189
-sS'orange-yellow'
-p190
-(g77
-g26
-tp191
 sS'red-orange'
-p192
+p190
 (g38
 g77
-tp193
+tp191
 sS'yellow-brown'
-p194
+p192
 (g26
 g15
-tp195
+tp193
 sS'blue-green'
-p196
+p194
 (g3
 g7
-tp197
+tp195
 sS'brown-grey'
-p198
+p196
 (g15
 g18
-tp199
+tp197
 sS'purple-pink'
+p198
+(g11
+g34
+tp199
+sS'purple-red'
 p200
 (g11
-g34
-tp201
-sS'purple-red'
-p202
-(g11
 g38
-tp203
+tp201
 sS'yellow tan'
-p204
+p202
 (g26
 g100
+tp203
+sS'yellow-orange'
+p204
+(g26
+g77
 tp205
-sS'puke green'
-p206
-(g25
-g7
-tp207
 sS'rust orange'
-p208
+p206
 (g167
 g77
-tp209
+tp207
 sS'grey green'
-p210
+p208
 (g18
 g7
-tp211
+tp209
 sS'green-grey'
-p212
+p210
 (g7
 g18
-tp213
+tp211
 sS'orange-red'
-p214
+p212
 (g77
 g38
-tp215
+tp213
 sS'rose pink'
-p216
+p214
 (g74
 g34
-tp217
+tp215
 sS'purple blue'
-p218
+p216
 (g11
 g3
-tp219
+tp217
 sS'teal blue'
-p220
+p218
 (g114
 g3
-tp221
+tp219
 sS'seafoam green'
-p222
+p220
 (g62
 g7
-tp223
+tp221
 sS'mustard yellow'
-p224
+p222
 (g182
 g26
-tp225
+tp223
 sS'brown yellow'
-p226
+p224
 (g15
 g26
+tp225
+sS'green apple'
+p226
+(g7
+g31
 tp227
-sS'blood orange'
-p228
-(S'blood'
-p229
-g77
-tp230
 sS'red-pink'
-p231
+p228
 (g38
 g34
-tp232
+tp229
 sS'poop brown'
-p233
-(g142
+p230
+(g141
 g15
-tp234
+tp231
 sS'ocean green'
-p235
+p232
 (g2
 g7
-tp236
+tp233
 sS'slate blue'
-p237
+p234
 (g126
 g3
-tp238
+tp235
 sS'red violet'
-p239
+p236
 (g38
 g37
-tp240
+tp237
 sS'sea blue'
-p241
+p238
 (g6
 g3
-tp242
+tp239
 s.

@@ -1,5 +1,5 @@
 from math import log, fabs
-from scipy.integrate import quad
+from scipy.integrate import tplquad
 import lux
 LUX = lux.LUX('lux.xml')
 import matplotlib.pyplot as plt
@@ -173,25 +173,9 @@ def r2test(name, real_distribution, generated_distribution, HSV=None):
     return r2
 
 def klDivergence(name, real_distribution, generated_distribution, HSV=None):
-    data = getData("Data", name)
-    if HSV is None:
-        real_phi = [real_distribution(x) for x in data]
-        generated_phi = [generated_distribution(x) for x in data]
-    else:
-        axis = {"H": 0, "S": 1, "V": 2}
-        axis = axis[HSV]
-        real_phi = [real_distribution.dim_models[axis].phi(x) for x in [y[axis] for y in data]]
-        generated_phi = [generated_distribution.dim_models[axis].phi(x) for x in [y[axis] for y in data]] 
-    mathy = []
-    for p, q in zip(real_phi, generated_phi):
-        if fabs(p) < 1e-7 and fabs(q) < 1e-7:
-            continue
-        logging = log((p/q),)
-        if fabs(logging) < 1e-7 and fabs(p) < 1e-7:
-            continue
-        mathy.append(logging * p)
-    Dkl = sum(mathy)
-    return Dkl
+    real_distribution([0,0,0])
+    generated_distribution([0,0,0])
+    return tplquad(lambda x, y, z: log((real_distribution.dim_models[0](x) * real_distribution.dim_models[1](y) * real_distribution.dim_models[2](z)) / (generated_distribution.dim_models[0](x) * generated_distribution.dim_models[1](y) * generated_distribution.dim_models[2](z))) * (real_distribution.dim_models[0](x) * real_distribution.dim_models[1](y) * real_distribution.dim_models[2](z)), 0, 360, lambda x : 0, lambda x: 100, lambda x: 0, lambda x: 100)
     
     
     

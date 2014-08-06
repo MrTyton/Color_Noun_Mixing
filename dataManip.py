@@ -1,4 +1,5 @@
 from math import log, fabs
+from scipy.integrate import quad
 import lux
 LUX = lux.LUX('lux.xml')
 import matplotlib.pyplot as plt

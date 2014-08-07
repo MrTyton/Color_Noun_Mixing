@@ -4,6 +4,7 @@ LUX = lux.LUX('../lux.xml')
 import matplotlib.pyplot as plt
 import numpy as np
 from copy import deepcopy
+from scipy.integrate import quad
 
 def getData(location, name, test=True):
     name = name.replace('-', '')
@@ -130,25 +131,12 @@ def r2test(name, real_distribution, generated_distribution, HSV=None):
     return r2
     
 def klDivergence(name, real_distribution, generated_distribution, HSV=None):
-    data = getData("../Data", name)
-    if HSV is None:
-        real_phi = [real_distribution(x) for x in data]
-        generated_phi = [generated_distribution(x) for x in data]
-    else:
-        axis = {"H": 0, "S": 1, "V": 2}
-        axis = axis[HSV]
-        real_phi = [real_distribution.dim_models[axis].phi(x) for x in [y[axis] for y in data]]
-        generated_phi = [generated_distribution.dim_models[axis].phi(x) for x in [y[axis] for y in data]] 
-    mathy = []
-    for p, q in zip(real_phi, generated_phi):
-        if fabs(p) < 1e-7 and fabs(q) < 1e-7:
-            continue
-        logging = log((p/q),)
-        if fabs(logging) < 1e-7 and fabs(p) < 1e-7:
-            continue
-        mathy.append(logging * p)
-    Dkl = sum(mathy)
-    return Dkl
+    real_distribution([0,0,0])
+    generated_distribution([0,0,0])
+    first_dim = quad(lambda x : log(real_distribution.dim_models[0].phi(x) / generated_distribution.dim_models[0].phi(x)) * real_distribution.dim_models[0].phi(x), 0, 360)
+    second_dim = quad(lambda x : log(real_distribution.dim_models[1].phi(x) / generated_distribution.dim_models[1].phi(x)) * real_distribution.dim_models[1].phi(x), 0, 100)
+    third_dim = quad(lambda x : log(real_distribution.dim_models[2].phi(x) / generated_distribution.dim_models[2].phi(x)) * real_distribution.dim_models[2].phi(x), 0, 100)
+    return first_dim[0] + second_dim[0] + third_dim[0]
     
     
     

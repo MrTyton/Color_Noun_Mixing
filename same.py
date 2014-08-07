@@ -105,7 +105,8 @@ def dkl():
     #log_likelihoods = [] 
     print combos
     dkl_table = []
-    for x in combos:
+    for i,x in enumerate(combos):
+        print "Working on %d out of %d." % (i+1, len(combos))
         first, second = combos[x]
         first_distribution = LUX.getColor(first)
         second_distribution = LUX.getColor(second)

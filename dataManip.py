@@ -175,7 +175,7 @@ def r2test(name, real_distribution, generated_distribution, HSV=None):
 def klDivergence(name, real_distribution, generated_distribution, HSV=None):
     real_distribution([0,0,0])
     generated_distribution([0,0,0])
-    return tplquad(lambda x, y, z: log((real_distribution.dim_models[0](x) * real_distribution.dim_models[1](y) * real_distribution.dim_models[2](z)) / (generated_distribution.dim_models[0](x) * generated_distribution.dim_models[1](y) * generated_distribution.dim_models[2](z))) * (real_distribution.dim_models[0](x) * real_distribution.dim_models[1](y) * real_distribution.dim_models[2](z)), 0, 360, lambda x : 0, lambda x: 100, lambda x: 0, lambda x: 100)
+    return tplquad(lambda x, y, z: log(real_distribution([x, y, z]) / generated_distribution([x, y, z])) * real_distribution([x, y, z]), 0, 360, lambda x : 0, lambda x: 100, lambda x, y: 0, lambda x, y: 100)
     
     
     

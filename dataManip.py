@@ -1,5 +1,5 @@
 from math import log, fabs
-from scipy.integrate import tplquad
+from scipy.integrate import tplquad, quad
 import lux
 LUX = lux.LUX('lux.xml')
 import matplotlib.pyplot as plt
@@ -175,7 +175,11 @@ def r2test(name, real_distribution, generated_distribution, HSV=None):
 def klDivergence(name, real_distribution, generated_distribution, HSV=None):
     real_distribution([0,0,0])
     generated_distribution([0,0,0])
-    return tplquad(lambda x, y, z: log(real_distribution([x, y, z]) / generated_distribution([x, y, z])) * real_distribution([x, y, z]), 0, 360, lambda x : 0, lambda x: 100, lambda x, y: 0, lambda x, y: 100)
+    first_dim = quad(lambda x : log(real_distribution.dim_models[0].phi(x) / generated_distribution.dim_models[0].phi(x)) * real_distribution.dim_models[0].phi(x), 0, 360)
+    second_dim = quad(lambda x : log(real_distribution.dim_models[1].phi(x) / generated_distribution.dim_models[1].phi(x)) * real_distribution.dim_models[1].phi(x), 0, 100)
+    third_dim = quad(lambda x : log(real_distribution.dim_models[2].phi(x) / generated_distribution.dim_models[2].phi(x)) * real_distribution.dim_models[2].phi(x), 0, 100)
+    return first_dim[0] + second_dim[0] + third_dim[0]
+    #return tplquad(lambda z, y, x :  log(real_distribution([x, y, z]) / generated_distribution([x, y, z])) * real_distribution([x, y, z]), 0, 360, lambda x : 0, lambda x: 100, lambda x, y: 0, lambda x, y: 100)
     
     
     

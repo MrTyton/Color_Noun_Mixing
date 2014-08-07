@@ -9,6 +9,8 @@ There is an accompanying CSV file.  This script opens it and offers basic functi
 from scipy.stats import gamma as gam_dist
 from math import sin, cos, atan2, pi, fabs, log
 import xml.etree.ElementTree as ET
+from scipy.integrate import quad
+
 class LUX:
     def __init__(self, filename):
         """
@@ -154,15 +156,7 @@ class single_dim:
     def auc(self, maximum):
         maximum = float(maximum)
         if self.auc_val is None:
-            h = maximum/(2 * 999.)
-            summation = 0
-            for i in self.frange(0, maximum, maximum / 1000.):
-                if i != 0 and i != maximum:
-                    summation += 2 * self.phi(i)
-                else:
-                    summation += self.phi(i)
-            ans = h * summation
-            self.auc_val = ans #/ maximum
+            self.auc_val = quad(lambda x : self.phi(x), 0, maximum)[0]
         return self.auc_val
 
     def printStats(self):

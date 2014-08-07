@@ -1,7 +1,7 @@
 
 from dataManip import *
 import pickle
-destination = "./Split + Broadness - Availability - Adjust"
+destination = "./Split + Skew + Broadness - Availability - Adjust"
 
 with open("composed_wordlist.pkl", "r") as fp:
     composed_wordlist = pickle.load(fp)
@@ -28,9 +28,9 @@ for i, (composed, first, second) in enumerate(composed_wordlist):
         second_vector[0] = second_comparison
         second_vector[1] = a
         if first_comparison > second_comparison:
-            current.append((first_vector[0:1] + first_vector[start:start+12] + second_vector[0:1] + second_vector[start:start+12]))
+            current.append((first_vector[0:2] + first_vector[start:start+12] + second_vector[0:2] + second_vector[start:start+12]))
         else:
-            current.append((second_vector[0:1] + second_vector[start:start+12] + first_vector[0:1] + first_vector[start:start+12]))
+            current.append((second_vector[0:2] + second_vector[start:start+12] + first_vector[0:2] + first_vector[start:start+12]))
         start += 12
     composed_vector = convertToVector(composed)
     manipulated_wordlist.append(((current[0], current[1], current[2]), composed, (composed_vector[2:14], composed_vector[14:26], composed_vector[26:38])))       

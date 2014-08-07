@@ -11,7 +11,7 @@ with open("broadness_test.txt", "w") as fp:
         current = LUX.getColor(x)
         current([0, 0, 0])
         a, b, c = current.broadness()
-        fp.write("%s:\n\t%f\n, %f, %f" % (x, a, b, c))
+        fp.write("%s:\n\t%f\n, %f, %f\n\n" % (x, a, b, c))
         results[x] = (a, b, c)
 with open("broadness_test.pkl", "w") as fp:
     pickle.dump(results, fp)

@@ -103,7 +103,7 @@ class color_label:
         return ans
     
     def broadness(self):
-        return log(self.dim_models[0].broadness(360) / 360) + log(self.dim_models[1].broadness(100) / 100) + (self.dim_models[2].broadness(100) / 100)
+        return log(self.dim_models[0].broadness(360) / 360) , log(self.dim_models[1].broadness(100) / 100) , (self.dim_models[2].broadness(100) / 100)
     
     def skew(self):
         return (self.dim_models[0].skew(360),  self.dim_models[1].skew(100), self.dim_models[2].skew(100))

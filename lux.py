@@ -103,7 +103,7 @@ class color_label:
         return ans
     
     def broadness(self):
-        return log(self.dim_models[0].broadness(360) / 360) , log(self.dim_models[1].broadness(100) / 100) , (self.dim_models[2].broadness(100) / 100)
+        return self.dim_models[0].broadness(360) / 360 , self.dim_models[1].broadness(100) / 100 , self.dim_models[2].broadness(100) / 100
     
     def skew(self):
         return (self.dim_models[0].skew(360),  self.dim_models[1].skew(100), self.dim_models[2].skew(100))
@@ -188,7 +188,7 @@ class single_dim:
             return min(results, key = lambda x : fabs(mean - x[0]))[0]
         bottom_quartile = findPoints(-maximum if mu1 < 0 else 0, mu1, self.phi(mu1) / 2., mu1)
         upper_quartile = findPoints(mu2, maximum, self.phi(mu2) / 2., mu2)
-        #print bottom_quartile, upper_quartile
+        print bottom_quartile, upper_quartile
         if not params:
             return upper_quartile - bottom_quartile
         else:

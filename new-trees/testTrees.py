@@ -3,12 +3,12 @@ from dataManip import *
 import pickle
 import numpy as np
 
-directory = "./Split + Skew + Broadness - Availability - Adjust"
+directory = "./Both Classifier"
 
-with open("%s/forest_regressor.pkl" % (directory), "r") as fp:
+with open("%s/forest_regressor_broad.pkl" % (directory), "r") as fp:
     forests = pickle.load(fp)
 
-with open("%s/testing_data.pkl" % (directory), "r") as fp:
+with open("%s/training_data_broad_2.pkl" % (directory), "r") as fp:
     testing_data = pickle.load(fp)
 
 initial_results = []
@@ -27,7 +27,7 @@ dkl_tests = []
 
 total = len(results)
 
-fp = open("%s/raw_output.txt" % (directory), "w")
+fp = open("%s/raw_output_broad.txt" % (directory), "w")
 
 for i, (x, y) in enumerate(zip(results, [x[1] for x in testing_data])):
     print "Testing %d out of %d: %s."  % (i+1, total, y)
@@ -39,11 +39,11 @@ for i, (x, y) in enumerate(zip(results, [x[1] for x in testing_data])):
     
     fp.write("%s\n%f\n%s\n%s\n\n----\n" % (y, test_result, actual.printStats(), predicted.printStats()))
 
-    plotData(y, LUX.getColor(y), predicted, axis="H", filename="%s/Results/Hue/%s-hue.png" % (directory, y), created=True)
-    plotData(y, LUX.getColor(y), predicted, axis="S", filename="%s/Results/Saturation/%s-saturation.png" % (directory, y), created=True)
-    plotData(y, LUX.getColor(y), predicted, axis="V", filename="%s/Results/Value/%s-value.png" % (directory, y), created=True)
+    #plotData(y, LUX.getColor(y), predicted, axis="H", filename="%s/Results/Hue/%s-hue.png" % (directory, y), created=True)
+    #plotData(y, LUX.getColor(y), predicted, axis="S", filename="%s/Results/Saturation/%s-saturation.png" % (directory, y), created=True)
+    #plotData(y, LUX.getColor(y), predicted, axis="V", filename="%s/Results/Value/%s-value.png" % (directory, y), created=True)
 
 fp.close()    
      
-with open("%s/results.pkl" % (directory), "w") as fp:
+with open("%s/results_broad.pkl" % (directory), "w") as fp:
     pickle.dump(dkl_tests, fp)

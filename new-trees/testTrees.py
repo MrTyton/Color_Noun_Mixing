@@ -27,15 +27,20 @@ dkl_tests = []
 
 total = len(results)
 
+with open("%s/averaged_data.pkl" % (directory), "r") as fp:
+    averaged_data = pickle.load(fp)
+
 fp = open("%s/raw_output.txt" % (directory), "w")
 
-for i, (x, y) in enumerate(zip(results, [x[1] for x in testing_data])):
+for i, (x, y, z) in enumerate(zip(results, [x[1] for x in testing_data], averaged_data)):
     print "Testing %d out of %d: %s."  % (i+1, total, y)
     predicted = createDistribution(y, x)
+    averaged = createDistribution(y, z)
     
     actual = LUX.getColor(y)
     test_result = klDivergence(y, actual, predicted)
-    dkl_tests.append(test_result)
+    average_result = klDivergence(y, actual, averaged)
+    dkl_tests.append((test_result, average_result))
     
     fp.write("%s\n%f\n%s\n%s\n\n----\n" % (y, test_result, actual.printStats(), predicted.printStats()))
 
